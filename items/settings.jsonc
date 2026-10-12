@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Force Update",
+        "type": "toggle",
+        "codes": "update"
+    },
+    { 
+        "name": "open_door_of_time",
+        "type": "toggle",
+        "img": "/images/settings/open_door_of_time.png",
+        "codes": "open_door_of_time"
+    },
+    {
+        "name": "logic_no_night_tokens_without_suns_song",
+        "type": "toggle",
+        "img": "/images/settings/nighttime_skulltulas_expect_sun's_song.png",
+        "codes": "logic_no_night_tokens_without_suns_song"
+    }
+]
