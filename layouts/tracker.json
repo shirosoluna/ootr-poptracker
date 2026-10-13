@@ -1,0 +1,39 @@
+{
+    "tracker_horizontal": {
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "margin": "0,0,3,0",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "left",
+                            "margin": "0,0,3,0",
+                            "content": {
+                                "type": "layout",
+                                "key": "shared_item_grid_horizontal"
+                            }
+                        }
+                    ]
+                },
+                {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "layout",
+                    "key": "tabbed_maps_horizontal"
+                }
+            ]
+                }
+            ]
+        }
+    }
+}

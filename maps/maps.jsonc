@@ -1,288 +1,288 @@
     [
     {
-        "title": "Botw",
+        "name": "Bottom of the Well",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/botw.png"
     },
     {
-        "title": "Dampe Race",
+        "name": "Dampe Race Loop",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/DampeRace.png"
     },
     {
-        "title": "Deku Tree",
+        "name": "Deku Tree",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Deku_Tree.png"
     },
     {
-        "title": "Desert Colossus",
+        "name": "Desert Colossus",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Desert_Colosus.png"
+        "img": "images/maps/Desert_Colossus.png"
     },
     {
-        "title": "Death Mountain Crater",
+        "name": "Death Mountain Crater",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/DMC.png"
     },
     {
-        "title": "Death Mountain Trail",
+        "name": "Death Mountain Trail",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/DMT.png"
     },
     {
-        "title": "DC F1",
+        "name": "DC F1",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Dodongo_CavernF1.png"
     },
     {
-        "title": "DC F2",
+        "name": "DC F2",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Dodongo_CavernF2.png"
     },
     {
-        "title": "DC Past Dragon Head",
+        "name": "DC Past Dragon Head",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Dodongo_Cavern_Past_Head.png"
     },
     {
-        "title": "Fire F1",
+        "name": "Fire F1",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Fire_Temple_BasementF2.png"
     },
     {
-        "title": "Open Lava Room",
+        "name": "Open Lava Room",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Fire_Temple_Open_Lava_Room.png"
     },
     {
-        "title": "Highest Goron and Hammer",
+        "name": "Highest Goron and Hammer",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Fire_Temple_Highest.png"
     },
     {
-        "title": "Courtyard",
+        "name": "Courtyard",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Forest_Courtyard.png"
     },
     {
-        "title": "Forest F1",
+        "name": "Forest F1",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Forest_Floor1.png"
     },
     {
-        "title": "Forest F2",
+        "name": "Forest F2",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Forest_Floor2.png"
     },
     {
-        "title": "Gerudo Fortress",
+        "name": "Gerudo Fortress",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Gerudo_Fortress.png"
     },
     {
-        "title": "Gerudo Valley",
+        "name": "Gerudo Valley",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Gerudo_Valley.png"
     },
     {
-        "title": "Goron City",
+        "name": "Goron City",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Goron_City.png"
     },
     {
-        "title": "GTG",
+        "name": "GTG",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/GTG.png"
     },
     {
-        "title": "Haunted Wasteland",
+        "name": "Haunted Wasteland",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Haunted_Wasteland.png"
     },
     {
-        "title": "Hyrule Castle",
+        "name": "Hyrule Castle",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Hyrule_Castle.png"
     },
     {
-        "title": "Hyrule Field",
+        "name": "Hyrule Field",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Hyrule_Field.png"
     },
     {
-        "title": "Ice Cavern",
+        "name": "Ice Cavern",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Ice_Cavern.png"
     },
     {
-        "title": "IGC Trials",
+        "name": "IGC Trials",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Inside_Ganons_Castle_Trials.png"
     },
     {
-        "title": "IGC Tower",
+        "name": "IGC Tower",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Inside_Ganons_Tower.png"
     },
     {
-        "title": "Past Big Octo",
+        "name": "Past Big Octo",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Jabu_Big_Octo_to_Boss.png"
     },
     {
-        "title": "Jabu Main Floor",
+        "name": "Jabu Main Floor",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Jabu_Main_Floor_Basement.png"
     },
     {
-        "title": "Kakariko Village",
+        "name": "Kakariko Village",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Kakariko_Village.png"
     },
     {
-        "title": "Kokiri Forest",
+        "name": "Kokiri Forest",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Kokiri_Forest.png"
     },
     {
-        "title": "Lake Hylia",
+        "name": "Lake Hylia",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Lake_Hylia.png"
     },
     {
-        "title": "Lon Lon Ranch",
+        "name": "Lon Lon Ranch",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/LLR.png"
     },
     {
-        "title": "Lost Woods",
+        "name": "Lost Woods",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/LW.png"
     },
     {
-        "title": "Market",
+        "name": "Market",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Market_Area.png"
     },
     {
-        "title": "Outside Ganon's Castle",
+        "name": "Outside Ganon's Castle",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Outside_Ganons_Castle.png"
     },
     {
-        "title": "Overworld",
+        "name": "Overworld",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Overworld.png"
     },
     {
-        "title": "Sacred Forest Meadow",
+        "name": "Sacred Forest Meadow",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/SFM.png"
     },
     {
-        "title": "Main Area Before Boat",
+        "name": "Main Area Before Boat",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Shadow_Temple_Before_Boat.png"
     },
     {
-        "title": "Past Boat",
+        "name": "Past Boat",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Shadow_Temple_Past_Boat.png"
     },
     {
-        "title": "Spirit Basement",
+        "name": "Spirit Basement",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Spirit_Basement_Level.png"
     },
     {
-        "title": "Child Climb",
+        "name": "Child Climb",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Spirit_Main_Area_Child_Climb.png"
     },
     {
-        "title": "Adult Climb",
+        "name": "Adult Climb",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Spirit_Temple_Adult_Climb_and_Boss.png"
     },
     {
-        "title": "Thieve's Hideout",
+        "name": "Thieve's Hideout",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Thieves_Hideout.png"
     },
     {
-        "title": "Temple of Time",
+        "name": "Temple of Time",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/ToT.png"
     },
     {
-        "title": "Water Central Columns",
+        "name": "Water Central Columns",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Water_Temple_MainArea_Columns.png"
     },
     {
-        "title": "Dark Link River Loop",
+        "name": "Dark Link River Loop",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Water_Temple_DarkLink_Loop.png"
     },
     {
-        "title": "Zora's Domain",
+        "name": "Zora's Domain",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Zoras_Domain.png"
     },
     {
-        "title": "Zora's Fountain",
+        "name": "Zora's Fountain",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Zoras_Fountain.png"
     },
     {
-        "title": "Zora's River",
+        "name": "Zora's River",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Zoras_River.png"

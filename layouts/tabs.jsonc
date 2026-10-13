@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Overworld Map",
+                "title": "Overworld",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -279,7 +279,10 @@
                                                 "DC Past Dragon Head"
                                             ]
                                         }
-                                    },
+                                    }
+                                ]
+                            }
+                        },
                         { "title": "Jabu Jabu's Belly",
                             "content": {
                             "type": "tabbed",
@@ -513,7 +516,3 @@
                     ]
                 }
             }
-        ]
-    }
-}
-

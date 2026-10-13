@@ -1,55 +1,159 @@
 [
   {
-    "name": "Desert_Colossus",
+    "name": "Desert Colossus",
+    "chest_unopened_img": "/images/items/closedchest.png",
+    "chest_opened_img": "/images/items/openchest.png",
+    "overlay_background": "#80000000",
+    "access_rules": [
+        "{}"
+    ],
     "children": [
       {
-        "name": "Great Fairy Fountain",
-        "access_rules": [
-          "toggle"
-        ],
+        "name": "Colosus Deku Scrub Grotto",
         "sections": [
           {
-            "name": "Example Section 1",
+            "name": "Colossus Deku Scrub Grotto Front",
             "item_count": 1
           },
           {
-            "name": "Example Section 2",
-            "item_count": 3
+            "name": "Colossus Deku Scrub Grotto Rear",
+            "item_count": 1
+          },
+          {
+            "name": "Colossus Grotto Beehive",
+            "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "map1",
-            "x": 1750,
-            "y": 700
-          },
-          {
-            "map": "map2",
-            "x": 1000,
-            "y": 500
+            "map": "Desert Colossus",
+            "x": 425,
+            "y": 190,
+            "size": 17
           }
         ]
       },
       {
-        "name": "Example Location 2",
-        "access_rules": [
-          //read as: progressive_toggle_2 and has more than 4 consumable
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
+        "name": "Colossus Freestanding PoH",
         "sections": [
           {
-            "name": "Example Section 1",
+            "name": "Colossus Freestanding PoH",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "map1",
-            "x": 1500,
-            "y": 400
+            "map": "Desert Colossus",
+            "x": 334,
+            "y": 174,
+            "size": 17
+          }
+        ]
+      },
+      {
+        "name": "Colossus Great Fairy Reward",
+        "sections": [
+          {
+            "name": "Colossus Great Fairy Reward",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Colossus",
+            "x": 535,
+            "y": 315,
+            "size": 17
+          }
+        ]
+      },
+      {
+        "name": "Colossus GS Bean Patch",
+        "sections": [
+          {
+            "name": "Colossus GS Bean Patch",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Colossus",
+            "x": 305,
+            "y": 192,
+            "size": 17
+          }
+        ]
+      },
+      {
+        "name": "Colossus GS Hill",
+        "sections": [
+          {
+            "name": "Colossus GS Hill",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Colossus",
+            "x": 395,
+            "y": 245,
+            "size": 17
+          }
+        ]
+      },
+      {
+        "name": "Colossus GS Tree",
+        "sections": [
+          {
+            "name": "Colossus GS Tree",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Colossus",
+            "x": 110,
+            "y": 217,
+            "size": 17
+          }
+        ]
+      },
+      {
+        "name": "Colossus Tree Wonderitems",
+        "sections": [
+          {
+            "name": "Colossus Tree Wonderitem",
+            "clear_as_group": false,
+            "item_count": 4
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Colossus",
+            "x": 85,
+            "y": 245,
+            "size": 17
+          }
+        ]
+      },
+      {
+        "name": "Colossus Child Tree Wonderitem",
+        "sections": [
+          {
+            "name": "Colossus Tree Wonderitem 3 Child",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Colossus",
+            "x": 85,
+            "y": 245,
+            "size": 17
           }
         ]
       }
     ]
   }
 ]
+Sheik at Colossus: 67019,
