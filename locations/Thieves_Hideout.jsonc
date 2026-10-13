@@ -1,0 +1,241 @@
+[
+  {
+    // Region name and default chest imagines
+    "name": "",
+    "chest_unopened_img": "/images/items/closedchest.png",
+    "chest_opened_img": "/images/items/openchest.png",
+    "overlay_background": "#80000000",
+    
+    // LUA shit
+    "access_rules": [
+        "{}"
+    ],
+    
+    // All the map squares
+    "children": [
+      
+      // Square on map
+      // Hideout 1 Torch Jail
+      {
+        "name": "Hideout 1 Torch Jail",
+        "sections": [
+          // List of individual locations in popup
+          // item count shows a higher number on a single icon
+          {
+            "name": "Hideout 1 Torch Jail Gerudo Key",
+            "item_count": 1
+          },
+          {
+            "name": "Hideout 1 Torch Jail Crate",
+            "item_count": 1
+          },
+          {
+            "name": "Hideout 1 Torch Jail Pots",
+            "item_count": 3
+          },
+          {
+            "name": "Hideout 1 Torch Jail Wonderitems",
+            "item_count": 2
+          },
+          {
+            "name": "Hideout Gerudo Membership Card",
+            "item_count": 1
+          }
+        ],
+        // coordinates on the image
+        "map_locations": [
+          {
+            "map": "Thieves Hideout",
+            "x": ,
+            "y": ,
+            "size": 
+          }
+        ]
+      }
+
+
+      // Square on map
+      // Hideout 2 Torch Jail
+      {
+        "name": "Hideout 2 Torch Jail",
+        "sections": [
+          // List of individual locations in popup
+          // item count shows a higher number on a single icon
+          {
+            "name": "Hideout 2 Torches Jail Gerudo Key",
+            "item_count": 1
+          },
+          {
+            "name": "Hideout 2 Torch Jail Pots",
+            "item_count": 7
+          },
+          {
+            "name": "Hideout 2 Torch Jail Crates",
+            "item_count": 2
+          },
+          {
+            "name": "Hideout 2 Torch Jail Wonderitems",
+            "item_count": 2
+          }
+        ],
+        // coordinates on the image
+        "map_locations": [
+          {
+            "map": "Thieves Hideout",
+            "x": ,
+            "y": ,
+            "size": 
+          }
+        ]
+      }
+
+
+      // Square on map
+      // Hideout 3 Torch Jail
+      {
+        "name": "Hideout 3 Torch Jail",
+        "sections": [
+          // List of individual locations in popup
+          // item count shows a higher number on a single icon
+          {
+            "name": "Hideout 3 Torches Jail Gerudo Key",
+            "item_count": 1
+          },
+          {
+            "name": "Hideout 3 Torch Jail Crates",
+            "item_count": 1
+          },
+          {
+            "name": "Hideout 3 Torch Jail Wonderitems",
+            "item_count": 2
+          }
+        ],
+        // coordinates on the image
+        "map_locations": [
+          {
+            "map": "Thieves Hideout",
+            "x": ,
+            "y": ,
+            "size": 
+          }
+        ]
+      }
+
+
+      // Square on map
+      // Hideout 4 Torch Jail
+      {
+        "name": "Hideout 4 Torch Jail",
+        "sections": [
+          // List of individual locations in popup
+          // item count shows a higher number on a single icon
+          {
+            "name": "Hideout 4 Torches Jail Gerudo Key",
+            "item_count": 1
+          },
+          {
+            "name": "Hideout 4 Torch Jail Pots",
+            "item_count": 1
+          },
+          {
+            "name": "Hideout 4 Torch Jail Wonderitems",
+            "item_count": 1
+          }
+        ],
+        // coordinates on the image
+        "map_locations": [
+          {
+            "map": "Thieves Hideout",
+            "x": ,
+            "y": ,
+            "size": 
+          }
+        ]
+      }
+
+
+      // Square on map
+      // Hideout Break Room
+      {
+        "name": "Hideout Break Room",
+        "sections": [
+          // List of individual locations in popup
+          // item count shows a higher number on a single icon
+          {
+            "name": "Hideout Break Room Pots",
+            "item_count": 2
+          },
+          {
+            "name": "Hideout Break Room Crates",
+            "item_count": 4
+          },
+          {
+            "name": "Hideout Break Room Wonderitems",
+            "item_count": 2
+          }
+        ],
+        // coordinates on the image
+        "map_locations": [
+          {
+            "map": "Thieves Hideout",
+            "x": ,
+            "y": ,
+            "size": 
+          }
+        ]
+      }
+
+
+      // Square on map
+      // Hideout Kitchen
+      {
+        "name": "Hideout Kitchen",
+        "sections": [
+          // List of individual locations in popup
+          // item count shows a higher number on a single icon
+          {
+            "name": "Hideout Kitchen Pots",
+            "item_count": 2
+          },
+          {
+            "name": "Hideout Kitchen Wonderitems",
+            "item_count": 2
+          }
+        ],
+        // coordinates on the image
+        "map_locations": [
+          {
+            "map": "Thieves Hideout",
+            "x": ,
+            "y": ,
+            "size": 
+          }
+        ]
+      }
+
+
+      // Square on map
+      // Hideout Near Kitchen
+      {
+        "name": "Hideout Near Kitchen",
+        "sections": [
+          // List of individual locations in popup
+          // item count shows a higher number on a single icon
+          {
+            "name": "Hideout Near Kitchen Creates",
+            "item_count": 5
+          }
+        ],
+        // coordinates on the image
+        "map_locations": [
+          {
+            "map": "Thieves Hideout",
+            "x": ,
+            "y": ,
+            "size": 
+          }
+        ]
+      }
+    ]
+  }
+]

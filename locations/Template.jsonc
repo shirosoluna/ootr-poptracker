@@ -1,0 +1,49 @@
+[
+  {
+    // Region name and default chest imagines
+    "name": "",
+    "chest_unopened_img": "/images/items/closedchest.png",
+    "chest_opened_img": "/images/items/openchest.png",
+    "overlay_background": "#80000000",
+    
+    // LUA shit
+    "access_rules": [
+        "{}"
+    ],
+    
+    // All the map squares
+    "children": [
+      
+      // Square on map
+      {
+        "name": "",
+        "sections": [
+          // List of individual locations in popup
+          // item count shows a higher number on a single icon
+          {
+            "name": "",
+            "item_count": 1
+          },
+          {
+            "name": "",
+            "item_count": 1
+          },
+          {
+            "name": "",
+            "item_count": 1
+          }
+        ],
+        // coordinates on the image
+        "map_locations": [
+          {
+            "map": "",
+            "x": ,
+            "y": ,
+            "size": 
+          }
+        ]
+      }
+
+    ]
+  }
+]
