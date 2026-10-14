@@ -1,56 +1,518 @@
-
-
-Bottom of the Well Near Entrance Pot 1: 68450,
-Bottom of the Well Near Entrance Pot 2: 68451,
-Bottom of the Well Right Bottom Fake Wall Chest: 67389,
-Bottom of the Well Underwater Front Chest: 67393,
-Bottom of the Well Underwater Left Chest: 67385,
-Bottom of the Well Underwater Pot: 68452,
-Bottom of the Well West Inner Room Flying Pot 1: 68466,
-Bottom of the Well West Inner Room Flying Pot 2: 68467,
-Bottom of the Well West Inner Room Flying Pot 3: 68468,
-Bottom of the Well Back Left Bombable Chest: 67384,
-Bottom of the Well Basement Pot 1: 68453,
-Bottom of the Well Basement Pot 10: 68462,
-Bottom of the Well Basement Pot 11: 68463,
-Bottom of the Well Basement Pot 12: 68464,
-Bottom of the Well Basement Pot 2: 68454,
-Bottom of the Well Basement Pot 3: 68455,
-Bottom of the Well Basement Pot 4: 68456,
-Bottom of the Well Basement Pot 5: 68457,
-Bottom of the Well Basement Pot 6: 68458,
-Bottom of the Well Basement Pot 7: 68459,
-Bottom of the Well Basement Pot 8: 68460,
-Bottom of the Well Basement Pot 9: 68461,
-Bottom of the Well Basement Silver Rupee Ladders Bottom: 67777,
-Bottom of the Well Basement Silver Rupee Ladders Middle: 67778,
-Bottom of the Well Basement Silver Rupee Ladders Top: 67779,
-Bottom of the Well Basement Silver Rupee Wood Beam Back: 67776,
-Bottom of the Well Basement Silver Rupee Wood Beam Front: 67775,
-Bottom of the Well Center Room Pit Fall Blue Rupee 1: 68440,
-Bottom of the Well Center Room Pit Fall Blue Rupee 2: 68441,
-Bottom of the Well Center Room Pit Fall Blue Rupee 3: 68442,
-Bottom of the Well Center Room Pit Fall Blue Rupee 4: 68443,
-Bottom of the Well Center Room Pit Fall Blue Rupee 5: 68444,
-Bottom of the Well Center Skulltula Chest: 67388,
-Bottom of the Well Coffin Recovery Heart 1: 68445,
-Bottom of the Well Coffin Recovery Heart 2: 68446,
-Bottom of the Well Compass Chest: 67387,
-Bottom of the Well Fire Keese Chest: 67390,
-Bottom of the Well Fire Keese Pot: 68465,
-Bottom of the Well Freestanding Key: 67386,
-Bottom of the Well Front Center Bombable Chest: 67383,
-Bottom of the Well Front Left Fake Wall Chest: 67382,
-Bottom of the Well GS East Inner Room: 67397,
-Bottom of the Well GS Like Like Cage: 67398,
-Bottom of the Well GS West Inner Room: 67396,
-Bottom of the Well Invisible Chest: 67394,
-Bottom of the Well Left Side Pot 1: 68447,
-Bottom of the Well Left Side Pot 2: 68448,
-Bottom of the Well Left Side Pot 3: 68449,
-Bottom of the Well Lens of Truth Chest: 67395,
-Bottom of the Well Like Like Chest: 67391,
-Bottom of the Well Map Chest: 67392,
+[
+    {
+        "name": "Bottom of the Well",
+        "chest_unopened_img": "/images/items/closedchest.png",
+        "chest_opened_img": "/images/items/openchest.png",
+        "overlay_background": "#80000000",
+        "access_rules": [
+            "{}"
+        ],
+        "children": [
+            {
+                "name": "Bottom of the Well Near Entrance",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Near Entrance Pot 1",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom of the Well Near Entrance Pot 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Right Bottom Fake Wall",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Right Bottom Fake Wall Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Underwater Front",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Underwater Front Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Underwater Left",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Underwater Left Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Underwater Pot",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Underwater Pot",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well West Inner Room",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well West Inner Room Flying Pots",
+                        "clear_as_group": false,
+                        "item_count": 3
+                    },
+                    {
+                        "name": "Bottom of the Well GS West Inner Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Back Left Bombable",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Back Left Bombable Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Center Skulltula Chest",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Center Skulltula Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Center Skulltula Chest",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Center Skulltula Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Front Center Bombable Chest",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Front Center Bombable Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Front Left Fake Wall Chest",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Front Left Fake Wall Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Left Side",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Left Side Pots",
+                        "clear_as_group": false,
+                        "item_count": 3
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Coffin Room",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Coffin Recovery Hearts",
+                        "clear_as_group": false,
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Coffin Room",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Freestanding Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Coffin Room",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Freestanding Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Left Side Invisible Wall",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Compass Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well East Inner Room",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well GS East Inner Room",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Fire Keese Room",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Fire Keese Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom of the Well Fire Keese Pot",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Like Like Cage",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well GS Like Like Cage",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom of the Well Like Like Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Basement",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Map Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Basement",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Center Room Pit Fall Blue Rupees",
+                        "clear_as_group": false,
+                        "item_count": 5
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Basement",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Basement Pots",
+                        "clear_as_group": false,
+                        "item_count": 12
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Basement Rupees",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Basement Silver Rupee Ladders Bottom",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Basement Rupees",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Basement Silver Rupee Ladders Middle",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Basement Rupees",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Basement Silver Rupee Ladders Top",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Basement Rupees",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Basement Silver Rupee Wood Beam Back",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Basement Rupees",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Basement Silver Rupee Wood Beam Top",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of the Well Deadhand Room",
+                "sections": [
+                    {
+                        "name": "Bottom of the Well Lens of Truth Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom of the Well Invisible Chest",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Botw",
+                        "x": ,
+                        "y": ,
+                        "size": 17
+                    }
+                ]
+            },
+            
+        ]
+    }
+]
 
 Bottom of the Well MQ Basement Recovery Heart 1: 68471,
 Bottom of the Well MQ Basement Recovery Heart 2: 68472,
@@ -86,4 +548,3 @@ Bottom of the Well MQ Main Area Right Slingshot Wonderitem 3: 69167,
 Bottom of the Well MQ Main Area Right Slingshot Wonderitem 4: 69168,
 Bottom of the Well MQ Map Chest: 67399,
 Bottom of the Well MQ Perimeter Behind Gate Pot: 68479,
-
