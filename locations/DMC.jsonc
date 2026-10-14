@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Death Mountain Crater",
+        "chest_unopened_img": "/images/items/closedchest.png",
+        "chest_opened_img": "/images/items/openchest.png",
+        "overlay_background": "#80000000",
+        "access_rules": [
+            "{}"
+        ],
+        "children": [
+            {
+                "name": "Bolero Song",
+                "sections": [
+                    {
+                        "name": "Sheik in Crater",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 630,
+                        "y": 440,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Wall",
+                "sections": [
+                    {
+                        "name": "DMC Wall Freestanding PoH",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 275,
+                        "y": 200,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Volcano",
+                "sections": [
+                    {
+                        "name": "DMC Volcano Freestanding PoH",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 431,
+                        "y": 113,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Near GC Pots Left",
+                "sections": [
+                    {
+                        "name": "DMC Near GC Pot 1-2",
+                        "clear_as_group": false,
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 463,
+                        "y": 102,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Near GC Pots Right",
+                "sections": [
+                    {
+                        "name": "DMC Near GC Pot 3-4",
+                        "clear_as_group": false,
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 443,
+                        "y": 102,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Upper Grotto",
+                "sections": [
+                    {
+                        "name": "DMC Upper Grotto Chest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "DMC Upper Grotto Beehives",
+                        "clear_as_group": false,
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 180,
+                        "y": 136,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC GF Reward",
+                "sections": [
+                    {
+                        "name": "DMC Great Fairy Reward",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 352,
+                        "y": 95,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Hammer Grotto",
+                "sections": [
+                    {
+                        "name": "DMC Deku Scrubs",
+                        "clear_as_group": false,
+                        "item_count": 3
+                    },
+                    {
+                        "name": "DMC Hammer Grotto Beehive",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 515,
+                        "y": 103,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC GS Crate",
+                "sections": [
+                    {
+                        "name": "DMC GS",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "DMC GS Crate",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 213,
+                        "y": 51,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC GS Bean Patch",
+                "sections": [
+                    {
+                        "name": "DMC GS Bean Patch",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 456,
+                        "y": 233,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Deku Scrub",
+                "sections": [
+                    {
+                        "name": "DMC Deku Scrub",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 301,
+                        "y": 114,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Child Rupee Platform",
+                "sections": [
+                    {
+                        "name": "DMC Child Rupee Platform",
+                        "clear_as_group": false,
+                        "item_count": 8
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 421,
+                        "y": 397,
+                        "size": 17
+                    }
+                ]
+            },
+            {
+                "name": "DMC Adult Pierre Rupees",
+                "sections": [
+                    {
+                        "name": "DMC Adult Pierre Rupees",
+                        "clear_as_group": false,
+                        "item_count": 7
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 325,
+                        "y": 385,
+                        "size": 17
+                    }
+                ]
+            }
+        ]
+    }
+]

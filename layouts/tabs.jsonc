@@ -70,101 +70,103 @@
                                 ]
                             }
                         },
-                        { "title": "Gerudo Areas",
+                        {
+                            "title": "Gerudo Areas",
                             "content": {
                                 "type": "tabbed",
                                 "tabs": [
-                        {
-                            "title": "Gerudo Valley",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Gerudo Valley"
+                                    {
+                                        "title": "Gerudo Valley",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Gerudo Valley"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Gerudo Fortress",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Gerudo Fortress"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Thieve's Hideout",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Thieve's Hideout"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Haunted Wasteland",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Haunted Wasteland"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Desert Colossus",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Desert Colossus"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         },
                         {
-                            "title": "Gerudo Fortress",
+                            "title": "Hyrule Market Areas",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Gerudo Fortress"
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Market",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Market"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Temple of Time",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Temple of Time"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Hyrule Castle (Child)",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Hyrule Castle"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Outside Ganon's Castle",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Outside Ganon's Castle"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         },
-                        {
-                            "title": "Thieve's Hideout",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Thieve's Hideout"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Haunted Wasteland",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Haunted Wasteland"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Desert Colossus",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Desert Colossus"
-                                ]
-                            }
-                        }
-                    ]
-                }
-            },
-                        { "title": "Hyrule Market Areas",
-                            "content": {
-                            "type": "tabbed",
-                            "tabs": [
-                        {
-                            "title": "Market",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Market"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Temple of Time",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Temple of Time"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Hyrule Castle (Child)",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Hyrule Castle"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Outside Ganon's Castle",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Outside Ganon's Castle"
-                                ]
-                            }
-                        }
-                    ]
-                }
-            },
                         {
                             "title": "Kakakriko Village",
                             "content": {
@@ -192,91 +194,95 @@
                                 ]
                             }
                         },
-                        { "title": "Death Mountain Areas",
+                        {
+                            "title": "Death Mountain Areas",
                             "content": {
                                 "type": "tabbed",
                                 "tabs": [
-                        {
-                            "title": "Death Mountain Trail",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Death Mountain Trail"
+                                    {
+                                        "title": "Death Mountain Trail",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Death Mountain Trail"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Goron City",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Goron City"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Death Mountain Crater",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "DMC"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         },
                         {
-                            "title": "Goron City",
+                            "title": "Zora Areas",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Goron City"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Death Mountain Crater",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Death Mountain Crater"
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Zora's River",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Zora's River"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Zora's Domain",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Zora's Domain"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Zora's Fountain",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Zora's Fountain"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         }
                     ]
                 }
             },
-                        { "title": "Zora Areas",
-                            "content": {
-                                "type": "tabbed",
-                                "tabs": [
+            {
+                "title": "Dungeons",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
                         {
-                            "title": "Zora's River",
+                            "title": "Deku Tree",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Zora's River"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Zora's Domain",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Zora's Domain"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Zora's Fountain",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Zora's Fountain"
-                                ]
-                            }
-                        }
-                    ]
-                }
-            }
-        ]
-    }
-},
-{
-    "title": "Dungeons",
-    "content": {
-    "type": "tabbed",
-    "tabs": [
-                        { "title": "Deku Tree",
-                            "content": {
-                            "type": "map",
-                            "maps": [
                                     "Deku Tree"
-                                    ]
-                                        }
+                                ]
+                            }
                         },
-                        { "title": "Dodongo's Cavern",
+                        {
+                            "title": "Dodongo's Cavern",
                             "content": {
                                 "type": "tabbed",
                                 "tabs": [
@@ -310,10 +316,11 @@
                                 ]
                             }
                         },
-                        { "title": "Jabu Jabu's Belly",
+                        {
+                            "title": "Jabu Jabu's Belly",
                             "content": {
-                            "type": "tabbed",
-                            "tabs": [
+                                "type": "tabbed",
+                                "tabs": [
                                     {
                                         "title": "Main Floor and Basement",
                                         "content": {
@@ -333,12 +340,13 @@
                                         }
                                     }
                                 ]
-                                }
+                            }
                         },
-                        { "title": "Forest Temple",
+                        {
+                            "title": "Forest Temple",
                             "content": {
-                            "type": "tabbed",
-                            "tabs": [
+                                "type": "tabbed",
+                                "tabs": [
                                     {
                                         "title": "Floor 1",
                                         "content": {
@@ -367,12 +375,13 @@
                                         }
                                     }
                                 ]
-                                }
+                            }
                         },
-                        { "title": "Fire Temple",
+                        {
+                            "title": "Fire Temple",
                             "content": {
-                            "type": "tabbed",
-                            "tabs": [
+                                "type": "tabbed",
+                                "tabs": [
                                     {
                                         "title": "Basement to Floor 2",
                                         "content": {
@@ -401,12 +410,13 @@
                                         }
                                     }
                                 ]
-                                }
+                            }
                         },
-                        { "title": "Water Temple",
+                        {
+                            "title": "Water Temple",
                             "content": {
-                            "type": "tabbed",
-                            "tabs": [
+                                "type": "tabbed",
+                                "tabs": [
                                     {
                                         "title": "Central Area Columns",
                                         "content": {
@@ -426,12 +436,13 @@
                                         }
                                     }
                                 ]
-                                }
-                            },
-                        { "title": "Shadow Temple",
+                            }
+                        },
+                        {
+                            "title": "Shadow Temple",
                             "content": {
-                            "type": "tabbed",
-                            "tabs": [
+                                "type": "tabbed",
+                                "tabs": [
                                     {
                                         "title": "Front to Before Boat",
                                         "content": {
@@ -451,22 +462,23 @@
                                         }
                                     }
                                 ]
-                                }
+                            }
                         },
-                        { "title": "Spirit Temple",
+                        {
+                            "title": "Spirit Temple",
                             "content": {
-                            "type": "tabbed",
-                            "tabs": [
-                                {
-                                    "title": "Basement Level",
-                                    "content": {
-                                        "type": "map",
-                                        "maps": [
-                                            "Spiri Basement"
-                                        ]
-                                    }
-                                },    
-                                {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Basement Level",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Spiri Basement"
+                                            ]
+                                        }
+                                    },
+                                    {
                                         "title": "Child Climb",
                                         "content": {
                                             "type": "map",
@@ -475,7 +487,6 @@
                                             ]
                                         }
                                     },
-                                 
                                     {
                                         "title": "Adult Climb",
                                         "content": {
@@ -486,22 +497,23 @@
                                         }
                                     }
                                 ]
-                                }
+                            }
                         },
-                        { "title": "Inside Ganon's Castle",
+                        {
+                            "title": "Inside Ganon's Castle",
                             "content": {
-                            "type": "tabbed",
-                            "tabs": [
-                                {
-                                    "title": "Trials",
-                                    "content": {
-                                        "type": "map",
-                                        "maps": [
-                                            "IGC Trials"
-                                        ]
-                                    }
-                                },    
-                                {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Trials",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "IGC Trials"
+                                            ]
+                                        }
+                                    },
+                                    {
                                         "title": "Tower Climb",
                                         "content": {
                                             "type": "map",
@@ -511,31 +523,34 @@
                                         }
                                     }
                                 ]
-                                }
+                            }
                         },
-                        { "title": "Ice Cavern",
+                        {
+                            "title": "Ice Cavern",
                             "content": {
-                            "type": "map",
-                             "maps": [
+                                "type": "map",
+                                "maps": [
                                     "Ice Cavern"
-                                    ]
-                                    }
-                        },    
-                        { "title": "Bottom of the Well",
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Bottom of the Well",
                             "content": {
-                            "type": "map",
-                             "maps": [
+                                "type": "map",
+                                "maps": [
                                     "botw"
-                                    ]
-                                    }
-                        },    
-                        { "title": "Gerudo Training Ground",
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Gerudo Training Ground",
                             "content": {
-                            "type": "map",
-                             "maps": [
+                                "type": "map",
+                                "maps": [
                                     "GTG"
-                                    ]
-                                    }
+                                ]
+                            }
                         }
                     ]
                 }

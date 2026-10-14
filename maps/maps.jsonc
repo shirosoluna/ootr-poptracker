@@ -6,6 +6,12 @@
         "img": "images/maps/botw.png"
     },
     {
+        "name": "Graveyard",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/graveyard.png"
+    },
+    {
         "name": "Dampe Race",
         "location_size": 6,
         "location_border_thickness": 1,
@@ -24,7 +30,7 @@
         "img": "images/maps/Desert_Colossus.png"
     },
     {
-        "name": "Death Mountain Crater",
+        "name": "DMC",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/DMC.png"

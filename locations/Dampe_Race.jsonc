@@ -5,7 +5,7 @@
     "chest_opened_img": "/images/items/openchest.png",
     "overlay_background": "#80000000",
     "access_rules": [
-        "{}"
+      "{}"
     ],
     "children": [
       {
@@ -327,5 +327,5 @@
         ]
       }
     ]
-  }  
+  }
 ]
