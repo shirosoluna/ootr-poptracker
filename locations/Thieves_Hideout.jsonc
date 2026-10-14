@@ -5,15 +5,12 @@
     "chest_unopened_img": "/images/items/closedchest.png",
     "chest_opened_img": "/images/items/openchest.png",
     "overlay_background": "#80000000",
-    
     // LUA shit
     "access_rules": [
-        "{}"
+      "{}"
     ],
-    
     // All the map squares
     "children": [
-      
       // Square on map
       // Hideout 1 Torch Jail
       {
@@ -31,10 +28,12 @@
           },
           {
             "name": "Hideout 1 Torch Jail Pots",
+            "clear_as_group": false,
             "item_count": 3
           },
           {
             "name": "Hideout 1 Torch Jail Wonderitems",
+            "clear_as_group": false,
             "item_count": 2
           },
           {
@@ -48,12 +47,10 @@
             "map": "Thieves Hideout",
             "x": ,
             "y": ,
-            "size": 
+            "size":
           }
         ]
-      }
-
-
+      },
       // Square on map
       // Hideout 2 Torch Jail
       {
@@ -67,14 +64,17 @@
           },
           {
             "name": "Hideout 2 Torch Jail Pots",
+            "clear_as_group": false,
             "item_count": 7
           },
           {
             "name": "Hideout 2 Torch Jail Crates",
+            "clear_as_group": false,
             "item_count": 2
           },
           {
             "name": "Hideout 2 Torch Jail Wonderitems",
+            "clear_as_group": false,
             "item_count": 2
           }
         ],
@@ -84,12 +84,10 @@
             "map": "Thieves Hideout",
             "x": ,
             "y": ,
-            "size": 
+            "size":
           }
         ]
-      }
-
-
+      },
       // Square on map
       // Hideout 3 Torch Jail
       {
@@ -107,6 +105,7 @@
           },
           {
             "name": "Hideout 3 Torch Jail Wonderitems",
+            "clear_as_group": false,
             "item_count": 2
           }
         ],
@@ -116,12 +115,10 @@
             "map": "Thieves Hideout",
             "x": ,
             "y": ,
-            "size": 
+            "size":
           }
         ]
-      }
-
-
+      },
       // Square on map
       // Hideout 4 Torch Jail
       {
@@ -148,12 +145,10 @@
             "map": "Thieves Hideout",
             "x": ,
             "y": ,
-            "size": 
+            "size":
           }
         ]
       }
-
-
       // Square on map
       // Hideout Break Room
       {
@@ -163,14 +158,17 @@
           // item count shows a higher number on a single icon
           {
             "name": "Hideout Break Room Pots",
+            "clear_as_group": false,
             "item_count": 2
           },
           {
             "name": "Hideout Break Room Crates",
+            "clear_as_group": false,
             "item_count": 4
           },
           {
             "name": "Hideout Break Room Wonderitems",
+            "clear_as_group": false,
             "item_count": 2
           }
         ],
@@ -180,12 +178,10 @@
             "map": "Thieves Hideout",
             "x": ,
             "y": ,
-            "size": 
+            "size":
           }
         ]
-      }
-
-
+      },
       // Square on map
       // Hideout Kitchen
       {
@@ -195,10 +191,12 @@
           // item count shows a higher number on a single icon
           {
             "name": "Hideout Kitchen Pots",
+            "clear_as_group": false,
             "item_count": 2
           },
           {
             "name": "Hideout Kitchen Wonderitems",
+            "clear_as_group": false,
             "item_count": 2
           }
         ],
@@ -208,12 +206,10 @@
             "map": "Thieves Hideout",
             "x": ,
             "y": ,
-            "size": 
+            "size":
           }
         ]
-      }
-
-
+      },
       // Square on map
       // Hideout Near Kitchen
       {
@@ -223,6 +219,7 @@
           // item count shows a higher number on a single icon
           {
             "name": "Hideout Near Kitchen Creates",
+            "clear_as_group": false,
             "item_count": 5
           }
         ],
@@ -232,7 +229,7 @@
             "map": "Thieves Hideout",
             "x": ,
             "y": ,
-            "size": 
+            "size":
           }
         ]
       }
