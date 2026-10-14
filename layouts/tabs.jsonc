@@ -12,7 +12,7 @@
                 }
             },
             {
-                "title": "Locations",
+                "title": "Overworld Areas",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -70,6 +70,10 @@
                                 ]
                             }
                         },
+                        { "title": "Gerudo Areas",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
                         {
                             "title": "Gerudo Valley",
                             "content": {
@@ -114,7 +118,14 @@
                                     "Desert Colossus"
                                 ]
                             }
-                        },
+                        }
+                    ]
+                }
+            },
+                        { "title": "Hyrule Market Areas",
+                            "content": {
+                            "type": "tabbed",
+                            "tabs": [
                         {
                             "title": "Market",
                             "content": {
@@ -150,7 +161,10 @@
                                     "Outside Ganon's Castle"
                                 ]
                             }
-                        },
+                        }
+                    ]
+                }
+            },
                         {
                             "title": "Kakakriko Village",
                             "content": {
@@ -178,6 +192,10 @@
                                 ]
                             }
                         },
+                        { "title": "Death Mountain Areas",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
                         {
                             "title": "Death Mountain Trail",
                             "content": {
@@ -204,7 +222,14 @@
                                     "Death Mountain Crater"
                                 ]
                             }
-                        },
+                        }
+                    ]
+                }
+            },
+                        { "title": "Zora Areas",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
                         {
                             "title": "Zora's River",
                             "content": {
@@ -234,13 +259,15 @@
                         }
                     ]
                 }
-            },
-            {
-                "title": "Dungeons",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-
+            }
+        ]
+    }
+},
+{
+    "title": "Dungeons",
+    "content": {
+    "type": "tabbed",
+    "tabs": [
                         { "title": "Deku Tree",
                             "content": {
                             "type": "map",
@@ -513,6 +540,6 @@
                     ]
                 }
             }
-                    ]
-                }
-            }
+        ]
+    }
+}

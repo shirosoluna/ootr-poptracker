@@ -152,8 +152,24 @@
             "size": 17
           }
         ]
+      },
+      {
+        "name": "Sheik at Colossus",
+        "sections": [
+          {
+            "name": "Sheik at Colossus",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Colossus",
+            "x": 333,
+            "y": 198,
+            "size": 17
+          }
+        ]
       }
     ]
   }
 ]
-Sheik at Colossus: 67019,
