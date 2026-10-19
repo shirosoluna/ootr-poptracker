@@ -1,0 +1,876 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Bottom of the Well",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bottom of the Well"
+                    ]
+                }
+            },
+            {
+                "title": "Bottom of the WellMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bottom of the WellMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Colossus",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Colossus"
+                    ]
+                }
+            },
+            {
+                "title": "DMC",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DMC"
+                    ]
+                }
+            },
+            {
+                "title": "DMT",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DMT"
+                    ]
+                }
+            },
+            {
+                "title": "Deku Tree",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Deku Tree"
+                    ]
+                }
+            },
+            {
+                "title": "Deku TreeMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Deku TreeMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Dodongos Cavern",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dodongos Cavern"
+                    ]
+                }
+            },
+            {
+                "title": "Dodongos CavernMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dodongos CavernMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Fire Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fire Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Fire TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fire TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Forest Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forest Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Forest TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forest TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "GC",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "GC"
+                    ]
+                }
+            },
+            {
+                "title": "GF",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "GF"
+                    ]
+                }
+            },
+            {
+                "title": "GV",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "GV"
+                    ]
+                }
+            },
+            {
+                "title": "Ganons Castle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ganons Castle"
+                    ]
+                }
+            },
+            {
+                "title": "Ganons CastleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ganons CastleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Ganons Tower",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ganons Tower"
+                    ]
+                }
+            },
+            {
+                "title": "Gerudo Training Ground",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gerudo Training Ground"
+                    ]
+                }
+            },
+            {
+                "title": "Gerudo Training GroundMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gerudo Training GroundMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Graveyard",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Graveyard"
+                    ]
+                }
+            },
+            {
+                "title": "HC",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "HC"
+                    ]
+                }
+            },
+            {
+                "title": "HF",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "HF"
+                    ]
+                }
+            },
+            {
+                "title": "Hideout",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hideout"
+                    ]
+                }
+            },
+            {
+                "title": "Ice Cavern",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ice Cavern"
+                    ]
+                }
+            },
+            {
+                "title": "Ice CavernMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ice CavernMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Jabu Jabus Belly",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Jabu Jabus Belly"
+                    ]
+                }
+            },
+            {
+                "title": "Jabu Jabus BellyMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Jabu Jabus BellyMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Kak",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Kak"
+                    ]
+                }
+            },
+            {
+                "title": "Kokiri Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Kokiri Forest"
+                    ]
+                }
+            },
+            {
+                "title": "LH",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "LH"
+                    ]
+                }
+            },
+            {
+                "title": "LLR",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "LLR"
+                    ]
+                }
+            },
+            {
+                "title": "LW",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "LW"
+                    ]
+                }
+            },
+            {
+                "title": "Market",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Market"
+                    ]
+                }
+            },
+            {
+                "title": "OGC",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "OGC"
+                    ]
+                }
+            },
+            {
+                "title": "SFM",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "SFM"
+                    ]
+                }
+            },
+            {
+                "title": "Shadow Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Shadow Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Shadow TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Shadow TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Spirit Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Spirit Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Spirit TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Spirit TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Temple of Time",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Temple of Time"
+                    ]
+                }
+            },
+            {
+                "title": "Wasteland",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Wasteland"
+                    ]
+                }
+            },
+            {
+                "title": "Water Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Water Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Water TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Water TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "ZD",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ZD"
+                    ]
+                }
+            },
+            {
+                "title": "ZF",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ZF"
+                    ]
+                }
+            },
+            {
+                "title": "ZR",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ZR"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Bottom of the Well",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bottom of the Well"
+                    ]
+                }
+            },
+            {
+                "title": "Bottom of the WellMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bottom of the WellMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Colossus",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Colossus"
+                    ]
+                }
+            },
+            {
+                "title": "DMC",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DMC"
+                    ]
+                }
+            },
+            {
+                "title": "DMT",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "DMT"
+                    ]
+                }
+            },
+            {
+                "title": "Deku Tree",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Deku Tree"
+                    ]
+                }
+            },
+            {
+                "title": "Deku TreeMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Deku TreeMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Dodongos Cavern",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dodongos Cavern"
+                    ]
+                }
+            },
+            {
+                "title": "Dodongos CavernMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dodongos CavernMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Fire Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fire Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Fire TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fire TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Forest Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forest Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Forest TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forest TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "GC",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "GC"
+                    ]
+                }
+            },
+            {
+                "title": "GF",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "GF"
+                    ]
+                }
+            },
+            {
+                "title": "GV",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "GV"
+                    ]
+                }
+            },
+            {
+                "title": "Ganons Castle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ganons Castle"
+                    ]
+                }
+            },
+            {
+                "title": "Ganons CastleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ganons CastleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Ganons Tower",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ganons Tower"
+                    ]
+                }
+            },
+            {
+                "title": "Gerudo Training Ground",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gerudo Training Ground"
+                    ]
+                }
+            },
+            {
+                "title": "Gerudo Training GroundMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gerudo Training GroundMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Graveyard",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Graveyard"
+                    ]
+                }
+            },
+            {
+                "title": "HC",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "HC"
+                    ]
+                }
+            },
+            {
+                "title": "HF",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "HF"
+                    ]
+                }
+            },
+            {
+                "title": "Hideout",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hideout"
+                    ]
+                }
+            },
+            {
+                "title": "Ice Cavern",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ice Cavern"
+                    ]
+                }
+            },
+            {
+                "title": "Ice CavernMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ice CavernMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Jabu Jabus Belly",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Jabu Jabus Belly"
+                    ]
+                }
+            },
+            {
+                "title": "Jabu Jabus BellyMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Jabu Jabus BellyMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Kak",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Kak"
+                    ]
+                }
+            },
+            {
+                "title": "Kokiri Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Kokiri Forest"
+                    ]
+                }
+            },
+            {
+                "title": "LH",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "LH"
+                    ]
+                }
+            },
+            {
+                "title": "LLR",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "LLR"
+                    ]
+                }
+            },
+            {
+                "title": "LW",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "LW"
+                    ]
+                }
+            },
+            {
+                "title": "Market",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Market"
+                    ]
+                }
+            },
+            {
+                "title": "OGC",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "OGC"
+                    ]
+                }
+            },
+            {
+                "title": "SFM",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "SFM"
+                    ]
+                }
+            },
+            {
+                "title": "Shadow Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Shadow Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Shadow TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Shadow TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Spirit Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Spirit Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Spirit TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Spirit TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "Temple of Time",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Temple of Time"
+                    ]
+                }
+            },
+            {
+                "title": "Wasteland",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Wasteland"
+                    ]
+                }
+            },
+            {
+                "title": "Water Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Water Temple"
+                    ]
+                }
+            },
+            {
+                "title": "Water TempleMQ",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Water TempleMQ"
+                    ]
+                }
+            },
+            {
+                "title": "ZD",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ZD"
+                    ]
+                }
+            },
+            {
+                "title": "ZF",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ZF"
+                    ]
+                }
+            },
+            {
+                "title": "ZR",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "ZR"
+                    ]
+                }
+            }
+        ]
+    }
+}

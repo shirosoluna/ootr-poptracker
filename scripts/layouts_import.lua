@@ -1,0 +1,7 @@
+Tracker:AddLayouts("layouts/events.jsonc")
+Tracker:AddLayouts("layouts/settings.jsonc")
+Tracker:AddLayouts("layouts/logictricks.jsonc")
+Tracker:AddLayouts("layouts/items.jsonc")
+Tracker:AddLayouts("layouts/tabs.jsonc")
+Tracker:AddLayouts("layouts/broadcast.jsonc")
+Tracker:AddLayouts("layouts/tracker.json")

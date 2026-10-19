@@ -1,0 +1,299 @@
+[
+    {
+        "name": "Ice CavernMQ",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "First Hall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ice CavernMQ",
+                        "x": 1446,
+                        "y": 425,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Tektite Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Pot",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ice CavernMQ",
+                                "x": 1334,
+                                "y": 1541,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Center Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Pot",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ice CavernMQ",
+                                "x": 586,
+                                "y": 232,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Compass Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Pot",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ice CavernMQ",
+                                "x": 2135,
+                                "y": 1840,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Freestanding PoH",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Red Ice GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ice CavernMQ",
+                        "x": 2170,
+                        "y": 2460,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Before Iron Boots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scarecrow GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ice Block GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ice CavernMQ",
+                        "x": 264,
+                        "y": 265,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near End",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Pot",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ice CavernMQ",
+                                "x": 785,
+                                "y": 1431,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "sections": [
+            {
+                "name": "Map Chest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Iron Boots Chest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Ice CavernMQ",
+                "x": 617,
+                "y": 744,
+                "size": 6
+            }
+        ]
+    }
+]

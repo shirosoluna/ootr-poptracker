@@ -1,0 +1,629 @@
+[
+    {
+        "name": "ButterKnife",
+        "type": "toggle",
+        "img": "images/items/ButterKnife.png",
+        "img_mods": "",
+        "codes": "ButterKnife"
+    },
+    {
+        "name": "MasterSword",
+        "type": "toggle",
+        "img": "images/items/MasterSword.png",
+        "img_mods": "",
+        "codes": "MasterSword"
+    },
+    {
+        "name": "BiggoronSword",
+        "type": "toggle",
+        "img": "images/items/BiggoronSword.png",
+        "img_mods": "",
+        "codes": "BiggoronSword"
+    },
+    {
+        "name": "Stick",
+        "type": "toggle",
+        "img": "images/items/Stick.png",
+        "img_mods": "",
+        "codes": "Stick"
+    },
+    {
+        "name": "Nut",
+        "type": "toggle",
+        "img": "images/items/Nut.png",
+        "img_mods": "",
+        "codes": "Nut"
+    },
+    {
+        "name": "BombBag",
+        "type": "toggle",
+        "img": "images/items/BombBag.png",
+        "img_mods": "",
+        "codes": "BombBag"
+    },
+    {
+        "name": "Bow",
+        "type": "toggle",
+        "img": "images/items/Bow.png",
+        "img_mods": "",
+        "codes": "Bow"
+    },
+    {
+        "name": "RutosLetter",
+        "type": "toggle",
+        "img": "images/items/RutosLetter.png",
+        "img_mods": "",
+        "codes": "RutosLetter"
+    },
+    {
+        "name": "DekuShield",
+        "type": "toggle",
+        "img": "images/items/DekuShield.png",
+        "img_mods": "",
+        "codes": "DekuShield"
+    },
+    {
+        "name": "HylianShield",
+        "type": "toggle",
+        "img": "images/items/HylianShield.png",
+        "img_mods": "",
+        "codes": "HylianShield"
+    },
+    {
+        "name": "MirrorShield",
+        "type": "toggle",
+        "img": "images/items/MS.png",
+        "img_mods": "",
+        "codes": "MS"
+    },
+    {
+        "name": "Bombchus",
+        "type": "toggle",
+        "img": "images/items/bombchu.png",
+        "img_mods": "",
+        "codes": "Bombchus"
+    },
+    {
+        "name": "Boomerang",
+        "type": "toggle",
+        "img": "images/items/Boomerang.png",
+        "img_mods": "",
+        "codes": "Boomerang"
+    },
+    {
+        "name": "Hammer",
+        "type": "toggle",
+        "img": "images/items/Hammer.png",
+        "img_mods": "",
+        "codes": "Hammer"
+    },
+    {
+        "name": "Strength",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "GoronBracelet",
+                "img": "images/items/GoronBracelet.png",
+                "codes": "GoronBracelet, Strength"
+            },
+            {
+                "name": "SilverGauntlets",
+                "img": "images/items/SilverGauntlets.png",
+                "codes": "SilverGauntlets, Strength"
+            },
+            {
+                "name": "GoldGauntlets",
+                "img": "images/items/GoldenGaunts.png",
+                "codes": "GoldGauntlets, Strength"
+            }
+        ]
+    },
+    {
+        "name": "Hookshots",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "Hookshot",
+                "img": "images/items/Hookshot.png",
+                "codes": "Hookshot, Hookshots"
+            },
+            {
+                "name": "Longshot",
+                "img": "images/items/Longshot.png",
+                "codes": "Longshot, Hookshots"
+            }
+        ]
+    },
+    {
+        "name": "IronBoots",
+        "type": "toggle",
+        "img": "images/items/IronBoots.png",
+        "img_mods": "",
+        "codes": "IronBoots"
+    },
+    {
+        "name": "HoverBoots",
+        "type": "toggle",
+        "img": "images/items/HoverBoots.png",
+        "img_mods": "",
+        "codes": "HoverBoots"
+    },
+    {
+        "name": "Lens",
+        "type": "toggle",
+        "img": "images/items/Lens.png",
+        "img_mods": "",
+        "codes": "Lens"
+    },
+    {
+        "name": "Nayrus",
+        "type": "toggle",
+        "img": "images/items/Nayrus.png",
+        "img_mods": "",
+        "codes": "Nayrus"
+    },
+    {
+        "name": "Ocarinas",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "FairyOcarina",
+                "img": "images/items/FairyOcarina.png",
+                "codes": "FairyOcarina, Ocarinas"
+            },
+            {
+                "name": "OoT",
+                "img": "images/items/OoT.png",
+                "codes": "OoT, Ocarinas"
+            }
+        ]
+    },
+    {
+        "name": "Scales",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "SilverScale",
+                "img": "images/items/SilverScale.png",
+                "codes": "SilverScale, Scales"
+            },
+            {
+                "name": "GoldScale",
+                "img": "images/items/GoldScale.png",
+                "codes": "GoldScale, Scales"
+            }
+        ]
+    },
+    {
+        "name": "Wallets",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "BaseWallet",
+                "img": "images/items/BaseWallet.png",
+                "codes": "BaseWallet, Wallets"
+            },
+            {
+                "name": "AdultWallet",
+                "img": "images/items/AdultWallet.png",
+                "codes": "AdultWallet, Wallets"
+            },
+            {
+                "name": "GiantWallet",
+                "img": "images/items/GiantWallet.png",
+                "codes": "GiantWallet, Wallets"
+            }
+        ]
+    },
+    {
+        "name": "Tunicss",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "GoronTunic",
+                "img": "images/items/GoronTunic.png",
+                "codes": "GoronTunic, Tunics"
+            },
+            {
+                "name": "ZoraTunic",
+                "img": "images/items/ZoraTunic.png",
+                "codes": "ZoraTunic, Tunics"
+            },
+            {
+                "name": "GZTunic",
+                "img": "images/items/GZTunic.png",
+                "codes": "GZTunic, Tunics"
+            }
+        ]
+    },
+    {
+        "name": "Beans",
+        "type": "toggle",
+        "img": "images/items/Beans.png",
+        "img_mods": "",
+        "codes": "Beans"
+    },
+    {
+        "name": "LightArrows",
+        "type": "toggle",
+        "img": "images/items/LightArrows.png",
+        "img_mods": "",
+        "codes": "LightArrows"
+    },
+    {
+        "name": "FIArrows",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "FireArrows",
+                "img": "images/items/FireArrows.png",
+                "codes": "FArrows, FIArrows"
+            },
+            {
+                "name": "IceArrows",
+                "img": "images/items/IceArrows.png",
+                "codes": "IArrows, FIArrows"
+            },
+            {
+                "name": "FIArrows",
+                "img": "images/items/FIArrows.png",
+                "codes": "FIArrows, FIArrows"
+            }
+        ]
+    },
+    {
+            "name": "FairySpells",
+            "type": "progressive_toggle",
+            "stages": [
+                {
+                    "name": "Dins",
+                    "img": "images/items/Dins.png",
+                    "codes": "Dins, FairySpells"
+                },
+                {
+                    "name": "Farores",
+                    "img": "images/items/Farores.png",
+                    "codes": "Farores, FairySpells"
+                },
+                {
+                    "name": "DF",
+                    "img": "images/items/DF.png",
+                    "codes": "DF, FairySpells"
+                }
+            ]
+    },
+    {
+        "name": "Bottles",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "EmptyBottle",
+                "img": "images/items/EmptyBottle.png",
+                "codes": "EmptyBottle, Bottles"
+            },
+            {
+                "name": "BugBottle",
+                "img": "images/items/BugBottle.png",
+                "codes": "BugBottle, Bottles"
+            },
+            {
+                "name": "FishBottle",
+                "img": "images/items/FishBottle.png",
+                "codes": "FishBottle, Bottles"
+            },
+            {
+                "name": "BlueFireBottle",
+                "img": "images/items/BlueFireBottle.png",
+                "codes": "BlueFireBottle, Bottles"
+            },
+            {
+                "name": "FairyBottle",
+                "img": "images/items/FairyBottle.png",
+                "codes": "FairyBottle, Bottles"
+            },
+            {
+                "name": "GreenBottle",
+                "img": "images/items/GreenPotionBottle.png",
+                "codes": "GreenBottle, Bottles"
+            },
+            {
+                "name": "RedBottle",
+                "img": "images/items/RedPotionBottle.png",
+                "codes": "RedBottle, Bottles"
+            },
+            {
+                "name": "BlueBottle",
+                "img": "images/items/BluePotionBottle.png",
+                "codes": "BlueBottle, Bottles"
+            },
+            {
+                "name": "PoeBottle",
+                "img": "images/items/PoeBottle.png",
+                "codes": "PoeBottle, Bottles"
+            },
+            {
+                "name": "BigPoeBottle",
+                "img": "images/items/BigPoeBottle.png",
+                "codes": "BigPoeBottle, Bottles"
+            }
+        ]
+    },
+    {
+        "name": "ChildTrade",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "WeirdEgg",
+                "img": "images/items/WeirdEgg.png",
+                "codes": "WeirdEgg, ChildTrade"
+            },
+            {
+                "name": "ChildCucco",
+                "img": "images/items/ChildCucco.png",
+                "codes": "ChildCucco, ChildTrade"
+            },
+            {
+                "name": "ZeldasLetter",
+                "img": "images/items/ZeldasLetter.png",
+                "codes": "ZeldasLetter, ChildTrade"
+            },
+            {
+                "name": "KeatonMask",
+                "img": "images/items/KeatonMask.png",
+                "codes": "KeatonMask, ChildTrade"
+            },
+            {
+                "name": "SkullMask",
+                "img": "images/items/SkullMask.png",
+                "codes": "SkullMask, ChildTrade"
+            },
+            {
+                "name": "GerudoMask",
+                "img": "images/items/GerudoMask.png",
+                "codes": "GerudoMask, ChildTrade"
+            },
+            {
+                "name": "ZoraMask",
+                "img": "images/items/ZoraMask.png",
+                "codes": "ZoraMask, ChildTrade"
+            },
+            {
+                "name": "GoronMask",
+                "img": "images/items/GoronMask.png",
+                "codes": "GoronMask, ChildTrade"
+            },
+            {
+                "name": "BunnyHood",
+                "img": "images/items/BunnyHood.png",
+                "codes": "BunnyHood, ChildTrade"
+            },
+            {
+                "name": "MaskofTruth",
+                "img": "images/items/MoT.png",
+                "codes": "MoT, ChildTrade"
+            }
+        ]
+    },
+    {
+        "name": "AdultTrade",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "PocketEgg",
+                "img": "images/items/PocketEgg.png",
+                "codes": "PocketEgg, AdultTrade"
+            },
+            {
+                "name": "PocketCucco",
+                "img": "images/items/PocketCucco.png",
+                "codes": "PocketCucco, AdultTrade"
+            },
+            {
+                "name": "Cojiro",
+                "img": "images/items/Cojiro.png",
+                "codes": "Cojiro, AdultTrade"
+            },
+            {
+                "name": "Mushroom",
+                "img": "images/items/Mushroom.png",
+                "codes": "Mushroom, AdultTrade"
+            },
+            {
+                "name": "OddPotion",
+                "img": "images/items/OddPotion.png",
+                "codes": "OddPotion, AdultTrade"
+            },
+            {
+                "name": "PoacherSaw",
+                "img": "images/items/PoachersSaw.png",
+                "codes": "PoacherSaw, AdultTrade"
+            },
+            {
+                "name": "BrokenKnife",
+                "img": "images/items/BrokenKnife.png",
+                "codes": "BrokenKnife, AdultTrade"
+            },
+            {
+                "name": "Prescription",
+                "img": "images/items/Prescription.png",
+                "codes": "Prescription, AdultTrade"
+            },
+            {
+                "name": "Frog",
+                "img": "images/items/Frog.png",
+                "codes": "Frog, AdultTrade"
+            },
+            {
+                "name": "Eyedrops",
+                "img": "images/items/Eyedrops.png",
+                "codes": "Eyedrops, AdultTrade"
+            },
+            {
+                "name": "ClaimCheck",
+                "img": "images/items/ClaimCheck.png",
+                "codes": "ClaimCheck, AdultTrade"
+            }
+        ]
+    },
+    {
+        "name": "ZeldasLullaby",
+        "type": "toggle",
+        "img": "images/items/ZL.png",
+        "img_mods": "",
+        "codes": "ZL"
+    },
+    {
+        "name": "EponaSong",
+        "type": "toggle",
+        "img": "images/items/epona.png",
+        "img_mods": "",
+        "codes": "Epona"
+    },
+    {
+        "name": "SariaSong",
+        "type": "toggle",
+        "img": "images/items/Saria.png",
+        "img_mods": "",
+        "codes": "Saria"
+    },
+    {
+        "name": "SongofStorms",
+        "type": "toggle",
+        "img": "images/items/storms.png",
+        "img_mods": "",
+        "codes": "Storms"
+    },
+    {
+        "name": "SunsSong",
+        "type": "toggle",
+        "img": "images/items/suns.png",
+        "img_mods": "",
+        "codes": "Suns"
+    },
+    {
+        "name": "SongofTime",
+        "type": "toggle",
+        "img": "images/items/time.png",
+        "img_mods": "",
+        "codes": "Time"
+    },
+    {
+        "name": "MinuetofForest",
+        "type": "toggle",
+        "img": "images/items/Minuet.png",
+        "img_mods": "",
+        "codes": "Minuet"
+    },
+    {
+        "name": "BoleroofFire",
+        "type": "toggle",
+        "img": "images/items/bolero.png",
+        "img_mods": "",
+        "codes": "Bolero"
+    },
+    {
+        "name": "SerenadeofWater",
+        "type": "toggle",
+        "img": "images/items/serenade.png",
+        "img_mods": "",
+        "codes": "Serenade"
+    },
+    {
+        "name": "RequiemofSpirit",
+        "type": "toggle",
+        "img": "images/items/requiem.png",
+        "img_mods": "",
+        "codes": "Requiem"
+    },
+    {
+        "name": "NocturneofShadow",
+        "type": "toggle",
+        "img": "images/items/nocturne.png",
+        "img_mods": "",
+        "codes": "Nocturne"
+    },
+    {
+        "name": "PreludeofLight",
+        "type": "toggle",
+        "img": "images/items/prelude.png",
+        "img_mods": "",
+        "codes": "Prelude"
+    },
+    {
+        "name": "OpenChest",
+        "type": "toggle",
+        "img": "images/items/openchest.png",
+        "img_mods": "",
+        "codes": "OpenChest"
+    },
+    {
+        "name": "ClosedChest",
+        "type": "toggle",
+        "img": "images/items/closedchest.png",
+        "img_mods": "",
+        "codes": "ClosedChest"
+    },
+    {
+        "name": "KokiriEmerald",
+        "type": "toggle",
+        "img": "images/items/Emerald.png",
+        "img_mods": "",
+        "codes": "Emerald"
+    },
+    {
+        "name": "GoronRuby",
+        "type": "toggle",
+        "img": "images/items/Ruby.png",
+        "img_mods": "",
+        "codes": "Ruby"
+    },
+    {
+        "name": "ZoraSapphire",
+        "type": "toggle",
+        "img": "images/items/Sapphire.png",
+        "img_mods": "",
+        "codes": "Sapphire"
+    },
+    {
+        "name": "ForestMedallion",
+        "type": "toggle",
+        "img": "images/items/ForestMed.png",
+        "img_mods": "",
+        "codes": "ForestMed"
+    },
+    {
+        "name": "FireMedallion",
+        "type": "toggle",
+        "img": "images/items/FireMed.png",
+        "img_mods": "",
+        "codes": "FireMed"
+    },
+    {
+        "name": "WaterMedallion",
+        "type": "toggle",
+        "img": "images/items/WaterMed.png",
+        "img_mods": "",
+        "codes": "WaterMed"
+    },
+    {
+        "name": "ShadowMedallion",
+        "type": "toggle",
+        "img": "images/items/ShadowMed.png",
+        "img_mods": "",
+        "codes": "ShadowMed"
+    },
+    {
+        "name": "SpiritMedallion",
+        "type": "toggle",
+        "img": "images/items/SpiritMed.png",
+        "img_mods": "",
+        "codes": "SpiritMed"
+    },
+    {
+        "name": "LightMedallion",
+        "type": "toggle",
+        "img": "images/items/LightMed.png",
+        "img_mods": "",
+        "codes": "LightMed"
+    }
+]

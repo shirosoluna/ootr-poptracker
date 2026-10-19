@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Ganons Tower",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Climb",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss Key Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Tower",
+                        "x": 1296,
+                        "y": 1675,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Before Boss",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Pot",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "5",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "6",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "7",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "8",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "9",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "10",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "11",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "12",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "13",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "14",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "15",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "16",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "17",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "18",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ganons Tower",
+                                "x": 2418,
+                                "y": 1265,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

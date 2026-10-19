@@ -1,0 +1,20 @@
+{
+  "name": "OoTR Pack for PopTracker",
+  "game_name": "Ocarina of Time Randomizer",
+  "package_version": "0.5.0",
+  "package_uid": "ootr_pack",
+  "platform": "N64",
+  "author": "shirosoluna",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.35.2",
+  "variants": {
+            "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": ["ap"]
+        },
+            "Items Only": {
+            "display_name": "Items Only",
+            "flags": ["ap"]
+        }
+  }
+}

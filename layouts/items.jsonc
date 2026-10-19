@@ -1,0 +1,159 @@
+{
+    "shared_item_grid_horizontal": {
+      "type": "array",
+      "orientation": "horizontal",
+      "margin": "0,0", 
+      "content": [
+        {
+          "type": "itemgrid",
+          "item_margin": "2, 2",
+          "h_alignment": "left",
+          "item_h_alignment": "center",
+          "item_v_alignment": "center",
+          "item_height": 32,
+          "item_width": 32,
+          "rows": [
+            [
+              "ChildTrade",
+              "ProgressiveWallet",
+              "KokiriSword",
+              "MasterSword",
+              "BiggoronSword",
+              "DekuStick",
+              "DekuNuts",
+              "Bombs",
+              "Bow",
+              "FireArrows",
+              "DinsFire"
+            ],
+            [
+              "AdultTrade",
+              "RutosLetter",
+              // "ZeldasLetter",
+              "DekuShield",
+              "HylianShield",
+              "MirrorShield",
+              "Slingshot",
+              "Ocarina",
+              "Bombchus",
+              "ProgressiveHookshot",
+              "IceArrows",
+              "FaroresWind"
+            ],
+            [
+              "StoneofAgony",
+              "ProgressiveStrengthUpgrade",
+              "",
+              // "ClaimCheck",
+              "GoronTunic",
+              "ZoraTunic",
+              "Boomerang",
+              "LensofTruth",
+              "MagicBean",
+              "MegatonHammer",
+              "LightArrows",
+              "NayrusLove"
+            ],
+            [
+              "GerudoMembershipCard",
+              "ProgressiveScale",
+              "IronBoots",
+              "HoverBoots",
+              "MaskofTruth",
+              "SkullMask",
+              "Bottle",
+              "GoldSkulltulaToken",
+              "TriforcePiece",
+              "BottlewithBigPoe",
+              "IceTrap"
+            ]
+          ]
+        }
+      ]
+    },
+    "shared_item_grid_vertical": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "0,0",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "0,0",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "2, 2",
+              "h_alignment": "left",
+              "item_h_alignment": "center",
+              "item_v_alignment": "center",
+              "item_height": 32,
+              "item_width": 32,
+              "rows": [
+                [
+                  "ChildTrade",
+                  "ProgressiveWallet",
+                  "KokiriSword",
+                  "MasterSword",
+                  "BiggoronSword"
+                ],
+                [
+                  "DekuStick",
+                  "DekuNuts",
+                  "Bombs",
+                  "Bow",
+                  "FireArrows",
+                  "DinsFire"
+                ],
+                [
+                  "AdultTrade",
+                  "RutosLetter",
+                  "DekuShield",
+                  "HylianShield",
+                  "MirrorShield"
+                ],
+                [
+                  "Slingshot",
+                  "Ocarina",
+                  "Bombchus",
+                  "ProgressiveHookshot",
+                  "IceArrows",
+                  "FaroresWind"
+                ],
+                [
+                  "StoneofAgony",
+                  "ProgressiveStrengthUpgrade",
+                  "ClaimCheck",
+                  "GoronTunic",
+                  "ZoraTunic"
+                ],
+                [
+                  "Boomerang",
+                  "LensofTruth",
+                  "MagicBean",
+                  "MegatonHammer",
+                  "LightArrows",
+                  "NayrusLove"
+                ],
+                [
+                  "GerudoMembershipCard",
+                  "ProgressiveScale",
+                  "IronBoots",
+                  "HoverBoots",
+                  "MaskofTruth"
+                ],
+                [
+                  "SkullMask",
+                  "Bottle",
+                  "GoldSkulltulaToken",
+                  "TriforcePiece",
+                  "BottlewithBigPoe",
+                  "IceTrap"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

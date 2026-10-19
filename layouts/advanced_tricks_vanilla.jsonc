@@ -1,0 +1,136 @@
+{
+  "logic_tricks": 
+      {
+      "title": "Logic Tricks",
+      "type": "tabbed",
+      "tabs":[
+              {
+              "title": "Non-MQ Tricks",
+              "content":
+              {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "margin": "5",
+                  "content": [
+                      {
+                          "type": "group",
+                          "header": "Overworld",
+                          "description": "Enable/Disable the automatic fill of the settings pannel from for connected Slot_Data",
+                          "header_background": "#3e4b57",
+                          "content": [
+                              {
+                                  "type": "item",
+
+                                  "max_width": "320", 
+                                  "item": "logic_visible_collisions"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_grottos_without_agony"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_fewer_tunic_requirements"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_beehives_bombchus"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_rusted_switches"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_lost_woods_bridge"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_mido_backflip"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_man_on_roof"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_windmill_poh"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_graveyard_poh"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_child_dampe_race_poh"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_lab_diving"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_valley_crate_hover"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_gerudo_kitchen"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_gf_jump"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_wasteland_crossing"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_lens_wasteland"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_reverse_wasteland"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_lens_gtg"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_gtg_without_hookshot"
+                              },
+                              {
+                                  "type": "item",
+                                  "max_width": "320", 
+                                  "item": "logic_gtg_fake_wall"
+                              }
+                          ]
+                      }
+                    ]
+                }
+                }
+                
+            ]  
+    }
+}
+            

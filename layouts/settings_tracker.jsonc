@@ -1,0 +1,203 @@
+{
+    "settings_popup": {
+        "type": "array",
+        "margin": 5,
+        "content": [
+            {
+                "type": "group",
+                "header": "Logic Settings",
+                "header_background": "#3e4b57",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "Glitchless",
+                                "Logic Tricks Enabled",
+                                "Excluded Locations",
+                                "Wincon Bridge",
+                                "Wincon GBK",
+                                "Triforce Hunt"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "General Settings",
+                "header_background": "#3e4b57",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                               "Open Forest",
+                               "Kakariko Gate",
+                               "Door of Time",
+                               "King Zora",
+                               "Gerudo Fortress",
+                               "Dungeon Shortcuts",
+                               "Trials"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Shuffle Settings",
+                "header_background": "#3e4b57",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                              "Songs",
+                              "Shopsanity",
+                              "Tokensanity",
+                              "Scrubsanity",
+                              "Child Trade",
+                              "Adult Trade",
+                              "Rupees and Hearts",
+                              "Potsanity"
+                            ],
+                            [
+                                "Cratesanity",
+                                "Cowsanity",
+                                "Beehives",
+                                "Wonderitems",
+                                "Shuffle Sword",
+                                "Shuffle Membership Card",
+                                "Shuffle Beans",
+                                "Shuffle Ocarina"
+                              ],
+                              [
+                                "Expensive Merchants",
+                                "Frog Songs",
+                                "100 Skull Reward",
+                                "Shuffle Loach",
+                                "Shuffle Ocarina Buttons"
+                              ]
+
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Shuffle Dungeon Items",
+                "header_background": "#3e4b57",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                              "Reward Locations",
+                              "Maps and Compasses",
+                              "Keysanity",
+                              "Thieves Hideout Keys",
+                              "Treasure Chest Game Keys",
+                              "Key Rings Mode",
+                              "Boss Keys",
+                              "Silver Rupees"
+                            ]
+                        ]
+                    }
+                 ]
+            },
+            {
+                "type": "group",
+                "header": "Entrance Rando",
+                "header_background": "#3e4b57",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                              "Shuffle Indoors",
+                              "Shuffle Dungeons",
+                              "Shuffle Bosses",
+                              "Shuffle Overworld"
+                            ],
+                            [
+                                "Shuffle Spawns",
+                                "Shuffle Grottos",
+                                "Shuffle GV Exit",
+                                "Shuffle Owls",
+                                "Shuffle Warps"
+                            ]
+                        ]
+                    }
+                 ]
+            },
+            {
+                "type": "group",
+                "header": "Misc Settings",
+                "header_background": "#3e4b57",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "Bombchus in Logic",
+                                "Blue Fire Arrows",
+                                "Ocarina Notes",
+                                "Damage Multi",
+                                "BonKO",
+                                "Free Epona",
+                                "Fast Minigames",
+                                "Free Reward from Rauru"
+                            ],
+                            [
+                                "Mask Quest",
+                                "Tokens with Suns",
+                                "Pierre",
+                                "PrePlanted Beans",
+                                "Cucco Count",
+                                "Big Poe Count",
+                                "Require Lens for TCG"
+                            ]
+                        ]
+                    }
+                 ]
+            }
+        ]
+    }
+}

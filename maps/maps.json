@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Bottom of the Well",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Bottom of the Well.png"
+    },
+    {
+        "name": "Bottom of the WellMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Bottom of the WellMQ.png"
+    },
+    {
+        "name": "Colossus",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Colossus.png"
+    },
+    {
+        "name": "DMC",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/DMC.png"
+    },
+    {
+        "name": "DMT",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/DMT.png"
+    },
+    {
+        "name": "Deku Tree",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Deku Tree.png"
+    },
+    {
+        "name": "Deku TreeMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Deku TreeMQ.png"
+    },
+    {
+        "name": "Dodongos Cavern",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Dodongos Cavern.png"
+    },
+    {
+        "name": "Dodongos CavernMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Dodongos CavernMQ.png"
+    },
+    {
+        "name": "Fire Temple",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Fire Temple.png"
+    },
+    {
+        "name": "Fire TempleMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Fire TempleMQ.png"
+    },
+    {
+        "name": "Forest Temple",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Forest Temple.png"
+    },
+    {
+        "name": "Forest TempleMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Forest TempleMQ.png"
+    },
+    {
+        "name": "GC",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/GC.png"
+    },
+    {
+        "name": "GF",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/GF.png"
+    },
+    {
+        "name": "GV",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/GV.png"
+    },
+    {
+        "name": "Ganons Castle",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ganons Castle.png"
+    },
+    {
+        "name": "Ganons CastleMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ganons CastleMQ.png"
+    },
+    {
+        "name": "Ganons Tower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ganons Tower.png"
+    },
+    {
+        "name": "Gerudo Training Ground",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Gerudo Training Ground.png"
+    },
+    {
+        "name": "Gerudo Training GroundMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Gerudo Training GroundMQ.png"
+    },
+    {
+        "name": "Graveyard",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Graveyard.png"
+    },
+    {
+        "name": "HC",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/HC.png"
+    },
+    {
+        "name": "HF",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/HF.png"
+    },
+    {
+        "name": "Hideout",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hideout.png"
+    },
+    {
+        "name": "Ice Cavern",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ice Cavern.png"
+    },
+    {
+        "name": "Ice CavernMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Ice CavernMQ.png"
+    },
+    {
+        "name": "Jabu Jabus Belly",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Jabu Jabus Belly.png"
+    },
+    {
+        "name": "Jabu Jabus BellyMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Jabu Jabus BellyMQ.png"
+    },
+    {
+        "name": "Kak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kak.png"
+    },
+    {
+        "name": "Kokiri Forest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kokiri Forest.png"
+    },
+    {
+        "name": "LH",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/LH.png"
+    },
+    {
+        "name": "LLR",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/LLR.png"
+    },
+    {
+        "name": "LW",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/LW.png"
+    },
+    {
+        "name": "Market",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Market.png"
+    },
+    {
+        "name": "OGC",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/OGC.png"
+    },
+    {
+        "name": "SFM",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/SFM.png"
+    },
+    {
+        "name": "Shadow Temple",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Shadow Temple.png"
+    },
+    {
+        "name": "Shadow TempleMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Shadow TempleMQ.png"
+    },
+    {
+        "name": "Spirit Temple",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Spirit Temple.png"
+    },
+    {
+        "name": "Spirit TempleMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Spirit TempleMQ.png"
+    },
+    {
+        "name": "Temple of Time",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Temple of Time.png"
+    },
+    {
+        "name": "Wasteland",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Wasteland.png"
+    },
+    {
+        "name": "Water Temple",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Water Temple.png"
+    },
+    {
+        "name": "Water TempleMQ",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Water TempleMQ.png"
+    },
+    {
+        "name": "ZD",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/ZD.png"
+    },
+    {
+        "name": "ZF",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/ZF.png"
+    },
+    {
+        "name": "ZR",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/ZR.png"
+    }
+]
