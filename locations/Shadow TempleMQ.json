@@ -9,7 +9,63 @@
         ],
         "children": [
             {
+                "name": "Truth Spinner",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Small Wooden Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2292,
+                        "y": 885,
+                        "size": 6
+                    }
+                ]
+            },
+            {
                 "name": "Compass Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 556,
+                        "y": 534,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Hover Boots",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -27,14 +83,620 @@
                 "map_locations": [
                     {
                         "map": "Shadow TempleMQ",
-                        "x": 1891,
-                        "y": 1609,
+                        "x": 1051,
+                        "y": 1200,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "After Boat",
+                "name": "Whispering Walls",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 654,
+                        "y": 809,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Whispering Walls After Time Block",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Flying Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2115,
+                        "y": 2097,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Whispering Walls Before Time Block",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Flying Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2024,
+                        "y": 708,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Map",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2372,
+                        "y": 353,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Early Gibdos",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1567,
+                        "y": 1527,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Ship",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Invisible Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1811,
+                        "y": 1288,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Center Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2041,
+                        "y": 2255,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Center Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1625,
+                        "y": 1422,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Ledge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 690,
+                        "y": 1523,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Left Alcove",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2130,
+                        "y": 1279,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Back Alcove",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1156,
+                        "y": 1460,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Blades",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Invisible Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Visible Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1791,
+                        "y": 1116,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Blades Silver Rupee Back Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2367,
+                        "y": 1678,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Blades Silver Rupee Back Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1408,
+                        "y": 2389,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Blades Silver Rupee",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupees",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1940,
+                        "y": 175,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Blades Silver Rupee Like Like",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 184,
+                        "y": 1513,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Blades Silver Rupee Song of Time Block",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2392,
+                        "y": 1718,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Blades Hearts",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1903,
+                        "y": 1447,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Beamos Silver Rupees",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 174,
+                        "y": 1345,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1873,
+                        "y": 671,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1117,
+                        "y": 597,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Switch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1928,
+                        "y": 903,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Lower Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1441,
+                        "y": 1732,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Upper Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 923,
+                        "y": 1767,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Room GS",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -52,603 +714,910 @@
                 "map_locations": [
                     {
                         "map": "Shadow TempleMQ",
-                        "x": 1163,
-                        "y": 1322,
+                        "x": 2409,
+                        "y": 1344,
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Truth Spinner Small Wooden Crate 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Truth Spinner Small Wooden Crate 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Truth Spinner Small Wooden Crate 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Truth Spinner Small Wooden Crate 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Compass Room Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Compass Room Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Hover Boots Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Whispering Walls Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Whispering Walls Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Whispering Walls After Time Block Flying Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Whispering Walls After Time Block Flying Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Whispering Walls Before Time Block Flying Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Whispering Walls Before Time Block Flying Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Map Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Early Gibdos Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Ship Invisible Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Scythe Shortcut Silver Rupee Center Left",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Scythe Shortcut Silver Rupee Center Right",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Scythe Shortcut Silver Rupee Ledge",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Scythe Shortcut Silver Rupee Left Alcove",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Scythe Shortcut Silver Rupee Back Alcove",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Invisible Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Visible Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee Back Right",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee Back Left",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee 5",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee 6",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee Like Like",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Silver Rupee Song of Time Block",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Recovery Heart 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Invisible Blades Recovery Heart 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Beamos Silver Rupees Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Falling Spikes Lower Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Falling Spikes Upper Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Falling Spikes Switch Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Falling Spikes Lower Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Falling Spikes Lower Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Falling Spikes Upper Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Falling Spikes Upper Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Falling Spikes Room",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
                 "name": "Huge Pit Silver Rupee Center Front",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2076,
+                        "y": 892,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Huge Pit Silver Rupee Center Back",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1942,
+                        "y": 715,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Huge Pit Silver Rupee Right",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Huge Pit Silver Rupee Righ",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupeet",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1713,
+                        "y": 857,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Huge Pit Silver Rupee Ceiling Upper",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1776,
+                        "y": 411,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Huge Pit Silver Rupee Ceiling Lower",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2047,
+                        "y": 1916,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Invisible Spikes Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Invisible Spikes",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1436,
+                        "y": 255,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Stalfos Room Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Stalfos Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2202,
+                        "y": 116,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Invisible Spikes Silver Rupee Center Front",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1829,
+                        "y": 83,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Invisible Spikes Silver Rupee Center Right",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1408,
+                        "y": 865,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Invisible Spikes Silver Rupee Left Hookshot Target",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1394,
+                        "y": 863,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Invisible Spikes Silver Rupee Right Hookshot Target",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1058,
+                        "y": 2316,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Invisible Spikes Silver Rupee Back Right",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 172,
+                        "y": 991,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Invisible Spikes Silver Rupee Ledge",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 413,
+                        "y": 869,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Invisible Spikes Silver Rupee Near Ledge",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 599,
+                        "y": 2106,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Invisible Spikes Silver Rupee Ceiling Front",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Invisible Spikes Silver Rupee Ceiling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Front",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Back",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1773,
+                        "y": 1567,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Invisible Spikes Silver Rupee Ceiling Middle",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Wind Hint Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 158,
+                        "y": 969,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Invisible Spikes Silver Rupee Ceiling Back",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": " Wind Hint Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 132,
+                        "y": 625,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Wind Hint Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "After Wind",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hidden Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Enemy Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1145,
+                        "y": 1298,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "GS Wind Hint Room",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "After Wind GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 966,
+                        "y": 92,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "After Wind Hidden Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "After Wind Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 331,
+                        "y": 2079,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "After Wind Enemy Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "After Wind Flying Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1828,
+                        "y": 2170,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "GS After Wind",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Before Boat Hearts",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1581,
+                        "y": 247,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "After Wind Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "After Boat GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 32,
+                        "y": 1807,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "After Wind Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "After Boat Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 742,
+                        "y": 1340,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "After Wind Flying Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "After Boat Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Heart",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2158,
+                        "y": 2109,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "After Wind Flying Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Near Boss",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1172,
+                        "y": 1508,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Before Boat Recovery Heart 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Bomb Flower Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1545,
+                        "y": 1109,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Before Boat Recovery Heart 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "After Boat Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "After Boat Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "After Boat Lower Recovery Heart",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Boss Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Boss Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bomb Flower Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Spike Walls Left Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Spike Walls Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2367,
+                        "y": 573,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Freestanding Key",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Item",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1905,
+                        "y": 560,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "After Boat Upper Recovery Heart 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "After Boat Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1614,
+                        "y": 429,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "After Boat Upper Recovery Heart 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Bomb Flower Room Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Potss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 2470,
+                        "y": 1345,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Bomb Flower Room Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Spike Walls",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 326,
+                        "y": 80,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Bomb Flower Room Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Boss Key",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 1730,
+                        "y": 1886,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Spike Walls Pot",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "3 Spinning Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupees",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 579,
+                        "y": 2194,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Boss Key Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 5",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 6",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 7",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 8",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Rupee 9",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "3 Spinning Pots Wonderitem",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Near Boss",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Shadow TempleMQ",
-                "x": 1499,
-                "y": 2211,
-                "size": 6
+                "name": "Near Boss GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow TempleMQ",
+                        "x": 946,
+                        "y": 1872,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

@@ -24,37 +24,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 1",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 2",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -63,9 +39,50 @@
                 "map_locations": [
                     {
                         "map": "Hideout",
-                        "x": 846,
-                        "y": 1227,
-                        "size": 6
+                        "x": 466,
+                        "y": 668,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 139,
+                        "y": 171,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Near 1 Torch Jail",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hideout",
+                        "x": 309,
+                        "y": 1480,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 387,
+                        "y": 140,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -85,67 +102,25 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 1",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 2",
+                        "name": "Crate",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 3",
+                        "name": "In Cell Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Crate 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "In Cell Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "In Cell Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "In Cell Pot 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "In Cell Pot 4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 2",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -154,9 +129,17 @@
                 "map_locations": [
                     {
                         "map": "Hideout",
-                        "x": 1048,
-                        "y": 1738,
-                        "size": 6
+                        "x": 499,
+                        "y": 1769,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 327,
+                        "y": 278,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -182,13 +165,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Wonderitem 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 2",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -197,9 +174,17 @@
                 "map_locations": [
                     {
                         "map": "Hideout",
-                        "x": 2049,
-                        "y": 461,
-                        "size": 6
+                        "x": 2430,
+                        "y": 1832,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 602,
+                        "y": 326,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -219,25 +204,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 1",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 2",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -246,9 +219,50 @@
                 "map_locations": [
                     {
                         "map": "Hideout",
-                        "x": 2169,
-                        "y": 1239,
-                        "size": 6
+                        "x": 1920,
+                        "y": 1100,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 288,
+                        "y": 51,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Defeat Guards",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Gerudo Membership Card",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hideout",
+                        "x": 255,
+                        "y": 423,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 119,
+                        "y": 194,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -262,25 +276,19 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 2",
+                        "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Crate 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate 2",
+                        "name": "Wonderitem",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -289,9 +297,17 @@
                 "map_locations": [
                     {
                         "map": "Hideout",
-                        "x": 1593,
-                        "y": 1625,
-                        "size": 6
+                        "x": 1049,
+                        "y": 2416,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 187,
+                        "y": 67,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -305,13 +321,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Crate 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate 2",
+                        "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -320,9 +330,17 @@
                 "map_locations": [
                     {
                         "map": "Hideout",
-                        "x": 2327,
-                        "y": 1832,
-                        "size": 6
+                        "x": 1479,
+                        "y": 405,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 141,
+                        "y": 82,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -336,13 +354,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -363,9 +375,17 @@
                 "map_locations": [
                     {
                         "map": "Hideout",
-                        "x": 1909,
-                        "y": 1699,
-                        "size": 6
+                        "x": 718,
+                        "y": 1203,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 524,
+                        "y": 119,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -379,31 +399,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Crate 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate 4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate 5",
+                        "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -412,39 +408,52 @@
                 "map_locations": [
                     {
                         "map": "Hideout",
-                        "x": 272,
-                        "y": 620,
-                        "size": 6
+                        "x": 2430,
+                        "y": 1630,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 515,
+                        "y": 157,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Gerudo Membership Card",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
-                "name": "Break Room Wonderitem",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Break Room Hall to Balcony Wonderitem",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Hideout",
-                "x": 1654,
-                "y": 826,
-                "size": 6
+                "name": "Break Room Hall to Balcony",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Hideout",
+                        "x": 897,
+                        "y": 2341,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Thieve's Hideout",
+                        "x": 58,
+                        "y": 112,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }

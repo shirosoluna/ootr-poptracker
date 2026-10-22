@@ -9,6 +9,58 @@
         ],
         "children": [
             {
+                "name": "Volcano Freestanding",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PoH",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 430,
+                        "y": 112,
+                        "size": 8,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Wall Freestanding",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "PoH",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 278,
+                        "y": 200,
+                        "size": 8,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Upper Grotto",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -39,9 +91,62 @@
                 "map_locations": [
                     {
                         "map": "DMC",
-                        "x": 141,
-                        "y": 1380,
-                        "size": 6
+                        "x": 195,
+                        "y": 133,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Great Fairy",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Reward",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 355,
+                        "y": 96,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of Ladder",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Child Deku Scrub",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 325,
+                        "y": 130,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -76,9 +181,62 @@
                 "map_locations": [
                     {
                         "map": "DMC",
-                        "x": 500,
-                        "y": 2446,
-                        "size": 6
+                        "x": 513,
+                        "y": 105,
+                        "size": 8,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Child Crate",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 220,
+                        "y": 54,
+                        "size": 8,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bean Patch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "DMC",
+                        "x": 458,
+                        "y": 232,
+                        "size": 8,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -92,37 +250,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Green Rupee 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Green Rupee 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Green Rupee 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Green Rupee 4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Green Rupee 5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Green Rupee 6",
+                        "name": "Green Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -137,9 +265,10 @@
                 "map_locations": [
                     {
                         "map": "DMC",
-                        "x": 1151,
-                        "y": 1985,
-                        "size": 6
+                        "x": 326,
+                        "y": 387,
+                        "size": 8,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -153,49 +282,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Red Rupee 1",
+                        "name": "Red Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Red Rupee 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Blue Rupee 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Blue Rupee 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Blue Rupee 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Blue Rupee 4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Blue Rupee 5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Blue Rupee 6",
+                        "name": "Blue Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -204,9 +297,10 @@
                 "map_locations": [
                     {
                         "map": "DMC",
-                        "x": 2050,
-                        "y": 11,
-                        "size": 6
+                        "x": 424,
+                        "y": 399,
+                        "size": 8,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -220,25 +314,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 4",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -247,9 +323,10 @@
                 "map_locations": [
                     {
                         "map": "DMC",
-                        "x": 320,
-                        "y": 294,
-                        "size": 6
+                        "x": 463,
+                        "y": 101,
+                        "size": 8,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -272,57 +349,12 @@
                 "map_locations": [
                     {
                         "map": "DMC",
-                        "x": 2124,
-                        "y": 2189,
-                        "size": 6
+                        "x": 488,
+                        "y": 176,
+                        "size": 8,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Volcano Freestanding PoH",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Wall Freestanding PoH",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Great Fairy Reward",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Deku Scrub",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Crate",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Bean Patch",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "DMC",
-                "x": 2438,
-                "y": 2416,
-                "size": 6
             }
         ]
     }

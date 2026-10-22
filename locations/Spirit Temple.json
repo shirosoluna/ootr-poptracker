@@ -9,6 +9,106 @@
         ],
         "children": [
             {
+                "name": "Lobby Pot 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1748,
+                        "y": 2405,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lobby Pot 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 190,
+                        "y": 1604,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lobby Flying Pot 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 767,
+                        "y": 1558,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lobby Flying Pot 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2236,
+                        "y": 1015,
+                        "size": 6
+                    }
+                ]
+            },
+            {
                 "name": "Child Bridge",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -22,15 +122,28 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Flying Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
+                        "map": "Spirit Temple",
+                        "x": 1041,
+                        "y": 2083,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Bridge Flying Pot 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
-                        "name": "Flying Pot 2",
+                        "name": "Pot",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -39,8 +152,33 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 2060,
-                        "y": 1449,
+                        "x": 1952,
+                        "y": 739,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Bridge Flying Pot 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1845,
+                        "y": 1433,
                         "size": 6
                     }
                 ]
@@ -53,49 +191,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 2482,
-                                "y": 127,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1944,
+                        "y": 822,
+                        "size": 6
                     }
                 ]
             },
@@ -107,66 +216,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Silver Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Top Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Bottom Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Bottom Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Top Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Near Torch",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 718,
-                                "y": 764,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "GS Metal Fence",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -175,8 +227,158 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 754,
-                        "y": 1264,
+                        "x": 1385,
+                        "y": 1435,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Early Torches Silver Rupee Top Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1475,
+                        "y": 1656,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Early Torches Silver Rupee Bottom Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 492,
+                        "y": 352,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Early Torches Silver Rupee Bottom Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1005,
+                        "y": 51,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Early Torches Silver Rupee Top Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2276,
+                        "y": 1974,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Early Torches Silver Rupee Near Torch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 387,
+                        "y": 2031,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Early Torches GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 100,
+                        "y": 1087,
                         "size": 6
                     }
                 ]
@@ -189,42 +391,25 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Small Wooden Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 1059,
-                                "y": 406,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Small Wooden Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1158,
+                        "y": 537,
+                        "size": 6
                     }
                 ]
             },
             {
-                "name": "Child Climb",
+                "name": "Child Climb Pot",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -237,19 +422,76 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "North Chest",
+                        "map": "Spirit Temple",
+                        "x": 187,
+                        "y": 2326,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Climb North",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "East Chest",
+                        "map": "Spirit Temple",
+                        "x": 2053,
+                        "y": 1982,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Climb East",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2192,
+                        "y": 2425,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Climb GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "GS",
                         "access_rules": [],
@@ -260,8 +502,158 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 1873,
-                        "y": 2120,
+                        "x": 836,
+                        "y": 996,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Map",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1239,
+                        "y": 239,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sun Block Room Silver Rupee Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 796,
+                        "y": 2337,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sun Block Room Silver Rupee Center Front",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1653,
+                        "y": 1044,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sun Block Room Silver Rupee Center Back",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2233,
+                        "y": 385,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sun Block Room Silver Rupee Right Front",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1064,
+                        "y": 1182,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sun Block Room Silver Rupee Right Back",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1465,
+                        "y": 878,
                         "size": 6
                     }
                 ]
@@ -276,36 +668,6 @@
                 ],
                 "sections": [
                     {
-                        "name": "Silver Rupee Left",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Center Front",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Center Back",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Right Front",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Right Back",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
@@ -315,8 +677,8 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 2472,
-                        "y": 1495,
+                        "x": 1589,
+                        "y": 709,
                         "size": 6
                     }
                 ]
@@ -329,40 +691,13 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 69,
-                                "y": 786,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "GS",
                         "access_rules": [],
@@ -373,105 +708,23 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 818,
-                        "y": 249,
+                        "x": 738,
+                        "y": 1080,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Central Chamber",
+                "name": "Silver Gauntlets",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pots Right",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 1931,
-                                "y": 1566,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Pots Left",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 857,
-                                "y": 205,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Flying Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Flying Pot 2",
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -480,8 +733,233 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 1069,
-                        "y": 1160,
+                        "x": 1147,
+                        "y": 389,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Central Chamber Pots Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2292,
+                        "y": 1866,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Central Chamber Pots Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1349,
+                        "y": 2131,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Central Chamber Flying Pot 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1084,
+                        "y": 1772,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Central Chamber Flying Pot 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2199,
+                        "y": 948,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Boulder Silver Rupee Ledge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2022,
+                        "y": 369,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Boulder Silver Rupee Front Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2032,
+                        "y": 217,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Boulder Silver Rupee Front Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1426,
+                        "y": 407,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Boulder Silver Rupee Back Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 275,
+                        "y": 481,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Boulder Silver Rupee Back Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 2210,
+                        "y": 811,
                         "size": 6
                     }
                 ]
@@ -494,64 +972,32 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Silver Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Ledge",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Front Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Front Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 230,
-                                "y": 1485,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1035,
+                        "y": 2343,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Boulder SoT Block",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "GS",
                         "access_rules": [],
@@ -562,8 +1008,33 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 1950,
-                        "y": 1551,
+                        "x": 2368,
+                        "y": 160,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Compass",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1048,
+                        "y": 135,
                         "size": 6
                     }
                 ]
@@ -593,14 +1064,14 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 694,
-                        "y": 885,
+                        "x": 1084,
+                        "y": 407,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Adult Climb",
+                "name": "Adult Climb Flying Pots",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -609,13 +1080,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Flying Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Flying Pot 2",
+                        "name": "Pot",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -624,99 +1089,14 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 985,
-                        "y": 904,
+                        "x": 394,
+                        "y": 1260,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Big Mirror",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Flying Pot Right",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 295,
-                                "y": 888,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Flying Pot Left",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 541,
-                                "y": 471,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Statue Room",
+                "name": "Statue Room Northeast",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -725,17 +1105,55 @@
                 ],
                 "sections": [
                     {
-                        "name": "Northeast Chest",
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Hand Chest",
+                        "map": "Spirit Temple",
+                        "x": 556,
+                        "y": 319,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Statue Room Hand",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 822,
+                        "y": 1125,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Statue Room Child Side",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "GS",
                         "access_rules": [],
@@ -746,8 +1164,8 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 137,
-                        "y": 563,
+                        "x": 520,
+                        "y": 1617,
                         "size": 6
                     }
                 ]
@@ -771,8 +1189,33 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 1656,
-                        "y": 210,
+                        "x": 1983,
+                        "y": 2354,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Four Armos",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1629,
+                        "y": 728,
                         "size": 6
                     }
                 ]
@@ -802,8 +1245,33 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 1120,
-                        "y": 1004,
+                        "x": 200,
+                        "y": 2430,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Mirror Shield",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 287,
+                        "y": 1288,
                         "size": 6
                     }
                 ]
@@ -816,37 +1284,120 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Spirit Temple",
-                                "x": 1270,
-                                "y": 2195,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 475,
+                        "y": 1137,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Boss Key",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 704,
+                        "y": 1932,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Topmost",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 1943,
+                        "y": 376,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Big Mirror Flying Pots Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 877,
+                        "y": 2430,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Big Mirror Flying Pots Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Spirit Temple",
+                        "x": 238,
+                        "y": 1165,
+                        "size": 6
                     }
                 ]
             },
@@ -875,87 +1426,11 @@
                 "map_locations": [
                     {
                         "map": "Spirit Temple",
-                        "x": 27,
-                        "y": 1704,
+                        "x": 1567,
+                        "y": 1688,
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Lobby Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Lobby Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Lobby Flying Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Lobby Flying Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Map Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Silver Gauntlets Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Compass Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Four Armos Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Mirror Shield Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Boss Key Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Topmost Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Spirit Temple",
-                "x": 913,
-                "y": 1523,
-                "size": 6
             }
         ]
     }

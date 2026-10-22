@@ -9,6 +9,32 @@
         ],
         "children": [
             {
+                "name": "Map",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku Tree",
+                        "x": 525,
+                        "y": 162,
+                        "size": 8,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Slingshot Room",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -33,9 +59,10 @@
                 "map_locations": [
                     {
                         "map": "Deku Tree",
-                        "x": 1996,
-                        "y": 2372,
-                        "size": 6
+                        "x": 174,
+                        "y": 125,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -70,9 +97,120 @@
                 "map_locations": [
                     {
                         "map": "Deku Tree",
-                        "x": 805,
-                        "y": 295,
-                        "size": 6
+                        "x": 355,
+                        "y": 67,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Basement",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku Tree",
+                        "x": 492,
+                        "y": 328,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Basement Vines",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku Tree",
+                        "x": 472,
+                        "y": 353,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Basement Gate",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku Tree",
+                        "x": 471,
+                        "y": 310,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Basement Back Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku Tree",
+                        "x": 329,
+                        "y": 230,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -95,9 +233,10 @@
                 "map_locations": [
                     {
                         "map": "Deku Tree",
-                        "x": 2169,
-                        "y": 2121,
-                        "size": 6
+                        "x": 404,
+                        "y": 422,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -120,46 +259,10 @@
                 "map_locations": [
                     {
                         "map": "Deku Tree",
-                        "x": 1972,
-                        "y": 684,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Basement",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Recovery Heart 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Recovery Heart 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Recovery Heart 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Deku Tree",
-                        "x": 1737,
-                        "y": 102,
-                        "size": 6
+                        "x": 476,
+                        "y": 167,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -188,51 +291,12 @@
                 "map_locations": [
                     {
                         "map": "Deku Tree",
-                        "x": 2038,
-                        "y": 874,
-                        "size": 6
+                        "x": 519,
+                        "y": 343,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Map Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Basement Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Basement Vines",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Basement Gate",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Basement Back Room",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Deku Tree",
-                "x": 322,
-                "y": 2423,
-                "size": 6
             }
         ]
     }

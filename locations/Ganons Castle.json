@@ -9,94 +9,210 @@
         ],
         "children": [
             {
-                "name": "Forest Trial",
+                "name": "Forest Trial Silver Rupee Front Left",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Silver Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Front Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Front Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Center Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Center",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 928,
-                                "y": 1924,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1975,
+                        "y": 1376,
+                        "size": 6,
+                        "shape": "rect"
                     },
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 2139,
-                                "y": 895,
-                                "size": 6
-                            }
-                        ]
+                        "map": "IGC Trials",
+                        "x": 615,
+                        "y": 325,
+                        "size": 10,
+                        "shape": "rect"
                     }
+                ]
+            },
+            {
+                "name": "Forest Trial Silver Rupee Front Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1589,
+                        "y": 1948,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 675,
+                        "y": 309,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Forest Trial Silver Rupee Center Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2204,
+                        "y": 191,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 618,
+                        "y": 303,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Forest Trial Silver Rupee Back Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1862,
+                        "y": 2346,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 648,
+                        "y": 279,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Forest Trial Silver Rupee Back Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 103,
+                        "y": 641,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 671,
+                        "y": 260,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Forest Trial End",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1697,
+                        "y": 188,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 646,
+                        "y": 214,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Water Trial Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
                 ],
                 "sections": [
                     {
@@ -109,68 +225,31 @@
                 "map_locations": [
                     {
                         "map": "Ganons Castle",
-                        "x": 1735,
-                        "y": 1806,
-                        "size": 6
+                        "x": 2426,
+                        "y": 1483,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 531,
+                        "y": 198,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Water Trial",
+                "name": "Water Trial Right",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 208,
-                                "y": 254,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Left Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Right Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Fairy Pot Drop",
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -179,101 +258,258 @@
                 "map_locations": [
                     {
                         "map": "Ganons Castle",
-                        "x": 821,
-                        "y": 625,
-                        "size": 6
+                        "x": 129,
+                        "y": 1765,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 582,
+                        "y": 196,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Fire Trial",
+                "name": "Water Trial End",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Silver Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Flamethrower",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Inside Pillar",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Right Front",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Right Center",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Right Back",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 1785,
-                                "y": 558,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1295,
+                        "y": 446,
+                        "size": 6,
+                        "shape": "rect"
                     },
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 1701,
-                                "y": 2366,
-                                "size": 6
-                            }
-                        ]
+                        "map": "IGC Trials",
+                        "x": 555,
+                        "y": 37,
+                        "size": 10,
+                        "shape": "rect"
                     }
+                ]
+            },
+            {
+                "name": "Water Trial Fairy Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Drop",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1049,
+                        "y": 514,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 568,
+                        "y": 113,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fire Trial Silver Rupee Flamethrower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2053,
+                        "y": 402,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 260,
+                        "y": 205,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fire Trial Silver Rupee Inside Pillar",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 422,
+                        "y": 1020,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 251,
+                        "y": 168,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fire Trial Silver Rupee Right Front",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 266,
+                        "y": 471,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 320,
+                        "y": 208,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fire Trial Silver Rupee Right Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 945,
+                        "y": 1714,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 286,
+                        "y": 162,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fire Trial Silver Rupee Right Back",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1619,
+                        "y": 581,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 337,
+                        "y": 156,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fire Trial Heart",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
                 ],
                 "sections": [
                     {
@@ -286,9 +522,116 @@
                 "map_locations": [
                     {
                         "map": "Ganons Castle",
-                        "x": 675,
-                        "y": 1269,
-                        "size": 6
+                        "x": 2157,
+                        "y": 2222,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 337,
+                        "y": 186,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fire Trial End",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2172,
+                        "y": 421,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 295,
+                        "y": 80,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Trial Front",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 101,
+                        "y": 198,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 400,
+                        "y": 226,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Trial Golden Gauntlets",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 738,
+                        "y": 1272,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 446,
+                        "y": 127,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -300,299 +643,768 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Front",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Chest",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 554,
-                                "y": 1230,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2371,
+                        "y": 1183,
+                        "size": 6,
+                        "shape": "rect"
                     },
                     {
-                        "name": "Golden Gauntlets",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Chest",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 1915,
-                                "y": 546,
-                                "size": 6
-                            }
-                        ]
+                        "map": "IGC Trials",
+                        "x": 420,
+                        "y": 99,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Trial Like Like",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 168,
+                        "y": 1879,
+                        "size": 6,
+                        "shape": "rect"
                     },
+                    {
+                        "map": "IGC Trials",
+                        "x": 435,
+                        "y": 164,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Trial End",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 654,
+                        "y": 894,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 432,
+                        "y": 43,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial First Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1543,
+                        "y": 1973,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 157,
+                        "y": 286,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Second Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1185,
+                        "y": 2368,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 148,
+                        "y": 275,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Third Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2447,
+                        "y": 186,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 158,
+                        "y": 259,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial First Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 648,
+                        "y": 961,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 191,
+                        "y": 287,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Second Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1378,
+                        "y": 1204,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 193,
+                        "y": 273,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Third Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 971,
+                        "y": 1436,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 187,
+                        "y": 258,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Invisible Enemies",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1218,
+                        "y": 1512,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 171,
+                        "y": 274,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Lullaby",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2166,
+                        "y": 1406,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 173,
+                        "y": 214,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Silver Rupee Center Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1077,
+                        "y": 2172,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 172,
+                        "y": 177,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Silver Rupee Center Top",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 500,
+                        "y": 275,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 172,
+                        "y": 165,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Silver Rupee Center Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2367,
+                        "y": 1763,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 184,
+                        "y": 166,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Silver Rupee Left Alcove",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2446,
+                        "y": 1415,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 142,
+                        "y": 164,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Silver Rupee Right Alcove",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2250,
+                        "y": 1979,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 199,
+                        "y": 177,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial Silver Rupee Boulder",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1950,
+                        "y": 1681,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 161,
+                        "y": 165,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Light Trial End",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1536,
+                        "y": 1844,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 173,
+                        "y": 31,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Spirit Trial Silver Rupee Ceiling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 121,
+                        "y": 2412,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 72,
+                        "y": 404,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Spirit Trial Silver Rupee Front Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 209,
+                        "y": 1856,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 44,
+                        "y": 440,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Spirit Trial Silver Rupee Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 961,
+                        "y": 1326,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 72,
+                        "y": 418,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Spirit Trial Silver Rupee Back Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 2344,
+                        "y": 2036,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 93,
+                        "y": 374,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Spirit Trial Silver Rupee Back Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 499,
+                        "y": 1325,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 99,
+                        "y": 443,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Spirit Trial Silver Rupee Heart",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 1619,
-                                "y": 2083,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Like Like Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 1568,
-                                "y": 277,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 1851,
-                                "y": 181,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Light Trial",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Silver Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Center Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Center Top",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Center Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Left Alcove",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Right Alcove",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Boulder Pot",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 2044,
-                                "y": 1625,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 1323,
-                                "y": 2285,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
-                "sections": [
-                    {
-                        "name": "First Left Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Second Left Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Third Left Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "First Right Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Second Right Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Third Right Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Invisible Enemies Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Lullaby Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -601,117 +1413,31 @@
                 "map_locations": [
                     {
                         "map": "Ganons Castle",
-                        "x": 454,
-                        "y": 865,
-                        "size": 6
+                        "x": 321,
+                        "y": 1553,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 47,
+                        "y": 374,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Spirit Trial",
+                "name": "Spirit Trial Crystal Switch",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Silver Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Ceiling",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Front Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Center",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Recovery Heart",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 2131,
-                                "y": 1632,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Ganons Castle",
-                                "x": 1052,
-                                "y": 791,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Crystal Switch Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Invisible Chest",
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -720,14 +1446,88 @@
                 "map_locations": [
                     {
                         "map": "Ganons Castle",
-                        "x": 2350,
-                        "y": 1010,
-                        "size": 6
+                        "x": 2386,
+                        "y": 1106,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 166,
+                        "y": 372,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Deku Scrub",
+                "name": "Spirit Trial Invisible",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 17,
+                        "y": 673,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 155,
+                        "y": 314,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Spirit Trial End",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": 1997,
+                        "y": 1950,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 69,
+                        "y": 244,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Deku Scrubs",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -763,11 +1563,43 @@
                 "map_locations": [
                     {
                         "map": "Ganons Castle",
-                        "x": 448,
-                        "y": 1285,
-                        "size": 6
+                        "x": 1261,
+                        "y": 1403,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": 443,
+                        "y": 432,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
+            }
+        ],
+        "sections": [
+            {
+                "name": "Forest Trial Chest",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Ganons Castle",
+                "x": 1167,
+                "y": 602,
+                "size": 6,
+                "shape": "rect"
+            },
+            {
+                "map": "IGC Trials",
+                "x": 650,
+                "y": 431,
+                "size": 10,
+                "shape": "rect"
             }
         ]
     }

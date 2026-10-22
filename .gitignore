@@ -1,3 +1,9 @@
 .DS_Store
 images/.DS_Store
 images/maps/.DS_Store
+images/items/.DS_Store
+images/settings/.DS_Store
+gen
+.luarc.json
+datapackage_url.json
+

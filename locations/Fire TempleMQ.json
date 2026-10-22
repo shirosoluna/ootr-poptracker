@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 554,
-                        "y": 1439,
+                        "x": 1713,
+                        "y": 39,
                         "size": 6
                     }
                 ]
@@ -41,37 +41,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 989,
-                                "y": 940,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 992,
+                        "y": 2069,
+                        "size": 6
                     }
                 ]
             },
@@ -83,97 +66,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Left Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 1165,
-                                "y": 1878,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Right Lower Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 785,
-                                "y": 703,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Right Mid Crate",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Right Upper Crate",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -182,8 +77,133 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 1660,
-                        "y": 271,
+                        "x": 2125,
+                        "y": 946,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Boss Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2469,
+                        "y": 1038,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Boss Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 480,
+                        "y": 2362,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Boss Right Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 1421,
+                        "y": 883,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Boss Right Mid",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 494,
+                        "y": 963,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Boss Right Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 1040,
+                        "y": 2168,
                         "size": 6
                     }
                 ]
@@ -207,8 +227,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 1286,
-                        "y": 1324,
+                        "x": 2000,
+                        "y": 2022,
                         "size": 6
                     }
                 ]
@@ -232,8 +252,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 919,
-                        "y": 2101,
+                        "x": 662,
+                        "y": 1454,
                         "size": 6
                     }
                 ]
@@ -246,72 +266,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": " 7",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "8",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 1501,
-                                "y": 152,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Pot4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 6",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -320,8 +277,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 1021,
-                        "y": 1046,
+                        "x": 1058,
+                        "y": 645,
                         "size": 6
                     }
                 ]
@@ -345,8 +302,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 930,
-                        "y": 1939,
+                        "x": 1841,
+                        "y": 2373,
                         "size": 6
                     }
                 ]
@@ -365,27 +322,28 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Left Pot",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
+                        "map": "Fire TempleMQ",
+                        "x": 2484,
+                        "y": 1489,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Big Lava Room Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
-                        "name": "Right Pot",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Alcove Pot",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Open Door GS",
+                        "name": "Pot",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -394,8 +352,83 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 1041,
-                        "y": 525,
+                        "x": 2312,
+                        "y": 2420,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Big Lava Room Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2179,
+                        "y": 1608,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Big Lava Room Alcove",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2426,
+                        "y": 1196,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Big Lava Room Open Door GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 227,
+                        "y": 1173,
                         "size": 6
                     }
                 ]
@@ -408,37 +441,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 2018,
-                                "y": 1108,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2182,
+                        "y": 2330,
+                        "size": 6
                     }
                 ]
             },
@@ -461,8 +477,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 754,
-                        "y": 1368,
+                        "x": 2154,
+                        "y": 1388,
                         "size": 6
                     }
                 ]
@@ -486,8 +502,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 2410,
-                        "y": 552,
+                        "x": 949,
+                        "y": 2279,
                         "size": 6
                     }
                 ]
@@ -500,43 +516,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 162,
-                                "y": 950,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 1675,
+                        "y": 2092,
+                        "size": 6
                     }
                 ]
             },
@@ -548,63 +541,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Hammer Wonderitem",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 957,
-                                "y": 88,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Lizalfos Maze",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Side Room Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Lower Chest",
+                        "name": "Hammer Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -613,8 +552,58 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 122,
-                        "y": 856,
+                        "x": 1217,
+                        "y": 1321,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lizalfos Maze Side Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 1303,
+                        "y": 1121,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lizalfos Maze Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 1569,
+                        "y": 471,
                         "size": 6
                     }
                 ]
@@ -627,43 +616,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 665,
-                                "y": 1081,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2015,
+                        "y": 1605,
+                        "size": 6
                     }
                 ]
             },
@@ -686,89 +652,19 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 225,
-                        "y": 613,
+                        "x": 1057,
+                        "y": 923,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Upper Lizalfos Maze",
+                "name": "Upper Lizalfos Maze Chest",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
-                ],
-                "children": [
-                    {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 1346,
-                                "y": 1290,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Small Wooden Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 1092,
-                                "y": 1128,
-                                "size": 6
-                            }
-                        ]
-                    }
                 ],
                 "sections": [
                     {
@@ -781,8 +677,58 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 703,
-                        "y": 1328,
+                        "x": 2073,
+                        "y": 1272,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Upper Lizalfos Maze",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2050,
+                        "y": 2215,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Upper Lizalfos Maze Small",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Small Wooden Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 55,
+                        "y": 1473,
                         "size": 6
                     }
                 ]
@@ -806,8 +752,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 2178,
-                        "y": 343,
+                        "x": 389,
+                        "y": 1002,
                         "size": 6
                     }
                 ]
@@ -820,66 +766,25 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 2099,
-                                "y": 626,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2286,
+                        "y": 446,
+                        "size": 6
                     }
                 ]
             },
             {
-                "name": "kull On Fire",
+                "name": "Skull On Fire GS",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -897,8 +802,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 665,
-                        "y": 1389,
+                        "x": 2326,
+                        "y": 864,
                         "size": 6
                     }
                 ]
@@ -911,49 +816,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot Wonderitem",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 1974,
-                                "y": 1365,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Hookshot Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2181,
+                        "y": 2352,
+                        "size": 6
                     }
                 ]
             },
@@ -965,43 +841,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 880,
-                                "y": 1073,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 1307,
+                        "y": 1930,
+                        "size": 6
                     }
                 ]
             },
@@ -1013,153 +866,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 729,
-                                "y": 2258,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Right Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 584,
-                                "y": 529,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Left Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 1051,
-                                "y": 1797,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Small Wooden Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 12,
-                                "y": 318,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Center Crate",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1168,45 +877,134 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 2020,
-                        "y": 2400,
+                        "x": 1750,
+                        "y": 1326,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Shoot Torch on Wall Room",
+                "name": "Shoot Torch On Wall Room Right",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 314,
-                                "y": 45,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 491,
+                        "y": 686,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Shoot Torch On Wall Room Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 409,
+                        "y": 229,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Shoot Torch On Wall Room Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 747,
+                        "y": 149,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Shoot Torch On Wall Room Small",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wooden Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 1638,
+                        "y": 597,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Shoot Torch on Wall Room Hookshot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 2335,
+                        "y": 44,
+                        "size": 6
                     }
                 ]
             },
@@ -1227,37 +1025,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Pot",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Fire TempleMQ",
-                                        "x": 1834,
-                                        "y": 1111,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Pots",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fire TempleMQ",
+                                "x": 2174,
+                                "y": 936,
+                                "size": 6
                             }
                         ]
                     },
@@ -1280,8 +1061,8 @@
                         "map_locations": [
                             {
                                 "map": "Fire TempleMQ",
-                                "x": 1522,
-                                "y": 2185,
+                                "x": 579,
+                                "y": 2136,
                                 "size": 6
                             }
                         ]
@@ -1294,93 +1075,9 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
-                            {
-                                "name": "Pot",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Fire TempleMQ",
-                                        "x": 1614,
-                                        "y": 2147,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Right Upper",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "children": [
-                            {
-                                "name": "Pot",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Fire TempleMQ",
-                                        "x": 2078,
-                                        "y": 245,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
-                                "name": "Wonderitem",
+                                "name": "Pots",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -1389,8 +1086,8 @@
                         "map_locations": [
                             {
                                 "map": "Fire TempleMQ",
-                                "x": 167,
-                                "y": 867,
+                                "x": 406,
+                                "y": 104,
                                 "size": 6
                             }
                         ]
@@ -1416,8 +1113,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 361,
-                        "y": 1238,
+                        "x": 2237,
+                        "y": 650,
                         "size": 6
                     }
                 ]
@@ -1441,8 +1138,8 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 323,
-                        "y": 1188,
+                        "x": 525,
+                        "y": 1026,
                         "size": 6
                     }
                 ]
@@ -1472,81 +1169,109 @@
                 "map_locations": [
                     {
                         "map": "Fire TempleMQ",
-                        "x": 2221,
-                        "y": 969,
+                        "x": 894,
+                        "y": 2197,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "After Upper Flare Dancer",
+                "name": "Flame Maze Right Upper",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 2091,
-                                "y": 317,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 225,
+                        "y": 241,
+                        "size": 6
                     }
                 ]
             },
             {
-                "name": "Hammer Steps",
+                "name": "Flame Maze Hookshot",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fire TempleMQ",
-                                "x": 1599,
-                                "y": 1286,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 60,
+                        "y": 2095,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "After Upper Flare Dancer Hookshot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 822,
+                        "y": 1471,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Hammer Steps Hookshot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fire TempleMQ",
+                        "x": 290,
+                        "y": 210,
+                        "size": 6
                     }
                 ]
             }

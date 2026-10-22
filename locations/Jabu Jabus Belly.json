@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "GS Lobby Basement",
+                "name": "Underwater Dive",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -18,13 +18,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Lower",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Upper",
+                        "name": "Deku Scrub",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -33,14 +27,14 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus Belly",
-                        "x": 1789,
-                        "y": 371,
+                        "x": 657,
+                        "y": 1792,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Above Big Octo",
+                "name": "Basement Water Switch",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -49,19 +43,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
+                        "name": "GS",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -70,8 +52,58 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus Belly",
-                        "x": 2464,
-                        "y": 872,
+                        "x": 1960,
+                        "y": 638,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lobby Basement Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus Belly",
+                        "x": 1868,
+                        "y": 2327,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lobby Basement Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus Belly",
+                        "x": 2357,
+                        "y": 1286,
                         "size": 6
                     }
                 ]
@@ -86,31 +118,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 4",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -119,8 +127,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus Belly",
-                        "x": 200,
-                        "y": 1225,
+                        "x": 1832,
+                        "y": 1285,
                         "size": 6
                     }
                 ]
@@ -135,19 +143,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -156,8 +152,158 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus Belly",
-                        "x": 741,
-                        "y": 1981,
+                        "x": 1533,
+                        "y": 524,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Boomerang Chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus Belly",
+                        "x": 2065,
+                        "y": 1254,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Map",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus Belly",
+                        "x": 859,
+                        "y": 387,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Compass",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus Belly",
+                        "x": 1937,
+                        "y": 1334,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Above Big Octo",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus Belly",
+                        "x": 1706,
+                        "y": 1164,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "First Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Small Wooden Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus Belly",
+                        "x": 991,
+                        "y": 1181,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Boss",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus Belly",
+                        "x": 2379,
+                        "y": 346,
                         "size": 6
                     }
                 ]
@@ -172,37 +318,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 6",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -223,69 +339,11 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus Belly",
-                        "x": 2438,
-                        "y": 552,
+                        "x": 2017,
+                        "y": 2238,
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Deku Scrub",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Water Switch Room",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Boomerang Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Map Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Compass Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Small Wooden Crate 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Small Wooden Crate 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Near Boss",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Jabu Jabus Belly",
-                "x": 772,
-                "y": 1823,
-                "size": 6
             }
         ]
     }

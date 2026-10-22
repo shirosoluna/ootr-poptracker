@@ -9,86 +9,22 @@
         ],
         "children": [
             {
-                "name": "Lobby",
+                "name": "Lobby Left",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Left Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 1073,
-                                "y": 2090,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Right Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 2441,
-                                "y": 1933,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Left Chest",
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Right Chest",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -97,8 +33,39 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 776,
-                        "y": 2463,
+                        "x": 1348,
+                        "y": 468,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lobby Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 2382,
+                        "y": 2403,
                         "size": 6
                     }
                 ]
@@ -122,156 +89,134 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 1842,
-                        "y": 1189,
+                        "x": 570,
+                        "y": 2011,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Maze Path",
+                "name": "Maze Path First",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "First",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Chest",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 515,
-                                "y": 2187,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Third",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Chest",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 769,
-                                "y": 2147,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Second",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Chest",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 691,
-                                "y": 1454,
-                                "size": 6
-                            }
-                        ]
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1039,
+                        "y": 2128,
+                        "size": 6
                     }
                 ]
             },
             {
-                "name": "Maze Right",
+                "name": "Maze Path Third",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Central",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Chest",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 209,
-                                "y": 900,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Side",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Chest",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 1264,
-                                "y": 438,
-                                "size": 6
-                            }
-                        ]
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1038,
+                        "y": 1081,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Maze Path Second",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 688,
+                        "y": 862,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Maze Right Central",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 2117,
+                        "y": 1611,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Maze Right Side",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 2205,
+                        "y": 580,
+                        "size": 6
                     }
                 ]
             },
@@ -294,8 +239,8 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 1249,
-                        "y": 208,
+                        "x": 25,
+                        "y": 845,
                         "size": 6
                     }
                 ]
@@ -308,33 +253,6 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Arrow",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 494,
-                                "y": 1879,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Chest",
@@ -346,75 +264,234 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 2017,
-                        "y": 1119,
+                        "x": 991,
+                        "y": 673,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Lava Room",
+                "name": "Dinolfos Arrow",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Silver Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Front Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Front Center",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Front Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Center",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Back Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training GroundMQ",
-                                "x": 2122,
-                                "y": 2132,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1288,
+                        "y": 2046,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Front Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1041,
+                        "y": 1298,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Front Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1801,
+                        "y": 2173,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Front Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1006,
+                        "y": 1572,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Back Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1346,
+                        "y": 27,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Back Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1204,
+                        "y": 423,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Back Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1877,
+                        "y": 1862,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Underwater Silver Rupee Front Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 49,
+                        "y": 2197,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Underwater Silver Rupee Back Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1419,
+                        "y": 1205,
+                        "size": 6
                     }
                 ]
             },
@@ -428,24 +505,6 @@
                 ],
                 "sections": [
                     {
-                        "name": "Middle",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Front Right",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Back Left",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
@@ -455,8 +514,8 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 240,
-                        "y": 2278,
+                        "x": 2472,
+                        "y": 2259,
                         "size": 6
                     }
                 ]
@@ -480,14 +539,14 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 1351,
-                        "y": 1424,
+                        "x": 1428,
+                        "y": 1177,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Icicle Room Silver Rupee",
+                "name": "Icicle Room Silver Rupee Freezard",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -496,31 +555,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Freezard",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Icicles",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Center",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Ceiling",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Above Void",
+                        "name": "Rupee",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -529,8 +564,108 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 1240,
-                        "y": 1972,
+                        "x": 389,
+                        "y": 1750,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Icicle Room Silver Rupee Icicles",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 503,
+                        "y": 35,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Icicle Room Silver Rupee Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1929,
+                        "y": 2262,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Icicle Room Silver Rupee Ceiling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 1802,
+                        "y": 66,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Icicle Room Silver Rupee Above Void",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training GroundMQ",
+                        "x": 116,
+                        "y": 703,
                         "size": 6
                     }
                 ]
@@ -554,14 +689,14 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 2083,
-                        "y": 276,
+                        "x": 163,
+                        "y": 1239,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Heavy Block",
+                "name": "Heavy Block Room",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -579,8 +714,8 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 1843,
-                        "y": 1874,
+                        "x": 1669,
+                        "y": 1256,
                         "size": 6
                     }
                 ]
@@ -604,8 +739,8 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 415,
-                        "y": 1284,
+                        "x": 1864,
+                        "y": 1729,
                         "size": 6
                     }
                 ]
@@ -629,8 +764,8 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 511,
-                        "y": 1644,
+                        "x": 254,
+                        "y": 734,
                         "size": 6
                     }
                 ]
@@ -654,8 +789,8 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 2326,
-                        "y": 2119,
+                        "x": 1034,
+                        "y": 1455,
                         "size": 6
                     }
                 ]
@@ -679,8 +814,8 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 1043,
-                        "y": 1742,
+                        "x": 1670,
+                        "y": 2302,
                         "size": 6
                     }
                 ]
@@ -704,11 +839,27 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training GroundMQ",
-                        "x": 1175,
-                        "y": 1479,
+                        "x": 255,
+                        "y": 1117,
                         "size": 6
                     }
                 ]
+            }
+        ],
+        "sections": [
+            {
+                "name": "Underwater Silver Rupee Middle Rupee",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Gerudo Training GroundMQ",
+                "x": 1285,
+                "y": 1695,
+                "size": 6
             }
         ]
     }

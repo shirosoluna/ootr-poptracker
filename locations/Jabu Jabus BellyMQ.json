@@ -36,8 +36,8 @@
                         "map_locations": [
                             {
                                 "map": "Jabu Jabus BellyMQ",
-                                "x": 1586,
-                                "y": 2112,
+                                "x": 2136,
+                                "y": 667,
                                 "size": 6
                             }
                         ]
@@ -61,8 +61,8 @@
                         "map_locations": [
                             {
                                 "map": "Jabu Jabus BellyMQ",
-                                "x": 1615,
-                                "y": 616,
+                                "x": 854,
+                                "y": 127,
                                 "size": 6
                             }
                         ]
@@ -79,8 +79,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 645,
-                        "y": 1692,
+                        "x": 1928,
+                        "y": 1741,
                         "size": 6
                     }
                 ]
@@ -93,40 +93,13 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Jabu Jabus BellyMQ",
-                                "x": 1908,
-                                "y": 1223,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Side Chest",
                         "access_rules": [],
@@ -137,8 +110,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 294,
-                        "y": 556,
+                        "x": 2162,
+                        "y": 378,
                         "size": 6
                     }
                 ]
@@ -162,8 +135,89 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 491,
-                        "y": 312,
+                        "x": 978,
+                        "y": 1049,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Elevator Room Compass",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Compass Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus BellyMQ",
+                        "x": 646,
+                        "y": 1490,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Elevator Room Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Underwater Green Rupees",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus BellyMQ",
+                        "x": 2310,
+                        "y": 2484,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Elevator Room Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus BellyMQ",
+                        "x": 1587,
+                        "y": 13,
                         "size": 6
                     }
                 ]
@@ -177,105 +231,6 @@
                     " "
                 ],
                 "children": [
-                    {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Jabu Jabus BellyMQ",
-                                "x": 1075,
-                                "y": 2414,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Underwater Green Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Jabu Jabus BellyMQ",
-                                "x": 2114,
-                                "y": 2087,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Jabu Jabus BellyMQ",
-                                "x": 1165,
-                                "y": 1464,
-                                "size": 6
-                            }
-                        ]
-                    },
                     {
                         "name": "Cow",
                         "chest_unopened_img": "/images/items/close.png",
@@ -295,27 +250,11 @@
                         "map_locations": [
                             {
                                 "map": "Jabu Jabus BellyMQ",
-                                "x": 803,
-                                "y": 2156,
+                                "x": 2317,
+                                "y": 1760,
                                 "size": 6
                             }
                         ]
-                    }
-                ],
-                "sections": [
-                    {
-                        "name": "Compass Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Jabu Jabus BellyMQ",
-                        "x": 1466,
-                        "y": 1801,
-                        "size": 6
                     }
                 ]
             },
@@ -347,8 +286,8 @@
                         "map_locations": [
                             {
                                 "map": "Jabu Jabus BellyMQ",
-                                "x": 1600,
-                                "y": 2313,
+                                "x": 519,
+                                "y": 1751,
                                 "size": 6
                             }
                         ]
@@ -372,8 +311,8 @@
                         "map_locations": [
                             {
                                 "map": "Jabu Jabus BellyMQ",
-                                "x": 34,
-                                "y": 386,
+                                "x": 1804,
+                                "y": 1224,
                                 "size": 6
                             }
                         ]
@@ -386,43 +325,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Jabu Jabus BellyMQ",
-                                        "x": 1171,
-                                        "y": 182,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Wonderitems",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Jabu Jabus BellyMQ",
+                                "x": 1445,
+                                "y": 1608,
+                                "size": 6
                             }
                         ]
                     },
@@ -434,43 +350,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Jabu Jabus BellyMQ",
-                                        "x": 1420,
-                                        "y": 1766,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Wonderitems",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Jabu Jabus BellyMQ",
+                                "x": 2363,
+                                "y": 2309,
+                                "size": 6
                             }
                         ]
                     }
@@ -484,42 +377,15 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Jabu Jabus BellyMQ",
-                                "x": 1126,
-                                "y": 1445,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Small Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -540,8 +406,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 1075,
-                        "y": 878,
+                        "x": 2420,
+                        "y": 699,
                         "size": 6
                     }
                 ]
@@ -565,8 +431,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 635,
-                        "y": 1964,
+                        "x": 2070,
+                        "y": 1455,
                         "size": 6
                     }
                 ]
@@ -579,40 +445,13 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Jabu Jabus BellyMQ",
-                                "x": 354,
-                                "y": 1864,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Chest",
                         "access_rules": [],
@@ -623,8 +462,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 1095,
-                        "y": 1903,
+                        "x": 2037,
+                        "y": 2385,
                         "size": 6
                     }
                 ]
@@ -648,8 +487,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 1692,
-                        "y": 1842,
+                        "x": 1554,
+                        "y": 2070,
                         "size": 6
                     }
                 ]
@@ -671,43 +510,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Jabu Jabus BellyMQ",
-                                        "x": 2291,
-                                        "y": 1988,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Wonderitems",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Jabu Jabus BellyMQ",
+                                "x": 254,
+                                "y": 676,
+                                "size": 6
                             }
                         ]
                     },
@@ -719,43 +535,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Jabu Jabus BellyMQ",
-                                        "x": 640,
-                                        "y": 141,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Wonderitems",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Jabu Jabus BellyMQ",
+                                "x": 1017,
+                                "y": 1125,
+                                "size": 6
                             }
                         ]
                     },
@@ -767,43 +560,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Jabu Jabus BellyMQ",
-                                        "x": 657,
-                                        "y": 498,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Wonderitems",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Jabu Jabus BellyMQ",
+                                "x": 1968,
+                                "y": 965,
+                                "size": 6
                             }
                         ]
                     }
@@ -817,37 +587,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Small Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Jabu Jabus BellyMQ",
-                                "x": 750,
-                                "y": 544,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Small Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Jabu Jabus BellyMQ",
+                        "x": 1482,
+                        "y": 653,
+                        "size": 6
                     }
                 ]
             },
@@ -861,7 +614,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Cow",
+                        "name": "Cow Item",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -876,8 +629,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 1522,
-                        "y": 1518,
+                        "x": 337,
+                        "y": 378,
                         "size": 6
                     }
                 ]
@@ -901,8 +654,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 1824,
-                        "y": 1001,
+                        "x": 1912,
+                        "y": 369,
                         "size": 6
                     }
                 ]
@@ -917,13 +670,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "2",
+                        "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -932,8 +679,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 1714,
-                        "y": 1038,
+                        "x": 1499,
+                        "y": 2325,
                         "size": 6
                     }
                 ]
@@ -955,37 +702,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Jabu Jabus BellyMQ",
-                                        "x": 2413,
-                                        "y": 434,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Wonderitems",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Jabu Jabus BellyMQ",
+                                "x": 528,
+                                "y": 877,
+                                "size": 6
                             }
                         ]
                     },
@@ -1008,8 +738,8 @@
                         "map_locations": [
                             {
                                 "map": "Jabu Jabus BellyMQ",
-                                "x": 601,
-                                "y": 1943,
+                                "x": 1865,
+                                "y": 584,
                                 "size": 6
                             }
                         ]
@@ -1035,8 +765,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 665,
-                        "y": 1059,
+                        "x": 656,
+                        "y": 1744,
                         "size": 6
                     }
                 ]
@@ -1072,8 +802,8 @@
                 "map_locations": [
                     {
                         "map": "Jabu Jabus BellyMQ",
-                        "x": 633,
-                        "y": 1025,
+                        "x": 291,
+                        "y": 671,
                         "size": 6
                     }
                 ]

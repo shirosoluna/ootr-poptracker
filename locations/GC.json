@@ -24,19 +24,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -45,9 +33,17 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 257,
-                        "y": 1889,
-                        "size": 6
+                        "x": 2198,
+                        "y": 1998,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 537,
+                        "y": 190,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -67,49 +63,19 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Bomb Drop 1",
+                        "name": "Bomb Drops",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Bomb Drop 2",
+                        "name": "Rupee Drops",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Bomb Drop 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Rupee Drop 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Rupee Drop 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Rupee Drop 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "PoH Drop Rupee 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "PoH Drop Rupee 2",
+                        "name": "PoH Drop Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -118,9 +84,17 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 628,
-                        "y": 478,
-                        "size": 6
+                        "x": 2286,
+                        "y": 419,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 376,
+                        "y": 259,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -149,9 +123,17 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 734,
-                        "y": 1055,
-                        "size": 6
+                        "x": 1585,
+                        "y": 263,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 414,
+                        "y": 146,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -180,9 +162,17 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 519,
-                        "y": 2347,
-                        "size": 6
+                        "x": 1058,
+                        "y": 2021,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 58,
+                        "y": 225,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -229,9 +219,17 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 2256,
-                        "y": 803,
-                        "size": 6
+                        "x": 1190,
+                        "y": 903,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 309,
+                        "y": 61,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -272,9 +270,50 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 2067,
-                        "y": 187,
-                        "size": 6
+                        "x": 1881,
+                        "y": 1183,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 703,
+                        "y": 169,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Center Platform",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "GC",
+                        "x": 1886,
+                        "y": 2385,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 352,
+                        "y": 196,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -339,9 +378,17 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 1987,
-                        "y": 848,
-                        "size": 6
+                        "x": 1048,
+                        "y": 2108,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 354,
+                        "y": 244,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -355,13 +402,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -370,9 +411,17 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 438,
-                        "y": 743,
-                        "size": 6
+                        "x": 2233,
+                        "y": 863,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 226,
+                        "y": 320,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -386,19 +435,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -407,27 +444,19 @@
                 "map_locations": [
                     {
                         "map": "GC",
-                        "x": 1894,
-                        "y": 1511,
-                        "size": 6
+                        "x": 161,
+                        "y": 2354,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Goron City",
+                        "x": 170,
+                        "y": 127,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "GS Center Platform",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "GC",
-                "x": 2253,
-                "y": 1900,
-                "size": 6
             }
         ]
     }

@@ -9,45 +9,93 @@
         ],
         "children": [
             {
-                "name": "Slingshot Room",
+                "name": "Lobby",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
                         "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Deku TreeMQ",
-                                "x": 1667,
-                                "y": 702,
-                                "size": 6
-                            }
-                        ]
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku TreeMQ",
+                        "x": 2418,
+                        "y": 1075,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lower Lobby",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Heart",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku TreeMQ",
+                        "x": 1056,
+                        "y": 1947,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Map",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku TreeMQ",
+                        "x": 601,
+                        "y": 2072,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Slingshot Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
                 ],
                 "sections": [
                     {
@@ -67,13 +115,19 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Deku TreeMQ",
-                        "x": 1652,
-                        "y": 679,
+                        "x": 2184,
+                        "y": 2294,
                         "size": 6
                     }
                 ]
@@ -109,8 +163,33 @@
                 "map_locations": [
                     {
                         "map": "Deku TreeMQ",
-                        "x": 1140,
-                        "y": 380,
+                        "x": 529,
+                        "y": 897,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Compass Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Heart",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku TreeMQ",
+                        "x": 2028,
+                        "y": 1526,
                         "size": 6
                     }
                 ]
@@ -134,8 +213,8 @@
                 "map_locations": [
                     {
                         "map": "Deku TreeMQ",
-                        "x": 364,
-                        "y": 908,
+                        "x": 1702,
+                        "y": 1273,
                         "size": 6
                     }
                 ]
@@ -159,8 +238,33 @@
                 "map_locations": [
                     {
                         "map": "Deku TreeMQ",
-                        "x": 98,
-                        "y": 508,
+                        "x": 328,
+                        "y": 1436,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Basement Deku Scru",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Item",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku TreeMQ",
+                        "x": 1437,
+                        "y": 1467,
                         "size": 6
                     }
                 ]
@@ -173,54 +277,15 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Wonderitem",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Deku TreeMQ",
-                                "x": 629,
-                                "y": 1258,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -229,8 +294,8 @@
                 "map_locations": [
                     {
                         "map": "Deku TreeMQ",
-                        "x": 392,
-                        "y": 458,
+                        "x": 1053,
+                        "y": 226,
                         "size": 6
                     }
                 ]
@@ -254,8 +319,8 @@
                 "map_locations": [
                     {
                         "map": "Deku TreeMQ",
-                        "x": 1513,
-                        "y": 1935,
+                        "x": 1017,
+                        "y": 1198,
                         "size": 6
                     }
                 ]
@@ -268,45 +333,6 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Deku TreeMQ",
-                                "x": 993,
-                                "y": 2022,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Chest",
@@ -318,57 +344,36 @@
                 "map_locations": [
                     {
                         "map": "Deku TreeMQ",
-                        "x": 1227,
-                        "y": 1176,
+                        "x": 342,
+                        "y": 2209,
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Lobby Crate",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
-                "name": "Lower Lobby Recovery Heart",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Lobby",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Map Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Compass Room Recovery Heart",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Deku Scrub",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Deku TreeMQ",
-                "x": 1599,
-                "y": 1529,
-                "size": 6
+                "name": "Gohma Basement",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Deku TreeMQ",
+                        "x": 57,
+                        "y": 1630,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

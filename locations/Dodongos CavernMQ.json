@@ -9,6 +9,31 @@
         ],
         "children": [
             {
+                "name": "Map",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 1884,
+                        "y": 1101,
+                        "size": 6
+                    }
+                ]
+            },
+            {
                 "name": "Deku Scrub Lobby",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -33,8 +58,33 @@
                 "map_locations": [
                     {
                         "map": "Dodongos CavernMQ",
-                        "x": 2394,
-                        "y": 1141,
+                        "x": 2123,
+                        "y": 1452,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Staircase Scrub",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Deku Scrub",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 709,
+                        "y": 2096,
                         "size": 6
                     }
                 ]
@@ -49,7 +99,7 @@
                 ],
                 "children": [
                     {
-                        "name": "Pot",
+                        "name": "Crate MRight",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -58,25 +108,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
+                                "name": "Crate",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -85,14 +117,14 @@
                         "map_locations": [
                             {
                                 "map": "Dodongos CavernMQ",
-                                "x": 740,
-                                "y": 1865,
+                                "x": 952,
+                                "y": 125,
                                 "size": 6
                             }
                         ]
                     },
                     {
-                        "name": "Crate",
+                        "name": "Crate TLeft",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -101,37 +133,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Bottom Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Bottom Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Mid Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Top Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Mid Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Top Right",
+                                "name": "Crate",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -140,14 +142,14 @@
                         "map_locations": [
                             {
                                 "map": "Dodongos CavernMQ",
-                                "x": 51,
-                                "y": 2412,
+                                "x": 123,
+                                "y": 1267,
                                 "size": 6
                             }
                         ]
                     },
                     {
-                        "name": "Silver Rupee",
+                        "name": "Crate TRight",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -156,25 +158,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Beamos",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Lower Crate",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Mid Left Crate",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Vines",
+                                "name": "Crate",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -183,8 +167,108 @@
                         "map_locations": [
                             {
                                 "map": "Dodongos CavernMQ",
-                                "x": 1090,
-                                "y": 339,
+                                "x": 197,
+                                "y": 893,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Silver Rupee Lower Crate",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Rupee",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Dodongos CavernMQ",
+                                "x": 1667,
+                                "y": 92,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Silver Rupee Mid Left Crate",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Rupee",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Dodongos CavernMQ",
+                                "x": 179,
+                                "y": 871,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Silver Rupee Vines",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Rupee",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Dodongos CavernMQ",
+                                "x": 2224,
+                                "y": 2043,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Silver Rupee Top Right Crate",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Rupee",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Dodongos CavernMQ",
+                                "x": 1473,
+                                "y": 1461,
                                 "size": 6
                             }
                         ]
@@ -192,13 +276,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Deku Scrub",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Silver Rupee Top Right Crate",
+                        "name": "Silver Rupee Beamos",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -207,8 +291,83 @@
                 "map_locations": [
                     {
                         "map": "Dodongos CavernMQ",
-                        "x": 1939,
-                        "y": 1715,
+                        "x": 1373,
+                        "y": 1600,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Staircase Crate BLeft",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 1361,
+                        "y": 1914,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Staircase Crate BRight",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 872,
+                        "y": 842,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Staircase Crate MLeft",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 585,
+                        "y": 1438,
                         "size": 6
                     }
                 ]
@@ -232,8 +391,8 @@
                 "map_locations": [
                     {
                         "map": "Dodongos CavernMQ",
-                        "x": 1848,
-                        "y": 363,
+                        "x": 1255,
+                        "y": 1287,
                         "size": 6
                     }
                 ]
@@ -269,8 +428,8 @@
                 "map_locations": [
                     {
                         "map": "Dodongos CavernMQ",
-                        "x": 1241,
-                        "y": 1505,
+                        "x": 462,
+                        "y": 2121,
                         "size": 6
                     }
                 ]
@@ -283,64 +442,13 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 836,
-                                "y": 553,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Chest",
                         "access_rules": [],
@@ -357,8 +465,8 @@
                 "map_locations": [
                     {
                         "map": "Dodongos CavernMQ",
-                        "x": 2351,
-                        "y": 1256,
+                        "x": 2379,
+                        "y": 277,
                         "size": 6
                     }
                 ]
@@ -371,37 +479,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 1690,
-                                "y": 332,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 2348,
+                        "y": 292,
+                        "size": 6
                     }
                 ]
             },
@@ -413,48 +504,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 934,
-                                "y": 280,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Pot3",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -469,8 +521,8 @@
                 "map_locations": [
                     {
                         "map": "Dodongos CavernMQ",
-                        "x": 1994,
-                        "y": 1963,
+                        "x": 680,
+                        "y": 1690,
                         "size": 6
                     }
                 ]
@@ -483,68 +535,51 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 853,
-                                "y": 1164,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 1597,
-                                "y": 1271,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 2114,
+                        "y": 2377,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Torch Puzzle Room Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot Corner",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 2235,
+                        "y": 1298,
+                        "size": 6
                     }
                 ]
             },
@@ -556,49 +591,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 1921,
-                                "y": 1949,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 995,
+                        "y": 1470,
+                        "size": 6
                     }
                 ]
             },
@@ -610,116 +616,57 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 624,
-                                "y": 1493,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "7",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Near Bomb Flower",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 1192,
-                                "y": 627,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Crate Near Bomb Flower",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 270,
+                        "y": 725,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bomb Bag Chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 102,
+                        "y": 668,
+                        "size": 6
                     }
                 ]
             },
@@ -748,8 +695,58 @@
                 "map_locations": [
                     {
                         "map": "Dodongos CavernMQ",
-                        "x": 2141,
-                        "y": 1121,
+                        "x": 825,
+                        "y": 880,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Under Grave Chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 1573,
+                        "y": 1727,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Back Area",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 1322,
+                        "y": 1700,
                         "size": 6
                     }
                 ]
@@ -762,68 +759,26 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Upper Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 986,
-                                "y": 1714,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Upper Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 1021,
-                                "y": 1208,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 1652,
+                        "y": 1491,
+                        "size": 6
                     }
                 ]
             },
@@ -835,37 +790,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 1108,
-                                "y": 1360,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 555,
+                        "y": 1627,
+                        "size": 6
                     }
                 ]
             },
@@ -877,79 +815,22 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dodongos CavernMQ",
-                                "x": 2332,
-                                "y": 928,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Dodongos CavernMQ",
+                        "x": 406,
+                        "y": 2423,
+                        "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Map Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Torch Puzzle Room Upper Pot Corner",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bomb Bag Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Under Grave Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Back Area",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Dodongos CavernMQ",
-                "x": 2145,
-                "y": 2246,
-                "size": 6
             }
         ]
     }

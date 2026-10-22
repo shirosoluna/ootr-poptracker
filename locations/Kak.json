@@ -39,8 +39,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 1949,
-                        "y": 945,
+                        "x": 1660,
+                        "y": 1454,
                         "size": 6
                     }
                 ]
@@ -53,34 +53,13 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Trade",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Odd Mushroom",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Kak",
-                                "x": 1113,
-                                "y": 1475,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
+                    {
+                        "name": "Trade Odd Mushroom",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Blue Potion",
                         "access_rules": [],
@@ -91,8 +70,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 553,
-                        "y": 626,
+                        "x": 1402,
+                        "y": 764,
                         "size": 6
                     }
                 ]
@@ -122,8 +101,33 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 476,
-                        "y": 2312,
+                        "x": 854,
+                        "y": 1985,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Man on Roof",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Item",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 1706,
+                        "y": 1757,
                         "size": 6
                     }
                 ]
@@ -159,8 +163,33 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 2261,
-                        "y": 592,
+                        "x": 814,
+                        "y": 1964,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Redead Grotto",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 1054,
+                        "y": 1841,
                         "size": 6
                     }
                 ]
@@ -181,6 +210,12 @@
                         "item_count": 1
                     },
                     {
+                        "name": "Child GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Child Wonderitem",
                         "access_rules": [],
                         "visibility_rules": [],
@@ -190,33 +225,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 2228,
-                        "y": 1401,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Shooting Galery",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Child GS",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Kak",
-                        "x": 220,
-                        "y": 1545,
+                        "x": 250,
+                        "y": 2115,
                         "size": 6
                     }
                 ]
@@ -270,8 +280,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 1653,
-                        "y": 1123,
+                        "x": 669,
+                        "y": 2107,
                         "size": 6
                     }
                 ]
@@ -292,12 +302,6 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Adult GS",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Wonderitem",
                         "access_rules": [],
                         "visibility_rules": [],
@@ -307,8 +311,133 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 628,
-                        "y": 1884,
+                        "x": 1361,
+                        "y": 1876,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Above Impas House",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Adult GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 2231,
+                        "y": 2106,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Tree",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 987,
+                        "y": 1712,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Gate Guard",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 2281,
+                        "y": 47,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Watchtower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 608,
+                        "y": 1110,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Skulltula House",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 1552,
+                        "y": 230,
                         "size": 6
                     }
                 ]
@@ -374,8 +503,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 1953,
-                        "y": 1989,
+                        "x": 1099,
+                        "y": 181,
                         "size": 6
                     }
                 ]
@@ -441,8 +570,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 107,
-                        "y": 601,
+                        "x": 940,
+                        "y": 1072,
                         "size": 6
                     }
                 ]
@@ -457,19 +586,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -478,8 +595,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 249,
-                        "y": 1202,
+                        "x": 712,
+                        "y": 374,
                         "size": 6
                     }
                 ]
@@ -494,19 +611,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -515,8 +620,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 486,
-                        "y": 758,
+                        "x": 1158,
+                        "y": 1310,
                         "size": 6
                     }
                 ]
@@ -531,19 +636,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -552,8 +645,8 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 1953,
-                        "y": 1713,
+                        "x": 438,
+                        "y": 1273,
                         "size": 6
                     }
                 ]
@@ -568,13 +661,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -583,8 +670,351 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 2053,
-                        "y": 2279,
+                        "x": 1197,
+                        "y": 397,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Behind Odd Medicine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Adult Crate 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Adult Crate 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Adult Red Rupee Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Adult Crate 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 996,
+                        "y": 2094,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Crate 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 1808,
+                        "y": 1690,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Crate 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 208,
+                        "y": 930,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Crate 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 2330,
+                        "y": 1015,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Crate 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 1927,
+                        "y": 2313,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Child Crate 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 390,
+                        "y": 785,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Arrows Crate",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 887,
+                        "y": 264,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Crate 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 1404,
+                        "y": 49,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Crate 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 1976,
+                        "y": 163,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Crate 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 2336,
+                        "y": 1447,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Crate 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 2387,
+                        "y": 1194,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Crate 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 209,
+                        "y": 2219,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Adult Crate 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 2378,
+                        "y": 1299,
                         "size": 6
                     }
                 ]
@@ -599,13 +1029,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Crate 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Crate 2",
+                        "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -614,8 +1038,33 @@
                 "map_locations": [
                     {
                         "map": "Kak",
-                        "x": 486,
-                        "y": 495,
+                        "x": 2269,
+                        "y": 2234,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Nocturne",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sheik in Kakariko",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kak",
+                        "x": 1538,
+                        "y": 960,
                         "size": 6
                     }
                 ]
@@ -623,145 +1072,7 @@
         ],
         "sections": [
             {
-                "name": "Man on Roof",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Redead Grotto Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
                 "name": "Impas House Cow",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Tree",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Near Gate Guard",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Watchtower",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Skulltula House",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Crate 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Crate 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Red Rupee Crate",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Backyard Crate 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Child Crate 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Child Crate 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Child Crate 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Child Crate 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Child Crate 5",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Arrows Crate",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Crate 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Crate 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Crate 5",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Crate 6",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Crate 7",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Adult Crate 8",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Sheik in Kakariko",
                 "access_rules": [],
                 "visibility_rules": [],
                 "item_count": 1
@@ -770,8 +1081,8 @@
         "map_locations": [
             {
                 "map": "Kak",
-                "x": 1774,
-                "y": 1846,
+                "x": 1640,
+                "y": 259,
                 "size": 6
             }
         ]

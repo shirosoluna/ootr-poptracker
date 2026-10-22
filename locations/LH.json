@@ -9,6 +9,39 @@
         ],
         "children": [
             {
+                "name": "Underwater Item",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Item",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 1577,
+                        "y": 2290,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Lake Hylia",
+                        "x": 325,
+                        "y": 203,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Fishing",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -39,9 +72,17 @@
                 "map_locations": [
                     {
                         "map": "LH",
-                        "x": 211,
-                        "y": 284,
-                        "size": 6
+                        "x": 284,
+                        "y": 1760,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Lake Hylia",
+                        "x": 187,
+                        "y": 136,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -67,19 +108,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Dive Red Rupee 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Dive Red Rupee 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Dive Red Rupee 3",
+                        "name": "Dive Red Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -88,9 +117,10 @@
                 "map_locations": [
                     {
                         "map": "LH",
-                        "x": 1699,
-                        "y": 908,
-                        "size": 6
+                        "x": 790,
+                        "y": 1357,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -122,11 +152,64 @@
                         "map_locations": [
                             {
                                 "map": "LH",
-                                "x": 2258,
-                                "y": 1161,
-                                "size": 6
+                                "x": 458,
+                                "y": 1248,
+                                "size": 6,
+                                "shape": "rect"
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "name": "Above Lab",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding PoH",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 1613,
+                        "y": 854,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Soot the Sun",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Item",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 970,
+                        "y": 1215,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -167,81 +250,168 @@
                 "map_locations": [
                     {
                         "map": "LH",
-                        "x": 1457,
-                        "y": 1659,
-                        "size": 6
+                        "x": 1958,
+                        "y": 168,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Underwater Item",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
-                "name": "Freestanding PoH",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Bean Patch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 635,
+                        "y": 1927,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "Sun",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Lab Wall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 1407,
+                        "y": 854,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "GS Bean Patch",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Small Island",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 829,
+                        "y": 1861,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "GS Lab Wall",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Tree",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 1642,
+                        "y": 407,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "GS Small Island",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Underwater Near Shore",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Green Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 1207,
+                        "y": 1062,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "GS Tree",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Underwater Near Shore Green Rupee",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Underwater Green Rupee 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Underwater Green Rupee 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "LH",
-                "x": 387,
-                "y": 1637,
-                "size": 6
+                "name": "Underwater Rupees",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LH",
+                        "x": 1835,
+                        "y": 1728,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }

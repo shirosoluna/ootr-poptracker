@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "Hidden Cave",
+                "name": "Great Fairy",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -18,23 +18,104 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
+                        "name": "Reward",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZF",
+                        "x": 1893,
+                        "y": 690,
+                        "size": 6,
+                        "shape": "rect"
                     },
                     {
-                        "name": "Pot 2",
+                        "map": "Zora's Fountain",
+                        "x": 667,
+                        "y": 273,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Iceberg",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding PoH",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZF",
+                        "x": 1689,
+                        "y": 949,
+                        "size": 6,
+                        "shape": "rect"
                     },
                     {
-                        "name": "Pot 3",
+                        "map": "Zora's Fountain",
+                        "x": 374,
+                        "y": 133,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bottom",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding PoH",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZF",
+                        "x": 2319,
+                        "y": 771,
+                        "size": 6,
+                        "shape": "rect"
                     },
+                    {
+                        "map": "Zora's Fountain",
+                        "x": 293,
+                        "y": 174,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Above the Log",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "GS",
                         "access_rules": [],
@@ -45,183 +126,151 @@
                 "map_locations": [
                     {
                         "map": "ZF",
-                        "x": 1565,
-                        "y": 141,
-                        "size": 6
+                        "x": 348,
+                        "y": 2361,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Fountain",
+                        "x": 367,
+                        "y": 430,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Great Fairy Reward",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
-                "name": "Iceberg Freestanding PoH",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Tree",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZF",
+                        "x": 1012,
+                        "y": 194,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Fountain",
+                        "x": 587,
+                        "y": 272,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "Bottom Freestanding PoH",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Hidden Cave",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZF",
+                        "x": 644,
+                        "y": 39,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Fountain",
+                        "x": 644,
+                        "y": 268,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "GS Above the Log",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Hidden Cave Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZF",
+                        "x": 2391,
+                        "y": 1286,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Fountain",
+                        "x": 567,
+                        "y": 62,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "GS Tree",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 5",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 6",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 7",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 8",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 9",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 10",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 11",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 12",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 13",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 14",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 15",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 16",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 17",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Bottom Green Rupee 18",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Jabu Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Jabu Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Jabu Pot 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Jabu Pot 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "ZF",
-                "x": 1099,
-                "y": 126,
-                "size": 6
+                "name": "Near Jabu",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZF",
+                        "x": 581,
+                        "y": 1659,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Fountain",
+                        "x": 172,
+                        "y": 254,
+                        "size": 14,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }

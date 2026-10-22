@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "Lobby",
+                "name": "Lobby Left",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -18,13 +18,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Left Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Right Chest",
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -33,14 +27,22 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training Ground",
-                        "x": 648,
-                        "y": 212,
-                        "size": 6
+                        "x": 150,
+                        "y": 1816,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 232,
+                        "y": 225,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Boulder Room",
+                "name": "Lobby Right",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -49,31 +51,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Silver Rupee Bottom Right",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Bottom Left",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Ceiling",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Ledge",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Top Left",
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -82,9 +60,248 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training Ground",
-                        "x": 512,
-                        "y": 340,
-                        "size": 6
+                        "x": 2330,
+                        "y": 2354,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 268,
+                        "y": 235,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Stalfos",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 1802,
+                        "y": 339,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 121,
+                        "y": 169,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Boulder Room Silver Rupee Bottom Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 1555,
+                        "y": 1447,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 192,
+                        "y": 153,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Boulder Room Silver Rupee Bottom Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 840,
+                        "y": 1952,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 157,
+                        "y": 133,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Boulder Room Silver Rupee Ceiling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 786,
+                        "y": 1544,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 175,
+                        "y": 94,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Boulder Room Silver Rupee Ledge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 685,
+                        "y": 1441,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 213,
+                        "y": 94,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Boulder Room Silver Rupee Top Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 588,
+                        "y": 448,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 227,
+                        "y": 64,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Before Heavy Block",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 298,
+                        "y": 2013,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 318,
+                        "y": 68,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -125,9 +342,17 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training Ground",
-                        "x": 328,
-                        "y": 1064,
-                        "size": 6
+                        "x": 571,
+                        "y": 2408,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 351,
+                        "y": 31,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -145,7 +370,34 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 130,
+                        "y": 2282,
+                        "size": 6,
+                        "shape": "rect"
                     },
+                    {
+                        "map": "GTG",
+                        "x": 421,
+                        "y": 130,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Eye Statue Wonderitem",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "Wonderitem",
                         "access_rules": [],
@@ -156,9 +408,50 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training Ground",
-                        "x": 1422,
-                        "y": 43,
-                        "size": 6
+                        "x": 272,
+                        "y": 2111,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 423,
+                        "y": 104,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Near Scarecrow Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 920,
+                        "y": 1699,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 366,
+                        "y": 124,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -193,9 +486,248 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training Ground",
-                        "x": 1561,
-                        "y": 1533,
-                        "size": 6
+                        "x": 2350,
+                        "y": 2328,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 584,
+                        "y": 157,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hidden Ceiling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 2094,
+                        "y": 169,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 328,
+                        "y": 147,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Maze Path First",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 1752,
+                        "y": 1821,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 331,
+                        "y": 169,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Maze Path Second",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 581,
+                        "y": 1302,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 344,
+                        "y": 158,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Maze Path Third",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 1288,
+                        "y": 2498,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 359,
+                        "y": 151,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Maze Path Final",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 984,
+                        "y": 941,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 378,
+                        "y": 172,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Maze Right Central",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 1778,
+                        "y": 414,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 402,
+                        "y": 183,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Maze Right Side",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 2033,
+                        "y": 2487,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 410,
+                        "y": 167,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -206,39 +738,6 @@
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
-                ],
-                "children": [
-                    {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training Ground",
-                                "x": 1234,
-                                "y": 348,
-                                "size": 6
-                            }
-                        ]
-                    }
                 ],
                 "sections": [
                     {
@@ -252,19 +751,33 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gerudo Training Ground",
-                        "x": 384,
-                        "y": 1279,
-                        "size": 6
+                        "x": 369,
+                        "y": 1024,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 442,
+                        "y": 350,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Lava Room Silver Rupee",
+                "name": "Lava Room Silver Rupee Front Left",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -273,31 +786,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Front Left",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Front Right",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Flame Circle",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Center Right",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Hookshot Target",
+                        "name": "Rupee",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -306,70 +795,192 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training Ground",
-                        "x": 1239,
-                        "y": 1421,
-                        "size": 6
+                        "x": 2025,
+                        "y": 1877,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 473,
+                        "y": 250,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Underwater Silver Rupee",
+                "name": "Lava Room Silver Rupee Front Right",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
                         "name": "Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Top",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Middle",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Bottom Front Right",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Bottom Center",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Bottom Back Left",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gerudo Training Ground",
-                                "x": 2164,
-                                "y": 245,
-                                "size": 6
-                            }
-                        ]
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 471,
+                        "y": 1540,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 534,
+                        "y": 275,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Flame Circle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 1962,
+                        "y": 1949,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 501,
+                        "y": 218,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Center Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 49,
+                        "y": 202,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 556,
+                        "y": 240,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Lava Room Silver Rupee Hookshot Target",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 797,
+                        "y": 1050,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 561,
+                        "y": 176,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Right Side Lava",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding Key",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 2132,
+                        "y": 2356,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 474,
+                        "y": 217,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Underwater Silver Rupee Chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
                 ],
                 "sections": [
                     {
@@ -382,87 +993,184 @@
                 "map_locations": [
                     {
                         "map": "Gerudo Training Ground",
-                        "x": 89,
-                        "y": 1458,
-                        "size": 6
+                        "x": 75,
+                        "y": 98,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 633,
+                        "y": 290,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Stalfos Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
-                "name": "Before Heavy Block Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Underwater Silver Rupee Rupee Top",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 2142,
+                        "y": 1220,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 644,
+                        "y": 337,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "Near Scarecrow Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Underwater Silver Rupee Rupee Middle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 2344,
+                        "y": 1865,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 671,
+                        "y": 370,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "Hidden Ceiling Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Underwater Silver Rupee Rupee Bottom Front Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 857,
+                        "y": 860,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 596,
+                        "y": 380,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "Maze Path First Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Underwater Silver Rupee Rupee Bottom Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 2421,
+                        "y": 1902,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 626,
+                        "y": 401,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "Maze Path Second Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Maze Path Third Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Maze Path Final Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Maze Right Central Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Maze Right Side Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Freestanding Key",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Gerudo Training Ground",
-                "x": 1838,
-                "y": 1981,
-                "size": 6
+                "name": "Underwater Silver Rupee Rupee Bottom Back Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gerudo Training Ground",
+                        "x": 123,
+                        "y": 1221,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "GTG",
+                        "x": 652,
+                        "y": 437,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }

@@ -25,49 +25,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": " 2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "4",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Bottom of the WellMQ",
-                                        "x": 616,
-                                        "y": 1264,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Wonderitems",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bottom of the WellMQ",
+                                "x": 10,
+                                "y": 1369,
+                                "size": 6
                             }
                         ]
                     },
@@ -79,49 +50,20 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "4",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Bottom of the WellMQ",
-                                        "x": 1588,
-                                        "y": 1133,
-                                        "size": 6
-                                    }
-                                ]
+                                "name": "Wonderitems",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bottom of the WellMQ",
+                                "x": 640,
+                                "y": 758,
+                                "size": 6
                             }
                         ]
                     }
@@ -144,75 +86,9 @@
                         "access_rules": [
                             " "
                         ],
-                        "children": [
-                            {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "4",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Bottom of the WellMQ",
-                                        "x": 1965,
-                                        "y": 1281,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
                         "sections": [
                             {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
+                                "name": "Wonderitems",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -221,27 +97,11 @@
                         "map_locations": [
                             {
                                 "map": "Bottom of the WellMQ",
-                                "x": 245,
-                                "y": 2225,
+                                "x": 1417,
+                                "y": 2275,
                                 "size": 6
                             }
                         ]
-                    }
-                ],
-                "sections": [
-                    {
-                        "name": "Freestanding Key",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Bottom of the WellMQ",
-                        "x": 728,
-                        "y": 720,
-                        "size": 6
                     }
                 ]
             },
@@ -264,8 +124,158 @@
                 "map_locations": [
                     {
                         "map": "Bottom of the WellMQ",
-                        "x": 2132,
-                        "y": 500,
+                        "x": 1850,
+                        "y": 1291,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Dead Hand",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding Key",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bottom of the WellMQ",
+                        "x": 847,
+                        "y": 1874,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Compass",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bottom of the WellMQ",
+                        "x": 288,
+                        "y": 2500,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Map",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bottom of the WellMQ",
+                        "x": 640,
+                        "y": 2165,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "East Inner Room Key",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding Key",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bottom of the WellMQ",
+                        "x": 436,
+                        "y": 1992,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "East Inner Room Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bottom of the WellMQ",
+                        "x": 2117,
+                        "y": 955,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lens of Truth Chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bottom of the WellMQ",
+                        "x": 2364,
+                        "y": 895,
                         "size": 6
                     }
                 ]
@@ -278,42 +288,15 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Bottom of the WellMQ",
-                                "x": 472,
-                                "y": 1128,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Recovery Hearts",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -322,8 +305,8 @@
                 "map_locations": [
                     {
                         "map": "Bottom of the WellMQ",
-                        "x": 907,
-                        "y": 554,
+                        "x": 745,
+                        "y": 1000,
                         "size": 6
                     }
                 ]
@@ -347,58 +330,19 @@
                 "map_locations": [
                     {
                         "map": "Bottom of the WellMQ",
-                        "x": 2111,
-                        "y": 788,
+                        "x": 1266,
+                        "y": 2375,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Basement",
+                "name": "Basement GS",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
-                ],
-                "children": [
-                    {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Bottom of the WellMQ",
-                                "x": 1247,
-                                "y": 577,
-                                "size": 6
-                            }
-                        ]
-                    }
                 ],
                 "sections": [
                     {
@@ -411,8 +355,8 @@
                 "map_locations": [
                     {
                         "map": "Bottom of the WellMQ",
-                        "x": 1622,
-                        "y": 1004,
+                        "x": 234,
+                        "y": 206,
                         "size": 6
                     }
                 ]
@@ -427,13 +371,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "2",
+                        "name": "Hearts",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -442,8 +380,33 @@
                 "map_locations": [
                     {
                         "map": "Bottom of the WellMQ",
-                        "x": 1979,
-                        "y": 1885,
+                        "x": 784,
+                        "y": 1087,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Basement",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bottom of the WellMQ",
+                        "x": 823,
+                        "y": 795,
                         "size": 6
                     }
                 ]
@@ -456,51 +419,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Right Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Bottom of the WellMQ",
-                                "x": 1913,
-                                "y": 1877,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Center Room Right Pot",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "3",
+                        "name": "Right Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -509,45 +430,11 @@
                 "map_locations": [
                     {
                         "map": "Bottom of the WellMQ",
-                        "x": 2267,
-                        "y": 2459,
+                        "x": 1562,
+                        "y": 1844,
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Dead Hand Freestanding Key",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Compass Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Map Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Lens of Truth Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Bottom of the WellMQ",
-                "x": 1314,
-                "y": 96,
-                "size": 6
             }
         ]
     }

@@ -1,339 +1,11 @@
 [
     {
-        "name": "dinsfire",
+        "name": "weirdegg",
         "type": "toggle",
-        "img": "images/items/dinsfire.png",
+        "img": "images/items/weirdegg.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "dinsfire"
-    },
-    {
-        "name": "silverrupee(ganonscastlelighttrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(ganonscastlelighttrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(ganonscastlelighttrial)"
-    },
-    {
-        "name": "fairydrop",
-        "type": "toggle",
-        "img": "images/items/fairydrop.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fairydrop"
-    },
-    {
-        "name": "silverrupeepouch(gerudotraininggroundlava)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(gerudotraininggroundlava).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(gerudotraininggroundlava)"
-    },
-    {
-        "name": "silverrupee(spirittempleadultclimb)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(spirittempleadultclimb).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(spirittempleadultclimb)"
-    },
-    {
-        "name": "rupees(treasurechestgame)(5)",
-        "type": "toggle",
-        "img": "images/items/rupees(treasurechestgame)(5).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rupees(treasurechestgame)(5)"
-    },
-    {
-        "name": "oddpotion",
-        "type": "toggle",
-        "img": "images/items/oddpotion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "oddpotion"
-    },
-    {
-        "name": "hoverboots",
-        "type": "toggle",
-        "img": "images/items/hoverboots.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hoverboots"
-    },
-    {
-        "name": "bottlewithredpotion",
-        "type": "toggle",
-        "img": "images/items/bottlewithredpotion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithredpotion"
-    },
-    {
-        "name": "pocketegg",
-        "type": "toggle",
-        "img": "images/items/pocketegg.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pocketegg"
-    },
-    {
-        "name": "silverrupeepouch(spirittemplesunblock)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(spirittemplesunblock).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(spirittemplesunblock)"
-    },
-    {
-        "name": "compass(spirittemple)",
-        "type": "toggle",
-        "img": "images/items/compass(spirittemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "compass(spirittemple)"
-    },
-    {
-        "name": "silverrupee(ganonscastlefiretrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(ganonscastlefiretrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(ganonscastlefiretrial)"
-    },
-    {
-        "name": "dekunuts(10)",
-        "type": "toggle",
-        "img": "images/items/dekunuts(10).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dekunuts(10)"
-    },
-    {
-        "name": "biggoronsword",
-        "type": "toggle",
-        "img": "images/items/biggoronsword.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "biggoronsword"
-    },
-    {
-        "name": "ocarina",
-        "type": "toggle",
-        "img": "images/items/ocarina.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ocarina"
-    },
-    {
-        "name": "silverrupee(icecavernpushblock)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(icecavernpushblock).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(icecavernpushblock)"
-    },
-    {
-        "name": "silverrupee(spirittempleadultboulders)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(spirittempleadultboulders).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(spirittempleadultboulders)"
-    },
-    {
-        "name": "brokensword",
-        "type": "toggle",
-        "img": "images/items/brokensword.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokensword"
-    },
-    {
-        "name": "bombchus(20)",
-        "type": "toggle",
-        "img": "images/items/bombchus(20).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bombchus(20)"
-    },
-    {
-        "name": "rupees(20)",
-        "type": "toggle",
-        "img": "images/items/rupees(20).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rupees(20)"
-    },
-    {
-        "name": "silverrupeepouch(bottomofthewellbasement)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(bottomofthewellbasement).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(bottomofthewellbasement)"
-    },
-    {
-        "name": "pieceofheart",
-        "type": "toggle",
-        "img": "images/items/pieceofheart.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pieceofheart"
-    },
-    {
-        "name": "lightarrows",
-        "type": "toggle",
-        "img": "images/items/lightarrows.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightarrows"
-    },
-    {
-        "name": "smallkeyring(gerudotrainingground)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(gerudotrainingground).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(gerudotrainingground)"
-    },
-    {
-        "name": "zorasapphire",
-        "type": "toggle",
-        "img": "images/items/zorasapphire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "zorasapphire"
-    },
-    {
-        "name": "boomerang",
-        "type": "toggle",
-        "img": "images/items/boomerang.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "boomerang"
-    },
-    {
-        "name": "ironboots",
-        "type": "toggle",
-        "img": "images/items/ironboots.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ironboots"
-    },
-    {
-        "name": "ocarinacupbutton",
-        "type": "toggle",
-        "img": "images/items/ocarinacupbutton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ocarinacupbutton"
-    },
-    {
-        "name": "compass(bottomofthewell)",
-        "type": "toggle",
-        "img": "images/items/compass(bottomofthewell).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "compass(bottomofthewell)"
-    },
-    {
-        "name": "bombs(20)",
-        "type": "toggle",
-        "img": "images/items/bombs(20).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bombs(20)"
-    },
-    {
-        "name": "silverrupeepouch(ganonscastleforesttrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(ganonscastleforesttrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(ganonscastleforesttrial)"
-    },
-    {
-        "name": "rutosletter",
-        "type": "toggle",
-        "img": "images/items/rutosletter.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rutosletter"
-    },
-    {
-        "name": "silverrupee(shadowtemplehugepit)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(shadowtemplehugepit).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(shadowtemplehugepit)"
-    },
-    {
-        "name": "rupees(treasurechestgame)(50)",
-        "type": "toggle",
-        "img": "images/items/rupees(treasurechestgame)(50).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rupees(treasurechestgame)(50)"
-    },
-    {
-        "name": "map(firetemple)",
-        "type": "toggle",
-        "img": "images/items/map(firetemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "map(firetemple)"
-    },
-    {
-        "name": "recoveryheart",
-        "type": "toggle",
-        "img": "images/items/recoveryheart.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "recoveryheart"
-    },
-    {
-        "name": "silverrupee(spirittemplelobbyandloweradult)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(spirittemplelobbyandloweradult).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(spirittemplelobbyandloweradult)"
-    },
-    {
-        "name": "silverrupee(ganonscastlewatertrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(ganonscastlewatertrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(ganonscastlewatertrial)"
-    },
-    {
-        "name": "map(dekutree)",
-        "type": "toggle",
-        "img": "images/items/map(dekutree).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "map(dekutree)"
-    },
-    {
-        "name": "dekustickcapacity",
-        "type": "toggle",
-        "img": "images/items/dekustickcapacity.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dekustickcapacity"
-    },
-    {
-        "name": "kokiriemerald",
-        "type": "toggle",
-        "img": "images/items/kokiriemerald.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "kokiriemerald"
+        "codes": "weirdegg"
     },
     {
         "name": "silverrupeepouch(spirittempleadultboulders)",
@@ -344,100 +16,20 @@
         "codes": "silverrupeepouch(spirittempleadultboulders)"
     },
     {
-        "name": "oddmushroom",
+        "name": "smallkeyring(treasurechestgame)",
         "type": "toggle",
-        "img": "images/items/oddmushroom.png",
+        "img": "images/items/smallkeyring(treasurechestgame).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "oddmushroom"
+        "codes": "smallkeyring(treasurechestgame)"
     },
     {
-        "name": "smallkey(bottomofthewell)",
+        "name": "ocarinacupbutton",
         "type": "toggle",
-        "img": "images/items/smallkey(bottomofthewell).png",
+        "img": "images/items/ocarinacupbutton.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "smallkey(bottomofthewell)"
-    },
-    {
-        "name": "dekushield",
-        "type": "toggle",
-        "img": "images/items/dekushield.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dekushield"
-    },
-    {
-        "name": "silverrupee(gerudotraininggroundlava)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(gerudotraininggroundlava).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(gerudotraininggroundlava)"
-    },
-    {
-        "name": "silverrupee(spirittemplechildearlytorches)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(spirittemplechildearlytorches).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(spirittemplechildearlytorches)"
-    },
-    {
-        "name": "shadowmedallion",
-        "type": "toggle",
-        "img": "images/items/shadowmedallion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shadowmedallion"
-    },
-    {
-        "name": "giantsknife",
-        "type": "toggle",
-        "img": "images/items/giantsknife.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "giantsknife"
-    },
-    {
-        "name": "rupee(treasurechestgame)(1)",
-        "type": "toggle",
-        "img": "images/items/rupee(treasurechestgame)(1).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rupee(treasurechestgame)(1)"
-    },
-    {
-        "name": "silverrupeepouch(ganonscastlelighttrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(ganonscastlelighttrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(ganonscastlelighttrial)"
-    },
-    {
-        "name": "doubledefense",
-        "type": "toggle",
-        "img": "images/items/doubledefense.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "doubledefense"
-    },
-    {
-        "name": "dekustick(1)",
-        "type": "toggle",
-        "img": "images/items/dekustick(1).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dekustick(1)"
-    },
-    {
-        "name": "map(shadowtemple)",
-        "type": "toggle",
-        "img": "images/items/map(shadowtemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "map(shadowtemple)"
+        "codes": "ocarinacupbutton"
     },
     {
         "name": "goronmask",
@@ -448,460 +40,28 @@
         "codes": "goronmask"
     },
     {
-        "name": "heartcontainer",
+        "name": "nocturneofshadow",
         "type": "toggle",
-        "img": "images/items/heartcontainer.png",
+        "img": "images/items/nocturneofshadow.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "heartcontainer"
+        "codes": "nocturneofshadow"
     },
     {
-        "name": "bombchus(5)",
+        "name": "rupees(5)",
         "type": "toggle",
-        "img": "images/items/bombchus(5).png",
+        "img": "images/items/rupees(5).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "bombchus(5)"
+        "codes": "rupees(5)"
     },
     {
-        "name": "silverrupee(icecavernspinningscythe)",
+        "name": "dekustick(1)",
         "type": "toggle",
-        "img": "images/items/silverrupee(icecavernspinningscythe).png",
+        "img": "images/items/dekustick(1).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "silverrupee(icecavernspinningscythe)"
-    },
-    {
-        "name": "icearrows",
-        "type": "toggle",
-        "img": "images/items/icearrows.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "icearrows"
-    },
-    {
-        "name": "silverrupee(ganonscastleshadowtrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(ganonscastleshadowtrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(ganonscastleshadowtrial)"
-    },
-    {
-        "name": "songofstorms",
-        "type": "toggle",
-        "img": "images/items/songofstorms.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "songofstorms"
-    },
-    {
-        "name": "silverrupeepouch(dodongoscavernstaircase)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(dodongoscavernstaircase).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(dodongoscavernstaircase)"
-    },
-    {
-        "name": "smallkey(firetemple)",
-        "type": "toggle",
-        "img": "images/items/smallkey(firetemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkey(firetemple)"
-    },
-    {
-        "name": "smallkey(spirittemple)",
-        "type": "toggle",
-        "img": "images/items/smallkey(spirittemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkey(spirittemple)"
-    },
-    {
-        "name": "smallkey(treasurechestgame)",
-        "type": "toggle",
-        "img": "images/items/smallkey(treasurechestgame).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkey(treasurechestgame)"
-    },
-    {
-        "name": "silverrupee(ganonscastleforesttrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(ganonscastleforesttrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(ganonscastleforesttrial)"
-    },
-    {
-        "name": "smallkeyring(bottomofthewell)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(bottomofthewell).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(bottomofthewell)"
-    },
-    {
-        "name": "compass(jabujabusbelly)",
-        "type": "toggle",
-        "img": "images/items/compass(jabujabusbelly).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "compass(jabujabusbelly)"
-    },
-    {
-        "name": "skullmask",
-        "type": "toggle",
-        "img": "images/items/skullmask.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "skullmask"
-    },
-    {
-        "name": "smallkey(foresttemple)",
-        "type": "toggle",
-        "img": "images/items/smallkey(foresttemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkey(foresttemple)"
-    },
-    {
-        "name": "gerudomembershipcard",
-        "type": "toggle",
-        "img": "images/items/gerudomembershipcard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gerudomembershipcard"
-    },
-    {
-        "name": "silverrupeepouch(icecavernspinningscythe)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(icecavernspinningscythe).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(icecavernspinningscythe)"
-    },
-    {
-        "name": "magicbeanpack",
-        "type": "toggle",
-        "img": "images/items/magicbeanpack.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magicbeanpack"
-    },
-    {
-        "name": "bolerooffire",
-        "type": "toggle",
-        "img": "images/items/bolerooffire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bolerooffire"
-    },
-    {
-        "name": "bottlewithbluepotion",
-        "type": "toggle",
-        "img": "images/items/bottlewithbluepotion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithbluepotion"
-    },
-    {
-        "name": "bottlewithmilk",
-        "type": "toggle",
-        "img": "images/items/bottlewithmilk.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithmilk"
-    },
-    {
-        "name": "bunnyhood",
-        "type": "toggle",
-        "img": "images/items/bunnyhood.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bunnyhood"
-    },
-    {
-        "name": "sariassong",
-        "type": "toggle",
-        "img": "images/items/sariassong.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sariassong"
-    },
-    {
-        "name": "bombbag",
-        "type": "toggle",
-        "img": "images/items/bombbag.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bombbag"
-    },
-    {
-        "name": "map(spirittemple)",
-        "type": "toggle",
-        "img": "images/items/map(spirittemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "map(spirittemple)"
-    },
-    {
-        "name": "silverrupee(bottomofthewellbasement)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(bottomofthewellbasement).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(bottomofthewellbasement)"
-    },
-    {
-        "name": "silverrupee(shadowtemplescytheshortcut)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(shadowtemplescytheshortcut).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(shadowtemplescytheshortcut)"
-    },
-    {
-        "name": "silverrupeepouch(ganonscastlewatertrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(ganonscastlewatertrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(ganonscastlewatertrial)"
-    },
-    {
-        "name": "smallkeyring(spirittemple)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(spirittemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(spirittemple)"
-    },
-    {
-        "name": "silverrupeepouch(shadowtemplehugepit)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(shadowtemplehugepit).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(shadowtemplehugepit)"
-    },
-    {
-        "name": "hylianshield",
-        "type": "toggle",
-        "img": "images/items/hylianshield.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hylianshield"
-    },
-    {
-        "name": "bosskey(spirittemple)",
-        "type": "toggle",
-        "img": "images/items/bosskey(spirittemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bosskey(spirittemple)"
-    },
-    {
-        "name": "slingshot",
-        "type": "toggle",
-        "img": "images/items/slingshot.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "slingshot"
-    },
-    {
-        "name": "compass(watertemple)",
-        "type": "toggle",
-        "img": "images/items/compass(watertemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "compass(watertemple)"
-    },
-    {
-        "name": "firemedallion",
-        "type": "toggle",
-        "img": "images/items/firemedallion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "firemedallion"
-    },
-    {
-        "name": "bombs(5)",
-        "type": "toggle",
-        "img": "images/items/bombs(5).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bombs(5)"
-    },
-    {
-        "name": "progressivewallet",
-        "type": "toggle",
-        "img": "images/items/progressivewallet.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivewallet"
-    },
-    {
-        "name": "progressivescale",
-        "type": "toggle",
-        "img": "images/items/progressivescale.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivescale"
-    },
-    {
-        "name": "forestmedallion",
-        "type": "toggle",
-        "img": "images/items/forestmedallion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "forestmedallion"
-    },
-    {
-        "name": "lightmedallion",
-        "type": "toggle",
-        "img": "images/items/lightmedallion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lightmedallion"
-    },
-    {
-        "name": "maskoftruth",
-        "type": "toggle",
-        "img": "images/items/maskoftruth.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "maskoftruth"
-    },
-    {
-        "name": "silverrupeepouch(shadowtemplescytheshortcut)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(shadowtemplescytheshortcut).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(shadowtemplescytheshortcut)"
-    },
-    {
-        "name": "zoramask",
-        "type": "toggle",
-        "img": "images/items/zoramask.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "zoramask"
-    },
-    {
-        "name": "claimcheck",
-        "type": "toggle",
-        "img": "images/items/claimcheck.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "claimcheck"
-    },
-    {
-        "name": "mirrorshield",
-        "type": "toggle",
-        "img": "images/items/mirrorshield.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mirrorshield"
-    },
-    {
-        "name": "ocarinacleftbutton",
-        "type": "toggle",
-        "img": "images/items/ocarinacleftbutton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ocarinacleftbutton"
-    },
-    {
-        "name": "magicmeter",
-        "type": "toggle",
-        "img": "images/items/magicmeter.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magicmeter"
-    },
-    {
-        "name": "silverrupeepouch(ganonscastlefiretrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(ganonscastlefiretrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(ganonscastlefiretrial)"
-    },
-    {
-        "name": "compass(foresttemple)",
-        "type": "toggle",
-        "img": "images/items/compass(foresttemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "compass(foresttemple)"
-    },
-    {
-        "name": "lensoftruth",
-        "type": "toggle",
-        "img": "images/items/lensoftruth.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lensoftruth"
-    },
-    {
-        "name": "bottlewithbluefire",
-        "type": "toggle",
-        "img": "images/items/bottlewithbluefire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithbluefire"
-    },
-    {
-        "name": "spookymask",
-        "type": "toggle",
-        "img": "images/items/spookymask.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spookymask"
-    },
-    {
-        "name": "silverrupeepouch(spirittemplechildearlytorches)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(spirittemplechildearlytorches).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(spirittemplechildearlytorches)"
-    },
-    {
-        "name": "megatonhammer",
-        "type": "toggle",
-        "img": "images/items/megatonhammer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "megatonhammer"
-    },
-    {
-        "name": "songoftime",
-        "type": "toggle",
-        "img": "images/items/songoftime.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "songoftime"
-    },
-    {
-        "name": "minuetofforest",
-        "type": "toggle",
-        "img": "images/items/minuetofforest.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "minuetofforest"
-    },
-    {
-        "name": "bluepotion",
-        "type": "toggle",
-        "img": "images/items/bluepotion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bluepotion"
+        "codes": "dekustick(1)"
     },
     {
         "name": "map(bottomofthewell)",
@@ -912,260 +72,60 @@
         "codes": "map(bottomofthewell)"
     },
     {
-        "name": "dekunutcapacity",
+        "name": "silverrupeepouch(ganonscastlewatertrial)",
         "type": "toggle",
-        "img": "images/items/dekunutcapacity.png",
+        "img": "images/items/silverrupeepouch(ganonscastlewatertrial).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "dekunutcapacity"
+        "codes": "silverrupeepouch(ganonscastlewatertrial)"
     },
     {
-        "name": "compass(dekutree)",
+        "name": "claimcheck",
         "type": "toggle",
-        "img": "images/items/compass(dekutree).png",
+        "img": "images/items/claimcheck.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "compass(dekutree)"
+        "codes": "claimcheck"
     },
     {
-        "name": "gerudomask",
+        "name": "bombbag",
         "type": "toggle",
-        "img": "images/items/gerudomask.png",
+        "img": "images/items/bombbag.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "gerudomask"
+        "codes": "bombbag"
     },
     {
-        "name": "cojiro",
+        "name": "silverrupee(spirittempleadultclimb)",
         "type": "toggle",
-        "img": "images/items/cojiro.png",
+        "img": "images/items/silverrupee(spirittempleadultclimb).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "cojiro"
+        "codes": "silverrupee(spirittempleadultclimb)"
     },
     {
-        "name": "magicbean",
+        "name": "silverrupee(shadowtemplescytheshortcut)",
         "type": "toggle",
-        "img": "images/items/magicbean.png",
+        "img": "images/items/silverrupee(shadowtemplescytheshortcut).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "magicbean"
+        "codes": "silverrupee(shadowtemplescytheshortcut)"
     },
     {
-        "name": "silverrupee(dodongoscavernstaircase)",
+        "name": "bow",
         "type": "toggle",
-        "img": "images/items/silverrupee(dodongoscavernstaircase).png",
+        "img": "images/items/bow.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "silverrupee(dodongoscavernstaircase)"
+        "codes": "bow"
     },
     {
-        "name": "pocketcucco",
+        "name": "silverrupee(ganonscastlefiretrial)",
         "type": "toggle",
-        "img": "images/items/pocketcucco.png",
+        "img": "images/items/silverrupee(ganonscastlefiretrial).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "pocketcucco"
-    },
-    {
-        "name": "silverrupeepouch(icecavernpushblock)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(icecavernpushblock).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(icecavernpushblock)"
-    },
-    {
-        "name": "silverrupeepouch(shadowtempleinvisibleblades)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(shadowtempleinvisibleblades).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(shadowtempleinvisibleblades)"
-    },
-    {
-        "name": "silverrupeepouch(shadowtempleinvisiblespikes)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(shadowtempleinvisiblespikes).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(shadowtempleinvisiblespikes)"
-    },
-    {
-        "name": "bosskey(foresttemple)",
-        "type": "toggle",
-        "img": "images/items/bosskey(foresttemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bosskey(foresttemple)"
-    },
-    {
-        "name": "smallkeyring(firetemple)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(firetemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(firetemple)"
-    },
-    {
-        "name": "silverrupee(gerudotraininggroundslopes)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(gerudotraininggroundslopes).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(gerudotraininggroundslopes)"
-    },
-    {
-        "name": "progressivestrengthupgrade",
-        "type": "toggle",
-        "img": "images/items/progressivestrengthupgrade.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivestrengthupgrade"
-    },
-    {
-        "name": "stoneofagony",
-        "type": "toggle",
-        "img": "images/items/stoneofagony.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "stoneofagony"
-    },
-    {
-        "name": "preludeoflight",
-        "type": "toggle",
-        "img": "images/items/preludeoflight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "preludeoflight"
-    },
-    {
-        "name": "zoratunic",
-        "type": "toggle",
-        "img": "images/items/zoratunic.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "zoratunic"
-    },
-    {
-        "name": "zeldasletter",
-        "type": "toggle",
-        "img": "images/items/zeldasletter.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "zeldasletter"
-    },
-    {
-        "name": "smallkeyring(treasurechestgame)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(treasurechestgame).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(treasurechestgame)"
-    },
-    {
-        "name": "smallkey(thieveshideout)",
-        "type": "toggle",
-        "img": "images/items/smallkey(thieveshideout).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkey(thieveshideout)"
-    },
-    {
-        "name": "serenadeofwater",
-        "type": "toggle",
-        "img": "images/items/serenadeofwater.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "serenadeofwater"
-    },
-    {
-        "name": "progressivehookshot",
-        "type": "toggle",
-        "img": "images/items/progressivehookshot.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "progressivehookshot"
-    },
-    {
-        "name": "smallkey(watertemple)",
-        "type": "toggle",
-        "img": "images/items/smallkey(watertemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkey(watertemple)"
-    },
-    {
-        "name": "smallkeyring(watertemple)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(watertemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(watertemple)"
-    },
-    {
-        "name": "silverrupee(shadowtempleinvisibleblades)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(shadowtempleinvisibleblades).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(shadowtempleinvisibleblades)"
-    },
-    {
-        "name": "dekunuts(5)",
-        "type": "toggle",
-        "img": "images/items/dekunuts(5).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dekunuts(5)"
-    },
-    {
-        "name": "eyeballfrog",
-        "type": "toggle",
-        "img": "images/items/eyeballfrog.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "eyeballfrog"
-    },
-    {
-        "name": "gorontunic",
-        "type": "toggle",
-        "img": "images/items/gorontunic.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gorontunic"
-    },
-    {
-        "name": "bottlewithbigpoe",
-        "type": "toggle",
-        "img": "images/items/bottlewithbigpoe.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithbigpoe"
-    },
-    {
-        "name": "bottlewithfish",
-        "type": "toggle",
-        "img": "images/items/bottlewithfish.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithfish"
-    },
-    {
-        "name": "silverrupeepouch(spirittempleadultclimb)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(spirittempleadultclimb).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(spirittempleadultclimb)"
-    },
-    {
-        "name": "poacherssaw",
-        "type": "toggle",
-        "img": "images/items/poacherssaw.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "poacherssaw"
+        "codes": "silverrupee(ganonscastlefiretrial)"
     },
     {
         "name": "bottle",
@@ -1176,12 +136,1484 @@
         "codes": "bottle"
     },
     {
+        "name": "gerudomembershipcard",
+        "type": "toggle",
+        "img": "images/items/gerudomembershipcard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gerudomembershipcard"
+    },
+    {
+        "name": "chicken",
+        "type": "toggle",
+        "img": "images/items/chicken.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chicken"
+    },
+    {
+        "name": "bottlewithpoe",
+        "type": "toggle",
+        "img": "images/items/bottlewithpoe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithpoe"
+    },
+    {
+        "name": "silverrupee(gerudotraininggroundslopes)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(gerudotraininggroundslopes).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(gerudotraininggroundslopes)"
+    },
+    {
+        "name": "bolerooffire",
+        "type": "toggle",
+        "img": "images/items/bolerooffire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bolerooffire"
+    },
+    {
+        "name": "brokensword",
+        "type": "toggle",
+        "img": "images/items/brokensword.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokensword"
+    },
+    {
+        "name": "rutosletter",
+        "type": "toggle",
+        "img": "images/items/rutosletter.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rutosletter"
+    },
+    {
+        "name": "smallkeyring(gerudotrainingground)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(gerudotrainingground).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(gerudotrainingground)"
+    },
+    {
+        "name": "fairydrop",
+        "type": "toggle",
+        "img": "images/items/fairydrop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fairydrop"
+    },
+    {
+        "name": "bombchus",
+        "type": "toggle",
+        "img": "images/items/bombchus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bombchus"
+    },
+    {
+        "name": "silverrupee(gerudotraininggroundlava)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(gerudotraininggroundlava).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(gerudotraininggroundlava)"
+    },
+    {
+        "name": "spookymask",
+        "type": "toggle",
+        "img": "images/items/spookymask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spookymask"
+    },
+    {
+        "name": "heartcontainer",
+        "type": "toggle",
+        "img": "images/items/heartcontainer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heartcontainer"
+    },
+    {
+        "name": "silverrupee(ganonscastleshadowtrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(ganonscastleshadowtrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(ganonscastleshadowtrial)"
+    },
+    {
+        "name": "dekunutcapacity",
+        "type": "toggle",
+        "img": "images/items/dekunutcapacity.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dekunutcapacity"
+    },
+    {
+        "name": "silverrupeepouch(spirittempleadultclimb)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(spirittempleadultclimb).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(spirittempleadultclimb)"
+    },
+    {
+        "name": "progressivescale",
+        "type": "toggle",
+        "img": "images/items/progressivescale.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivescale"
+    },
+    {
+        "name": "doubledefense",
+        "type": "toggle",
+        "img": "images/items/doubledefense.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "doubledefense"
+    },
+    {
+        "name": "silverrupeepouch(bottomofthewellbasement)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(bottomofthewellbasement).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(bottomofthewellbasement)"
+    },
+    {
+        "name": "requiemofspirit",
+        "type": "toggle",
+        "img": "images/items/requiemofspirit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "requiemofspirit"
+    },
+    {
+        "name": "smallkey(bottomofthewell)",
+        "type": "toggle",
+        "img": "images/items/smallkey(bottomofthewell).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkey(bottomofthewell)"
+    },
+    {
+        "name": "progressivehookshot",
+        "type": "toggle",
+        "img": "images/items/progressivehookshot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivehookshot"
+    },
+    {
+        "name": "skullmask",
+        "type": "toggle",
+        "img": "images/items/skullmask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skullmask"
+    },
+    {
+        "name": "recoveryheart",
+        "type": "toggle",
+        "img": "images/items/recoveryheart.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "recoveryheart"
+    },
+    {
+        "name": "bombs(5)",
+        "type": "toggle",
+        "img": "images/items/bombs(5).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bombs(5)"
+    },
+    {
+        "name": "rupees(treasurechestgame)(5)",
+        "type": "toggle",
+        "img": "images/items/rupees(treasurechestgame)(5).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupees(treasurechestgame)(5)"
+    },
+    {
+        "name": "silverrupeepouch(ganonscastleforesttrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(ganonscastleforesttrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(ganonscastleforesttrial)"
+    },
+    {
+        "name": "zorasapphire",
+        "type": "toggle",
+        "img": "images/items/zorasapphire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zorasapphire"
+    },
+    {
+        "name": "silverrupee(gerudotraininggroundwater)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(gerudotraininggroundwater).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(gerudotraininggroundwater)"
+    },
+    {
+        "name": "compass(firetemple)",
+        "type": "toggle",
+        "img": "images/items/compass(firetemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(firetemple)"
+    },
+    {
+        "name": "kokiriemerald",
+        "type": "toggle",
+        "img": "images/items/kokiriemerald.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kokiriemerald"
+    },
+    {
+        "name": "kokirisword",
+        "type": "toggle",
+        "img": "images/items/kokirisword.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kokirisword"
+    },
+    {
+        "name": "ocarinaabutton",
+        "type": "toggle",
+        "img": "images/items/ocarinaabutton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ocarinaabutton"
+    },
+    {
+        "name": "bottlewithbugs",
+        "type": "toggle",
+        "img": "images/items/bottlewithbugs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithbugs"
+    },
+    {
+        "name": "map(dodongoscavern)",
+        "type": "toggle",
+        "img": "images/items/map(dodongoscavern).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "map(dodongoscavern)"
+    },
+    {
+        "name": "forestmedallion",
+        "type": "toggle",
+        "img": "images/items/forestmedallion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "forestmedallion"
+    },
+    {
+        "name": "mirrorshield",
+        "type": "toggle",
+        "img": "images/items/mirrorshield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mirrorshield"
+    },
+    {
+        "name": "bosskey(shadowtemple)",
+        "type": "toggle",
+        "img": "images/items/bosskey(shadowtemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bosskey(shadowtemple)"
+    },
+    {
+        "name": "map(jabujabusbelly)",
+        "type": "toggle",
+        "img": "images/items/map(jabujabusbelly).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "map(jabujabusbelly)"
+    },
+    {
+        "name": "firemedallion",
+        "type": "toggle",
+        "img": "images/items/firemedallion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firemedallion"
+    },
+    {
+        "name": "bottlewithfish",
+        "type": "toggle",
+        "img": "images/items/bottlewithfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithfish"
+    },
+    {
+        "name": "map(dekutree)",
+        "type": "toggle",
+        "img": "images/items/map(dekutree).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "map(dekutree)"
+    },
+    {
+        "name": "smallkey(shadowtemple)",
+        "type": "toggle",
+        "img": "images/items/smallkey(shadowtemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkey(shadowtemple)"
+    },
+    {
+        "name": "watermedallion",
+        "type": "toggle",
+        "img": "images/items/watermedallion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "watermedallion"
+    },
+    {
+        "name": "compass(dekutree)",
+        "type": "toggle",
+        "img": "images/items/compass(dekutree).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(dekutree)"
+    },
+    {
+        "name": "smallkeyring(spirittemple)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(spirittemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(spirittemple)"
+    },
+    {
+        "name": "smallkeyring(shadowtemple)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(shadowtemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(shadowtemple)"
+    },
+    {
+        "name": "dekunuts(10)",
+        "type": "toggle",
+        "img": "images/items/dekunuts(10).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dekunuts(10)"
+    },
+    {
+        "name": "silverrupeepouch(ganonscastlefiretrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(ganonscastlefiretrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(ganonscastlefiretrial)"
+    },
+    {
+        "name": "bottlewithmilk",
+        "type": "toggle",
+        "img": "images/items/bottlewithmilk.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithmilk"
+    },
+    {
+        "name": "smallkeyring(watertemple)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(watertemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(watertemple)"
+    },
+    {
+        "name": "compass(foresttemple)",
+        "type": "toggle",
+        "img": "images/items/compass(foresttemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(foresttemple)"
+    },
+    {
+        "name": "eponassong",
+        "type": "toggle",
+        "img": "images/items/eponassong.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eponassong"
+    },
+    {
+        "name": "dinsfire",
+        "type": "toggle",
+        "img": "images/items/dinsfire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dinsfire"
+    },
+    {
+        "name": "progressivewallet",
+        "type": "toggle",
+        "img": "images/items/progressivewallet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivewallet"
+    },
+    {
+        "name": "prescription",
+        "type": "toggle",
+        "img": "images/items/prescription.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "prescription"
+    },
+    {
+        "name": "hylianshield",
+        "type": "toggle",
+        "img": "images/items/hylianshield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hylianshield"
+    },
+    {
+        "name": "hoverboots",
+        "type": "toggle",
+        "img": "images/items/hoverboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hoverboots"
+    },
+    {
+        "name": "bottlewithbluefire",
+        "type": "toggle",
+        "img": "images/items/bottlewithbluefire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithbluefire"
+    },
+    {
+        "name": "nayruslove",
+        "type": "toggle",
+        "img": "images/items/nayruslove.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nayruslove"
+    },
+    {
+        "name": "bottlewithbluepotion",
+        "type": "toggle",
+        "img": "images/items/bottlewithbluepotion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithbluepotion"
+    },
+    {
+        "name": "pocketcucco",
+        "type": "toggle",
+        "img": "images/items/pocketcucco.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pocketcucco"
+    },
+    {
+        "name": "silverrupee(ganonscastlewatertrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(ganonscastlewatertrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(ganonscastlewatertrial)"
+    },
+    {
+        "name": "silverrupeepouch(ganonscastlespirittrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(ganonscastlespirittrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(ganonscastlespirittrial)"
+    },
+    {
+        "name": "rupee(treasurechestgame)(1)",
+        "type": "toggle",
+        "img": "images/items/rupee(treasurechestgame)(1).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupee(treasurechestgame)(1)"
+    },
+    {
+        "name": "map(watertemple)",
+        "type": "toggle",
+        "img": "images/items/map(watertemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "map(watertemple)"
+    },
+    {
+        "name": "silverrupeepouch(shadowtemplehugepit)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(shadowtemplehugepit).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(shadowtemplehugepit)"
+    },
+    {
+        "name": "keatonmask",
+        "type": "toggle",
+        "img": "images/items/keatonmask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "keatonmask"
+    },
+    {
+        "name": "maskoftruth",
+        "type": "toggle",
+        "img": "images/items/maskoftruth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "maskoftruth"
+    },
+    {
+        "name": "silverrupee(dodongoscavernstaircase)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(dodongoscavernstaircase).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(dodongoscavernstaircase)"
+    },
+    {
+        "name": "ocarinacdownbutton",
+        "type": "toggle",
+        "img": "images/items/ocarinacdownbutton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ocarinacdownbutton"
+    },
+    {
+        "name": "rupees(20)",
+        "type": "toggle",
+        "img": "images/items/rupees(20).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupees(20)"
+    },
+    {
+        "name": "silverrupee(icecavernpushblock)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(icecavernpushblock).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(icecavernpushblock)"
+    },
+    {
+        "name": "ocarina",
+        "type": "toggle",
+        "img": "images/items/ocarina.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ocarina"
+    },
+    {
+        "name": "smallkeyring(ganonscastle)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(ganonscastle).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(ganonscastle)"
+    },
+    {
+        "name": "bosskey(firetemple)",
+        "type": "toggle",
+        "img": "images/items/bosskey(firetemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bosskey(firetemple)"
+    },
+    {
+        "name": "silverrupeepouch(spirittemplelobbyandloweradult)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(spirittemplelobbyandloweradult).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(spirittemplelobbyandloweradult)"
+    },
+    {
+        "name": "zeldaslullaby",
+        "type": "toggle",
+        "img": "images/items/zeldaslullaby.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zeldaslullaby"
+    },
+    {
+        "name": "map(shadowtemple)",
+        "type": "toggle",
+        "img": "images/items/map(shadowtemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "map(shadowtemple)"
+    },
+    {
+        "name": "silverrupeepouch(gerudotraininggroundwater)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(gerudotraininggroundwater).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(gerudotraininggroundwater)"
+    },
+    {
+        "name": "smallkey(gerudotrainingground)",
+        "type": "toggle",
+        "img": "images/items/smallkey(gerudotrainingground).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkey(gerudotrainingground)"
+    },
+    {
+        "name": "faroreswind",
+        "type": "toggle",
+        "img": "images/items/faroreswind.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "faroreswind"
+    },
+    {
+        "name": "cojiro",
+        "type": "toggle",
+        "img": "images/items/cojiro.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cojiro"
+    },
+    {
+        "name": "magicmeter",
+        "type": "toggle",
+        "img": "images/items/magicmeter.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicmeter"
+    },
+    {
+        "name": "dekustickcapacity",
+        "type": "toggle",
+        "img": "images/items/dekustickcapacity.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dekustickcapacity"
+    },
+    {
+        "name": "compass(shadowtemple)",
+        "type": "toggle",
+        "img": "images/items/compass(shadowtemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(shadowtemple)"
+    },
+    {
         "name": "silverrupee(shadowtempleinvisiblespikes)",
         "type": "toggle",
         "img": "images/items/silverrupee(shadowtempleinvisiblespikes).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "silverrupee(shadowtempleinvisiblespikes)"
+    },
+    {
+        "name": "compass(watertemple)",
+        "type": "toggle",
+        "img": "images/items/compass(watertemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(watertemple)"
+    },
+    {
+        "name": "minuetofforest",
+        "type": "toggle",
+        "img": "images/items/minuetofforest.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "minuetofforest"
+    },
+    {
+        "name": "compass(bottomofthewell)",
+        "type": "toggle",
+        "img": "images/items/compass(bottomofthewell).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(bottomofthewell)"
+    },
+    {
+        "name": "eyeballfrog",
+        "type": "toggle",
+        "img": "images/items/eyeballfrog.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyeballfrog"
+    },
+    {
+        "name": "smallkey(watertemple)",
+        "type": "toggle",
+        "img": "images/items/smallkey(watertemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkey(watertemple)"
+    },
+    {
+        "name": "bombchus(5)",
+        "type": "toggle",
+        "img": "images/items/bombchus(5).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bombchus(5)"
+    },
+    {
+        "name": "rupees(200)",
+        "type": "toggle",
+        "img": "images/items/rupees(200).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupees(200)"
+    },
+    {
+        "name": "compass(dodongoscavern)",
+        "type": "toggle",
+        "img": "images/items/compass(dodongoscavern).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(dodongoscavern)"
+    },
+    {
+        "name": "goronruby",
+        "type": "toggle",
+        "img": "images/items/goronruby.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "goronruby"
+    },
+    {
+        "name": "shadowmedallion",
+        "type": "toggle",
+        "img": "images/items/shadowmedallion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shadowmedallion"
+    },
+    {
+        "name": "eyedrops",
+        "type": "toggle",
+        "img": "images/items/eyedrops.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyedrops"
+    },
+    {
+        "name": "stoneofagony",
+        "type": "toggle",
+        "img": "images/items/stoneofagony.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stoneofagony"
+    },
+    {
+        "name": "biggoronsword",
+        "type": "toggle",
+        "img": "images/items/biggoronsword.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "biggoronsword"
+    },
+    {
+        "name": "bottlewithgreenpotion",
+        "type": "toggle",
+        "img": "images/items/bottlewithgreenpotion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithgreenpotion"
+    },
+    {
+        "name": "bosskey(foresttemple)",
+        "type": "toggle",
+        "img": "images/items/bosskey(foresttemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bosskey(foresttemple)"
+    },
+    {
+        "name": "silverrupee(spirittemplelobbyandloweradult)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(spirittemplelobbyandloweradult).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(spirittemplelobbyandloweradult)"
+    },
+    {
+        "name": "lightmedallion",
+        "type": "toggle",
+        "img": "images/items/lightmedallion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightmedallion"
+    },
+    {
+        "name": "rupee(1)",
+        "type": "toggle",
+        "img": "images/items/rupee(1).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupee(1)"
+    },
+    {
+        "name": "zeldasletter",
+        "type": "toggle",
+        "img": "images/items/zeldasletter.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zeldasletter"
+    },
+    {
+        "name": "progressivestrengthupgrade",
+        "type": "toggle",
+        "img": "images/items/progressivestrengthupgrade.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivestrengthupgrade"
+    },
+    {
+        "name": "silverrupee(shadowtemplehugepit)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(shadowtemplehugepit).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(shadowtemplehugepit)"
+    },
+    {
+        "name": "smallkeyring(foresttemple)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(foresttemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(foresttemple)"
+    },
+    {
+        "name": "ironboots",
+        "type": "toggle",
+        "img": "images/items/ironboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ironboots"
+    },
+    {
+        "name": "smallkey(ganonscastle)",
+        "type": "toggle",
+        "img": "images/items/smallkey(ganonscastle).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkey(ganonscastle)"
+    },
+    {
+        "name": "silverrupeepouch(spirittemplechildearlytorches)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(spirittemplechildearlytorches).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(spirittemplechildearlytorches)"
+    },
+    {
+        "name": "silverrupeepouch(gerudotraininggroundslopes)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(gerudotraininggroundslopes).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(gerudotraininggroundslopes)"
+    },
+    {
+        "name": "silverrupee(ganonscastlespirittrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(ganonscastlespirittrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(ganonscastlespirittrial)"
+    },
+    {
+        "name": "map(firetemple)",
+        "type": "toggle",
+        "img": "images/items/map(firetemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "map(firetemple)"
+    },
+    {
+        "name": "silverrupee(ganonscastlelighttrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(ganonscastlelighttrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(ganonscastlelighttrial)"
+    },
+    {
+        "name": "boomerang",
+        "type": "toggle",
+        "img": "images/items/boomerang.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boomerang"
+    },
+    {
+        "name": "silverrupeepouch(shadowtemplescytheshortcut)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(shadowtemplescytheshortcut).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(shadowtemplescytheshortcut)"
+    },
+    {
+        "name": "rupees(treasurechestgame)(50)",
+        "type": "toggle",
+        "img": "images/items/rupees(treasurechestgame)(50).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupees(treasurechestgame)(50)"
+    },
+    {
+        "name": "icearrows",
+        "type": "toggle",
+        "img": "images/items/icearrows.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icearrows"
+    },
+    {
+        "name": "map(spirittemple)",
+        "type": "toggle",
+        "img": "images/items/map(spirittemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "map(spirittemple)"
+    },
+    {
+        "name": "map(icecavern)",
+        "type": "toggle",
+        "img": "images/items/map(icecavern).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "map(icecavern)"
+    },
+    {
+        "name": "serenadeofwater",
+        "type": "toggle",
+        "img": "images/items/serenadeofwater.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "serenadeofwater"
+    },
+    {
+        "name": "compass(spirittemple)",
+        "type": "toggle",
+        "img": "images/items/compass(spirittemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(spirittemple)"
+    },
+    {
+        "name": "bottlewithfairy",
+        "type": "toggle",
+        "img": "images/items/bottlewithfairy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithfairy"
+    },
+    {
+        "name": "giantsknife",
+        "type": "toggle",
+        "img": "images/items/giantsknife.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giantsknife"
+    },
+    {
+        "name": "silverrupeepouch(spirittemplesunblock)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(spirittemplesunblock).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(spirittemplesunblock)"
+    },
+    {
+        "name": "gerudomask",
+        "type": "toggle",
+        "img": "images/items/gerudomask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gerudomask"
+    },
+    {
+        "name": "bosskey(spirittemple)",
+        "type": "toggle",
+        "img": "images/items/bosskey(spirittemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bosskey(spirittemple)"
+    },
+    {
+        "name": "silverrupeepouch(gerudotraininggroundlava)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(gerudotraininggroundlava).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(gerudotraininggroundlava)"
+    },
+    {
+        "name": "megatonhammer",
+        "type": "toggle",
+        "img": "images/items/megatonhammer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "megatonhammer"
+    },
+    {
+        "name": "songofstorms",
+        "type": "toggle",
+        "img": "images/items/songofstorms.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "songofstorms"
+    },
+    {
+        "name": "smallkeyring(thieveshideout)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(thieveshideout).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(thieveshideout)"
+    },
+    {
+        "name": "silverrupee(icecavernspinningscythe)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(icecavernspinningscythe).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(icecavernspinningscythe)"
+    },
+    {
+        "name": "sariassong",
+        "type": "toggle",
+        "img": "images/items/sariassong.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sariassong"
+    },
+    {
+        "name": "dekushield",
+        "type": "toggle",
+        "img": "images/items/dekushield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dekushield"
+    },
+    {
+        "name": "goldskulltulatoken",
+        "type": "toggle",
+        "img": "images/items/goldskulltulatoken.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "goldskulltulatoken"
+    },
+    {
+        "name": "lightarrows",
+        "type": "toggle",
+        "img": "images/items/lightarrows.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightarrows"
+    },
+    {
+        "name": "songoftime",
+        "type": "toggle",
+        "img": "images/items/songoftime.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "songoftime"
+    },
+    {
+        "name": "dekunuts(5)",
+        "type": "toggle",
+        "img": "images/items/dekunuts(5).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dekunuts(5)"
+    },
+    {
+        "name": "silverrupee(ganonscastleforesttrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(ganonscastleforesttrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(ganonscastleforesttrial)"
+    },
+    {
+        "name": "icetrap",
+        "type": "toggle",
+        "img": "images/items/icetrap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icetrap"
+    },
+    {
+        "name": "arrows(5)",
+        "type": "toggle",
+        "img": "images/items/arrows(5).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arrows(5)"
+    },
+    {
+        "name": "smallkeyring(firetemple)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(firetemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(firetemple)"
+    },
+    {
+        "name": "silverrupee(spirittemplesunblock)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(spirittemplesunblock).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(spirittemplesunblock)"
+    },
+    {
+        "name": "slingshot",
+        "type": "toggle",
+        "img": "images/items/slingshot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "slingshot"
+    },
+    {
+        "name": "triforcepiece",
+        "type": "toggle",
+        "img": "images/items/triforcepiece.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "triforcepiece"
+    },
+    {
+        "name": "silverrupeepouch(shadowtempleinvisiblespikes)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(shadowtempleinvisiblespikes).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(shadowtempleinvisiblespikes)"
+    },
+    {
+        "name": "silverrupeepouch(icecavernspinningscythe)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(icecavernspinningscythe).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(icecavernspinningscythe)"
+    },
+    {
+        "name": "pieceofheart",
+        "type": "toggle",
+        "img": "images/items/pieceofheart.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pieceofheart"
+    },
+    {
+        "name": "bosskey(ganonscastle)",
+        "type": "toggle",
+        "img": "images/items/bosskey(ganonscastle).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bosskey(ganonscastle)"
+    },
+    {
+        "name": "compass(icecavern)",
+        "type": "toggle",
+        "img": "images/items/compass(icecavern).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(icecavern)"
+    },
+    {
+        "name": "magicbean",
+        "type": "toggle",
+        "img": "images/items/magicbean.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicbean"
+    },
+    {
+        "name": "dekuseeds(30)",
+        "type": "toggle",
+        "img": "images/items/dekuseeds(30).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dekuseeds(30)"
+    },
+    {
+        "name": "silverrupee(spirittempleadultboulders)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(spirittempleadultboulders).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(spirittempleadultboulders)"
+    },
+    {
+        "name": "bottlewithredpotion",
+        "type": "toggle",
+        "img": "images/items/bottlewithredpotion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithredpotion"
+    },
+    {
+        "name": "zoramask",
+        "type": "toggle",
+        "img": "images/items/zoramask.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zoramask"
+    },
+    {
+        "name": "compass(jabujabusbelly)",
+        "type": "toggle",
+        "img": "images/items/compass(jabujabusbelly).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "compass(jabujabusbelly)"
+    },
+    {
+        "name": "bombchus(10)",
+        "type": "toggle",
+        "img": "images/items/bombchus(10).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bombchus(10)"
+    },
+    {
+        "name": "silverrupeepouch(ganonscastleshadowtrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(ganonscastleshadowtrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(ganonscastleshadowtrial)"
+    },
+    {
+        "name": "bosskey(watertemple)",
+        "type": "toggle",
+        "img": "images/items/bosskey(watertemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bosskey(watertemple)"
+    },
+    {
+        "name": "bomb(1)",
+        "type": "toggle",
+        "img": "images/items/bomb(1).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bomb(1)"
+    },
+    {
+        "name": "bombs(20)",
+        "type": "toggle",
+        "img": "images/items/bombs(20).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bombs(20)"
+    },
+    {
+        "name": "silverrupee(shadowtempleinvisibleblades)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(shadowtempleinvisibleblades).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(shadowtempleinvisibleblades)"
+    },
+    {
+        "name": "gorontunic",
+        "type": "toggle",
+        "img": "images/items/gorontunic.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gorontunic"
+    },
+    {
+        "name": "sunssong",
+        "type": "toggle",
+        "img": "images/items/sunssong.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sunssong"
+    },
+    {
+        "name": "silverrupeepouch(dodongoscavernstaircase)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(dodongoscavernstaircase).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(dodongoscavernstaircase)"
+    },
+    {
+        "name": "arrows(30)",
+        "type": "toggle",
+        "img": "images/items/arrows(30).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arrows(30)"
+    },
+    {
+        "name": "bottlewithbigpoe",
+        "type": "toggle",
+        "img": "images/items/bottlewithbigpoe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottlewithbigpoe"
+    },
+    {
+        "name": "smallkey(firetemple)",
+        "type": "toggle",
+        "img": "images/items/smallkey(firetemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkey(firetemple)"
+    },
+    {
+        "name": "smallkey(foresttemple)",
+        "type": "toggle",
+        "img": "images/items/smallkey(foresttemple).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkey(foresttemple)"
+    },
+    {
+        "name": "smallkey(treasurechestgame)",
+        "type": "toggle",
+        "img": "images/items/smallkey(treasurechestgame).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkey(treasurechestgame)"
+    },
+    {
+        "name": "bunnyhood",
+        "type": "toggle",
+        "img": "images/items/bunnyhood.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bunnyhood"
+    },
+    {
+        "name": "smallkeyring(bottomofthewell)",
+        "type": "toggle",
+        "img": "images/items/smallkeyring(bottomofthewell).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smallkeyring(bottomofthewell)"
+    },
+    {
+        "name": "bluepotion",
+        "type": "toggle",
+        "img": "images/items/bluepotion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bluepotion"
+    },
+    {
+        "name": "bombs(10)",
+        "type": "toggle",
+        "img": "images/items/bombs(10).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bombs(10)"
+    },
+    {
+        "name": "rupees(treasurechestgame)(20)",
+        "type": "toggle",
+        "img": "images/items/rupees(treasurechestgame)(20).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupees(treasurechestgame)(20)"
+    },
+    {
+        "name": "ocarinacrightbutton",
+        "type": "toggle",
+        "img": "images/items/ocarinacrightbutton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ocarinacrightbutton"
+    },
+    {
+        "name": "oddpotion",
+        "type": "toggle",
+        "img": "images/items/oddpotion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oddpotion"
+    },
+    {
+        "name": "silverrupeepouch(ganonscastlelighttrial)",
+        "type": "toggle",
+        "img": "images/items/silverrupeepouch(ganonscastlelighttrial).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupeepouch(ganonscastlelighttrial)"
+    },
+    {
+        "name": "lensoftruth",
+        "type": "toggle",
+        "img": "images/items/lensoftruth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lensoftruth"
+    },
+    {
+        "name": "ocarinacleftbutton",
+        "type": "toggle",
+        "img": "images/items/ocarinacleftbutton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ocarinacleftbutton"
+    },
+    {
+        "name": "silverrupee(bottomofthewellbasement)",
+        "type": "toggle",
+        "img": "images/items/silverrupee(bottomofthewellbasement).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverrupee(bottomofthewellbasement)"
+    },
+    {
+        "name": "spiritmedallion",
+        "type": "toggle",
+        "img": "images/items/spiritmedallion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spiritmedallion"
+    },
+    {
+        "name": "magicbeanpack",
+        "type": "toggle",
+        "img": "images/items/magicbeanpack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magicbeanpack"
     },
     {
         "name": "map(foresttemple)",
@@ -1200,262 +1632,6 @@
         "codes": "pieceofheart(treasurechestgame)"
     },
     {
-        "name": "nocturneofshadow",
-        "type": "toggle",
-        "img": "images/items/nocturneofshadow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "nocturneofshadow"
-    },
-    {
-        "name": "bow",
-        "type": "toggle",
-        "img": "images/items/bow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bow"
-    },
-    {
-        "name": "map(icecavern)",
-        "type": "toggle",
-        "img": "images/items/map(icecavern).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "map(icecavern)"
-    },
-    {
-        "name": "bosskey(firetemple)",
-        "type": "toggle",
-        "img": "images/items/bosskey(firetemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bosskey(firetemple)"
-    },
-    {
-        "name": "goldskulltulatoken",
-        "type": "toggle",
-        "img": "images/items/goldskulltulatoken.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "goldskulltulatoken"
-    },
-    {
-        "name": "smallkey(gerudotrainingground)",
-        "type": "toggle",
-        "img": "images/items/smallkey(gerudotrainingground).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkey(gerudotrainingground)"
-    },
-    {
-        "name": "nayruslove",
-        "type": "toggle",
-        "img": "images/items/nayruslove.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "nayruslove"
-    },
-    {
-        "name": "rupees(200)",
-        "type": "toggle",
-        "img": "images/items/rupees(200).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rupees(200)"
-    },
-    {
-        "name": "rupee(1)",
-        "type": "toggle",
-        "img": "images/items/rupee(1).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rupee(1)"
-    },
-    {
-        "name": "arrows(10)",
-        "type": "toggle",
-        "img": "images/items/arrows(10).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "arrows(10)"
-    },
-    {
-        "name": "silverrupee(ganonscastlespirittrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(ganonscastlespirittrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(ganonscastlespirittrial)"
-    },
-    {
-        "name": "icetrap",
-        "type": "toggle",
-        "img": "images/items/icetrap.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "icetrap"
-    },
-    {
-        "name": "nothing",
-        "type": "toggle",
-        "img": "images/items/nothing.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "nothing"
-    },
-    {
-        "name": "smallkeyring(thieveshideout)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(thieveshideout).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(thieveshideout)"
-    },
-    {
-        "name": "map(watertemple)",
-        "type": "toggle",
-        "img": "images/items/map(watertemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "map(watertemple)"
-    },
-    {
-        "name": "smallkeyring(foresttemple)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(foresttemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(foresttemple)"
-    },
-    {
-        "name": "bombchus(10)",
-        "type": "toggle",
-        "img": "images/items/bombchus(10).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bombchus(10)"
-    },
-    {
-        "name": "bottlewithfairy",
-        "type": "toggle",
-        "img": "images/items/bottlewithfairy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithfairy"
-    },
-    {
-        "name": "chicken",
-        "type": "toggle",
-        "img": "images/items/chicken.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chicken"
-    },
-    {
-        "name": "silverrupee(spirittemplesunblock)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(spirittemplesunblock).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(spirittemplesunblock)"
-    },
-    {
-        "name": "silverrupeepouch(spirittemplelobbyandloweradult)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(spirittemplelobbyandloweradult).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(spirittemplelobbyandloweradult)"
-    },
-    {
-        "name": "smallkeyring(shadowtemple)",
-        "type": "toggle",
-        "img": "images/items/smallkeyring(shadowtemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smallkeyring(shadowtemple)"
-    },
-    {
-        "name": "kokirisword",
-        "type": "toggle",
-        "img": "images/items/kokirisword.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "kokirisword"
-    },
-    {
-        "name": "compass(dodongoscavern)",
-        "type": "toggle",
-        "img": "images/items/compass(dodongoscavern).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "compass(dodongoscavern)"
-    },
-    {
-        "name": "ocarinacdownbutton",
-        "type": "toggle",
-        "img": "images/items/ocarinacdownbutton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ocarinacdownbutton"
-    },
-    {
-        "name": "bosskey(ganonscastle)",
-        "type": "toggle",
-        "img": "images/items/bosskey(ganonscastle).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bosskey(ganonscastle)"
-    },
-    {
-        "name": "bomb(1)",
-        "type": "toggle",
-        "img": "images/items/bomb(1).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bomb(1)"
-    },
-    {
-        "name": "bombs(10)",
-        "type": "toggle",
-        "img": "images/items/bombs(10).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bombs(10)"
-    },
-    {
-        "name": "arrows(5)",
-        "type": "toggle",
-        "img": "images/items/arrows(5).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "arrows(5)"
-    },
-    {
-        "name": "zeldaslullaby",
-        "type": "toggle",
-        "img": "images/items/zeldaslullaby.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "zeldaslullaby"
-    },
-    {
-        "name": "goronruby",
-        "type": "toggle",
-        "img": "images/items/goronruby.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "goronruby"
-    },
-    {
-        "name": "dekuseeds(30)",
-        "type": "toggle",
-        "img": "images/items/dekuseeds(30).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dekuseeds(30)"
-    },
-    {
         "name": "rupees(50)",
         "type": "toggle",
         "img": "images/items/rupees(50).png",
@@ -1464,124 +1640,28 @@
         "codes": "rupees(50)"
     },
     {
-        "name": "bombchus",
+        "name": "zoratunic",
         "type": "toggle",
-        "img": "images/items/bombchus.png",
+        "img": "images/items/zoratunic.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "bombchus"
+        "codes": "zoratunic"
     },
     {
-        "name": "silverrupeepouch(ganonscastlespirittrial)",
+        "name": "silverrupee(spirittemplechildearlytorches)",
         "type": "toggle",
-        "img": "images/items/silverrupeepouch(ganonscastlespirittrial).png",
+        "img": "images/items/silverrupee(spirittemplechildearlytorches).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "silverrupeepouch(ganonscastlespirittrial)"
+        "codes": "silverrupee(spirittemplechildearlytorches)"
     },
     {
-        "name": "keatonmask",
+        "name": "poacherssaw",
         "type": "toggle",
-        "img": "images/items/keatonmask.png",
+        "img": "images/items/poacherssaw.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "keatonmask"
-    },
-    {
-        "name": "rupees(5)",
-        "type": "toggle",
-        "img": "images/items/rupees(5).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rupees(5)"
-    },
-    {
-        "name": "bottlewithpoe",
-        "type": "toggle",
-        "img": "images/items/bottlewithpoe.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithpoe"
-    },
-    {
-        "name": "weirdegg",
-        "type": "toggle",
-        "img": "images/items/weirdegg.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "weirdegg"
-    },
-    {
-        "name": "map(jabujabusbelly)",
-        "type": "toggle",
-        "img": "images/items/map(jabujabusbelly).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "map(jabujabusbelly)"
-    },
-    {
-        "name": "bosskey(watertemple)",
-        "type": "toggle",
-        "img": "images/items/bosskey(watertemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bosskey(watertemple)"
-    },
-    {
-        "name": "compass(shadowtemple)",
-        "type": "toggle",
-        "img": "images/items/compass(shadowtemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "compass(shadowtemple)"
-    },
-    {
-        "name": "bottlewithbugs",
-        "type": "toggle",
-        "img": "images/items/bottlewithbugs.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottlewithbugs"
-    },
-    {
-        "name": "triforcepiece",
-        "type": "toggle",
-        "img": "images/items/triforcepiece.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "triforcepiece"
-    },
-    {
-        "name": "ocarinacrightbutton",
-        "type": "toggle",
-        "img": "images/items/ocarinacrightbutton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ocarinacrightbutton"
-    },
-    {
-        "name": "silverrupeepouch(ganonscastleshadowtrial)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(ganonscastleshadowtrial).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(ganonscastleshadowtrial)"
-    },
-    {
-        "name": "sunssong",
-        "type": "toggle",
-        "img": "images/items/sunssong.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sunssong"
-    },
-    {
-        "name": "silverrupeepouch(gerudotraininggroundwater)",
-        "type": "toggle",
-        "img": "images/items/silverrupeepouch(gerudotraininggroundwater).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupeepouch(gerudotraininggroundwater)"
+        "codes": "poacherssaw"
     },
     {
         "name": "firearrows",
@@ -1592,164 +1672,84 @@
         "codes": "firearrows"
     },
     {
-        "name": "bottlewithgreenpotion",
+        "name": "smallkey(spirittemple)",
         "type": "toggle",
-        "img": "images/items/bottlewithgreenpotion.png",
+        "img": "images/items/smallkey(spirittemple).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "bottlewithgreenpotion"
+        "codes": "smallkey(spirittemple)"
     },
     {
-        "name": "requiemofspirit",
+        "name": "silverrupeepouch(icecavernpushblock)",
         "type": "toggle",
-        "img": "images/items/requiemofspirit.png",
+        "img": "images/items/silverrupeepouch(icecavernpushblock).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "requiemofspirit"
+        "codes": "silverrupeepouch(icecavernpushblock)"
     },
     {
-        "name": "smallkeyring(ganonscastle)",
+        "name": "silverrupeepouch(shadowtempleinvisibleblades)",
         "type": "toggle",
-        "img": "images/items/smallkeyring(ganonscastle).png",
+        "img": "images/items/silverrupeepouch(shadowtempleinvisibleblades).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "smallkeyring(ganonscastle)"
+        "codes": "silverrupeepouch(shadowtempleinvisibleblades)"
     },
     {
-        "name": "smallkey(shadowtemple)",
+        "name": "pocketegg",
         "type": "toggle",
-        "img": "images/items/smallkey(shadowtemple).png",
+        "img": "images/items/pocketegg.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "smallkey(shadowtemple)"
+        "codes": "pocketegg"
     },
     {
-        "name": "smallkey(ganonscastle)",
+        "name": "arrows(10)",
         "type": "toggle",
-        "img": "images/items/smallkey(ganonscastle).png",
+        "img": "images/items/arrows(10).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "smallkey(ganonscastle)"
+        "codes": "arrows(10)"
     },
     {
-        "name": "spiritmedallion",
+        "name": "smallkey(thieveshideout)",
         "type": "toggle",
-        "img": "images/items/spiritmedallion.png",
+        "img": "images/items/smallkey(thieveshideout).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "spiritmedallion"
+        "codes": "smallkey(thieveshideout)"
     },
     {
-        "name": "eyedrops",
+        "name": "oddmushroom",
         "type": "toggle",
-        "img": "images/items/eyedrops.png",
+        "img": "images/items/oddmushroom.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "eyedrops"
+        "codes": "oddmushroom"
     },
     {
-        "name": "compass(icecavern)",
+        "name": "nothing",
         "type": "toggle",
-        "img": "images/items/compass(icecavern).png",
+        "img": "images/items/nothing.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "compass(icecavern)"
+        "codes": "nothing"
     },
     {
-        "name": "silverrupeepouch(gerudotraininggroundslopes)",
+        "name": "bombchus(20)",
         "type": "toggle",
-        "img": "images/items/silverrupeepouch(gerudotraininggroundslopes).png",
+        "img": "images/items/bombchus(20).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "silverrupeepouch(gerudotraininggroundslopes)"
+        "codes": "bombchus(20)"
     },
     {
-        "name": "compass(firetemple)",
+        "name": "preludeoflight",
         "type": "toggle",
-        "img": "images/items/compass(firetemple).png",
+        "img": "images/items/preludeoflight.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "compass(firetemple)"
-    },
-    {
-        "name": "arrows(30)",
-        "type": "toggle",
-        "img": "images/items/arrows(30).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "arrows(30)"
-    },
-    {
-        "name": "map(dodongoscavern)",
-        "type": "toggle",
-        "img": "images/items/map(dodongoscavern).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "map(dodongoscavern)"
-    },
-    {
-        "name": "rupees(treasurechestgame)(20)",
-        "type": "toggle",
-        "img": "images/items/rupees(treasurechestgame)(20).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rupees(treasurechestgame)(20)"
-    },
-    {
-        "name": "bosskey(shadowtemple)",
-        "type": "toggle",
-        "img": "images/items/bosskey(shadowtemple).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bosskey(shadowtemple)"
-    },
-    {
-        "name": "faroreswind",
-        "type": "toggle",
-        "img": "images/items/faroreswind.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "faroreswind"
-    },
-    {
-        "name": "ocarinaabutton",
-        "type": "toggle",
-        "img": "images/items/ocarinaabutton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ocarinaabutton"
-    },
-    {
-        "name": "eponassong",
-        "type": "toggle",
-        "img": "images/items/eponassong.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "eponassong"
-    },
-    {
-        "name": "prescription",
-        "type": "toggle",
-        "img": "images/items/prescription.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "prescription"
-    },
-    {
-        "name": "watermedallion",
-        "type": "toggle",
-        "img": "images/items/watermedallion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "watermedallion"
-    },
-    {
-        "name": "silverrupee(gerudotraininggroundwater)",
-        "type": "toggle",
-        "img": "images/items/silverrupee(gerudotraininggroundwater).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "silverrupee(gerudotraininggroundwater)"
+        "codes": "preludeoflight"
     },
     {
         "name": "update",

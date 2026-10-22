@@ -24,7 +24,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 2",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -33,14 +33,14 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 311,
-                        "y": 1800,
+                        "x": 1815,
+                        "y": 1534,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Map Room ",
+                "name": "Whispering Walls Left",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -49,7 +49,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -58,99 +58,23 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 651,
-                        "y": 2213,
+                        "x": 885,
+                        "y": 1537,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Whispering Walls",
+                "name": "Whispering Walls Front",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Left Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 1143,
-                                "y": 536,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Front Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 585,
-                                "y": 33,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Flying Pot",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Near Dead Hand Pot",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -159,14 +83,64 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 2073,
-                        "y": 1682,
+                        "x": 26,
+                        "y": 997,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Scythe Shortcut Silver Rupee",
+                "name": "Whispering Walls Flying",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1734,
+                        "y": 1845,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Whispering Walls Near Dead Hand",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2283,
+                        "y": 1889,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Hover Boots",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -179,33 +153,28 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Center Left",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
+                        "map": "Shadow Temple",
+                        "x": 430,
+                        "y": 1557,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Compass",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
-                        "name": "Center Right",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Left Alcove",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Back Alcove",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Ledge",
+                        "name": "Chest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -214,8 +183,158 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 2123,
-                        "y": 1993,
+                        "x": 1959,
+                        "y": 538,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Puzzle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 627,
+                        "y": 1638,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Center Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 631,
+                        "y": 2404,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Center Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1663,
+                        "y": 620,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Left Alcove",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1268,
+                        "y": 1245,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Back Alcove",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1467,
+                        "y": 1892,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scythe Shortcut Silver Rupee Ledge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2433,
+                        "y": 1852,
                         "size": 6
                     }
                 ]
@@ -227,39 +346,6 @@
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
-                ],
-                "children": [
-                    {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 132,
-                                "y": 1069,
-                                "size": 6
-                            }
-                        ]
-                    }
                 ],
                 "sections": [
                     {
@@ -284,14 +370,14 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 1454,
-                        "y": 1670,
+                        "x": 1953,
+                        "y": 1002,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Huge Pit Silver Rupee",
+                "name": "Invisible Blades Hearts",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -300,31 +386,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Left",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Center Front",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Center",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Center Back",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Right",
+                        "name": "Recovery Hearts",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -333,8 +395,133 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 2257,
-                        "y": 43,
+                        "x": 627,
+                        "y": 790,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Huge Pit Silver Rupee Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 530,
+                        "y": 2020,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Huge Pit Silver Rupee Center Front",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2194,
+                        "y": 1956,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Huge Pit Silver Rupee Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2123,
+                        "y": 1041,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Huge Pit Silver Rupee Center Back",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 544,
+                        "y": 1850,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Huge Pit Silver Rupee Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1408,
+                        "y": 1335,
                         "size": 6
                     }
                 ]
@@ -347,39 +534,6 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 940,
-                                "y": 336,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Chest",
@@ -391,8 +545,33 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 264,
-                        "y": 1891,
+                        "x": 604,
+                        "y": 423,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Lower Pots",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1098,
+                        "y": 667,
                         "size": 6
                     }
                 ]
@@ -405,38 +584,30 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 1203,
-                                "y": 609,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 634,
+                        "y": 616,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Switch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
                 ],
                 "sections": [
                     {
@@ -449,14 +620,39 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 1239,
-                        "y": 600,
+                        "x": 1188,
+                        "y": 236,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Falling Spikes Room",
+                "name": "Falling Spikes Upper Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 760,
+                        "y": 1679,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Falling Spikes Room GS",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -474,8 +670,8 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 722,
-                        "y": 795,
+                        "x": 1492,
+                        "y": 862,
                         "size": 6
                     }
                 ]
@@ -494,33 +690,28 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Silver Rupee Right",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
+                        "map": "Shadow Temple",
+                        "x": 1139,
+                        "y": 297,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Spikes Silver Rupee Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
-                        "name": "Silver Rupee Center",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Left",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Ledge",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Silver Rupee Near Ledge",
+                        "name": "Rupee",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -529,8 +720,108 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 2013,
-                        "y": 484,
+                        "x": 1028,
+                        "y": 1984,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Spikes Silver Rupee Center",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2490,
+                        "y": 1254,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Spikes Silver Rupee Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1296,
+                        "y": 2146,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Spikes Silver Rupee Ledge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2209,
+                        "y": 1404,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Invisible Spikes Silver Rupee Near Ledge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rupee",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 80,
+                        "y": 1348,
                         "size": 6
                     }
                 ]
@@ -560,8 +851,33 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 2133,
-                        "y": 2308,
+                        "x": 1656,
+                        "y": 894,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Wind Hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2183,
+                        "y": 1828,
                         "size": 6
                     }
                 ]
@@ -580,33 +896,28 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1035,
+                        "y": 180,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "After Wind Bombable",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "Hidden Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Flying Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Flying Pot 2",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -615,8 +926,108 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 2166,
-                        "y": 1505,
+                        "x": 2236,
+                        "y": 1755,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "After Wind Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1174,
+                        "y": 2347,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "After Wind Flying 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 704,
+                        "y": 1779,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "After Wind Flying 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1515,
+                        "y": 1830,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Ship GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2015,
+                        "y": 408,
                         "size": 6
                     }
                 ]
@@ -629,115 +1040,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 220,
-                                "y": 181,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "After Boat",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Upper Recovery Heart",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 2385,
-                                "y": 1081,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 1275,
-                                "y": 2226,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Lower Recovery Heart",
+                        "name": "Recovery Hearts",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -746,8 +1051,83 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 111,
-                        "y": 1087,
+                        "x": 1693,
+                        "y": 2370,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "After Boat Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Hearts",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 89,
+                        "y": 547,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "After Boat Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Recovery Heart",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 2271,
+                        "y": 861,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "After Boat Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1990,
+                        "y": 1936,
                         "size": 6
                     }
                 ]
@@ -783,8 +1163,8 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 870,
-                        "y": 659,
+                        "x": 334,
+                        "y": 1751,
                         "size": 6
                     }
                 ]
@@ -797,42 +1177,15 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 2213,
-                                "y": 1822,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -841,8 +1194,58 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 407,
-                        "y": 1437,
+                        "x": 2142,
+                        "y": 1501,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "3 Spinning Pots GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 1027,
+                        "y": 1819,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "3 Spinning Pots Wonderitem",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Shadow Temple",
+                        "x": 712,
+                        "y": 62,
                         "size": 6
                     }
                 ]
@@ -855,90 +1258,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Rupee",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "7",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "8",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "9",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Shadow Temple",
-                                "x": 869,
-                                "y": 1089,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "GS",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem",
+                        "name": "Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -947,14 +1269,14 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 1187,
-                        "y": 1100,
+                        "x": 995,
+                        "y": 1873,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Near Boss Pot",
+                "name": "Near Boss",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -963,13 +1285,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "2",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -978,8 +1294,8 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 2008,
-                        "y": 1481,
+                        "x": 862,
+                        "y": 313,
                         "size": 6
                     }
                 ]
@@ -1009,51 +1325,11 @@
                 "map_locations": [
                     {
                         "map": "Shadow Temple",
-                        "x": 2306,
-                        "y": 1202,
+                        "x": 2078,
+                        "y": 2158,
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Hover Boots Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Compass Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Falling Spikes Switch Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Wind Hint Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Near Ship",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Shadow Temple",
-                "x": 52,
-                "y": 1429,
-                "size": 6
             }
         ]
     }

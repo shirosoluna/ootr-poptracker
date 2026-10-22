@@ -16,37 +16,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot Wonderitem",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1716,
-                                "y": 1426,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Hookshot Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 459,
+                        "y": 733,
+                        "size": 6
                     }
                 ]
             },
@@ -78,8 +61,8 @@
                         "map_locations": [
                             {
                                 "map": "Water TempleMQ",
-                                "x": 781,
-                                "y": 703,
+                                "x": 1477,
+                                "y": 40,
                                 "size": 6
                             }
                         ]
@@ -96,8 +79,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 2345,
-                        "y": 63,
+                        "x": 1511,
+                        "y": 1840,
                         "size": 6
                     }
                 ]
@@ -110,37 +93,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1264,
-                                "y": 128,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 346,
+                        "y": 1336,
+                        "size": 6
                     }
                 ]
             },
@@ -152,248 +118,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1251,
-                                "y": 2211,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Gate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "children": [
-                            {
-                                "name": "Crate",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Water TempleMQ",
-                                        "x": 1174,
-                                        "y": 615,
-                                        "size": 6
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Pot",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Water TempleMQ",
-                                        "x": 171,
-                                        "y": 1501,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Room",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "children": [
-                            {
-                                "name": "Crate",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "4",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "5",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Water TempleMQ",
-                                        "x": 343,
-                                        "y": 1598,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hall",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "children": [
-                            {
-                                "name": "Crate",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Water TempleMQ",
-                                        "x": 547,
-                                        "y": 997,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 2009,
-                                "y": 193,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Pot2",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -408,8 +135,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 574,
-                        "y": 2006,
+                        "x": 1546,
+                        "y": 911,
                         "size": 6
                     }
                 ]
@@ -422,37 +149,126 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1485,
-                                "y": 1679,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 37,
+                        "y": 479,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lizalfos Hallway Gate",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 747,
+                        "y": 849,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lizalfos Hallway Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1108,
+                        "y": 1532,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lizalfos Hallway Hall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 875,
+                        "y": 163,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lizalfos Hallway Hookshot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1303,
+                        "y": 2204,
+                        "size": 6
                     }
                 ]
             },
@@ -464,34 +280,13 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1865,
-                                "y": 1943,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
+                    {
+                        "name": "Hookshot Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Chest",
                         "access_rules": [],
@@ -502,8 +297,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 889,
-                        "y": 2091,
+                        "x": 692,
+                        "y": 48,
                         "size": 6
                     }
                 ]
@@ -527,8 +322,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 366,
-                        "y": 1726,
+                        "x": 498,
+                        "y": 508,
                         "size": 6
                     }
                 ]
@@ -541,31 +336,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 389,
-                                "y": 762,
-                                "size": 6
-                            }
-                        ]
+                        "name": "HookshotWonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1320,
+                        "y": 1149,
+                        "size": 6
                     }
                 ]
             },
@@ -577,108 +361,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": " 7",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "8",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "9",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "10",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "11",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "12",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "13",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "14",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1365,
-                                "y": 957,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Crate6",
+                        "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -687,8 +372,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 1737,
-                        "y": 1915,
+                        "x": 1825,
+                        "y": 1322,
                         "size": 6
                     }
                 ]
@@ -701,147 +386,32 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 327,
-                                "y": 1056,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
                     {
-                        "name": "Small Wooden Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 184,
-                                "y": 2422,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Small Wooden Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "7",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1191,
-                                "y": 2341,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1622,
+                        "y": 1977,
+                        "size": 6
                     }
                 ]
             },
@@ -853,36 +423,15 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 2008,
-                                "y": 100,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hookshot Wonderitem",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -891,8 +440,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 173,
-                        "y": 2216,
+                        "x": 1783,
+                        "y": 284,
                         "size": 6
                     }
                 ]
@@ -905,127 +454,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Lower Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 2236,
-                                "y": 1209,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Upper Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 2244,
-                                "y": 91,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
                         "name": "GS",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Lower Small Crate",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Upper Small Crate",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1034,8 +465,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 1221,
-                        "y": 2136,
+                        "x": 316,
+                        "y": 828,
                         "size": 6
                     }
                 ]
@@ -1048,110 +479,151 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 388,
-                                "y": 1775,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Hookshot Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 113,
+                        "y": 1854,
+                        "size": 6
                     }
                 ]
             },
             {
-                "name": "Before Dark Link",
+                "name": "Before Upper Water Switch Pots",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Top Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1474,
-                                "y": 1992,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 2073,
+                        "y": 983,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Before Upper Water Switch Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
                     {
-                        "name": "Lower Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 2194,
-                                "y": 1506,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Small Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 2334,
+                        "y": 1240,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Before Upper Water Switch Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1392,
+                        "y": 2379,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Before Dark Link Top",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1211,
+                        "y": 796,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Before Dark Link Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 620,
+                        "y": 1082,
+                        "size": 6
                     }
                 ]
             },
@@ -1163,37 +635,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1434,
-                                "y": 1851,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 858,
+                        "y": 1019,
+                        "size": 6
                     }
                 ]
             },
@@ -1205,42 +660,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 824,
-                                "y": 324,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "GS",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1249,8 +671,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 173,
-                        "y": 2172,
+                        "x": 1107,
+                        "y": 1694,
                         "size": 6
                     }
                 ]
@@ -1263,144 +685,95 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1827,
-                                "y": 1544,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1500,
+                        "y": 811,
+                        "size": 6
                     }
                 ]
             },
             {
-                "name": "Hookshot Waterfall",
+                "name": "River GS",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Left Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "children": [
-                            {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Water TempleMQ",
-                                        "x": 1005,
-                                        "y": 1254,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    },
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Right Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "children": [
-                            {
-                                "name": "Wonderitem",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Water TempleMQ",
-                                        "x": 615,
-                                        "y": 2018,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
+                        "map": "Water TempleMQ",
+                        "x": 1059,
+                        "y": 1513,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Hookshot Waterfall Left",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hookshot Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 431,
+                        "y": 907,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Hookshot Waterfall Right",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hookshot Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 183,
+                        "y": 1325,
+                        "size": 6
                     }
                 ]
             },
@@ -1412,31 +785,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 856,
-                                "y": 651,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Hookshot Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 833,
+                        "y": 179,
+                        "size": 6
                     }
                 ]
             },
@@ -1448,37 +810,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot Wonderitem",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 980,
-                                "y": 410,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Hookshot Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 795,
+                        "y": 181,
+                        "size": 6
                     }
                 ]
             },
@@ -1490,74 +835,26 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1647,
-                                "y": 438,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
                     {
-                        "name": "Small Wooden Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 2346,
-                                "y": 1958,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Small Wooden Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 807,
+                        "y": 1506,
+                        "size": 6
                     }
                 ]
             },
@@ -1571,49 +868,6 @@
                 ],
                 "children": [
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 645,
-                                "y": 1777,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
                         "name": "Hookshot",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
@@ -1632,11 +886,27 @@
                         "map_locations": [
                             {
                                 "map": "Water TempleMQ",
-                                "x": 30,
-                                "y": 1711,
+                                "x": 869,
+                                "y": 1776,
                                 "size": 6
                             }
                         ]
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 893,
+                        "y": 915,
+                        "size": 6
                     }
                 ]
             },
@@ -1647,51 +917,6 @@
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
-                ],
-                "children": [
-                    {
-                        "name": "Lower Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 461,
-                                "y": 1141,
-                                "size": 6
-                            }
-                        ]
-                    }
                 ],
                 "sections": [
                     {
@@ -1705,9 +930,28 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Upper Crate",
+                        "map": "Water TempleMQ",
+                        "x": 1503,
+                        "y": 2295,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Boss Key Chest Room Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1716,8 +960,33 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 2241,
-                        "y": 1791,
+                        "x": 885,
+                        "y": 1567,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Boss Key Chest Room Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 733,
+                        "y": 1805,
                         "size": 6
                     }
                 ]
@@ -1730,189 +999,105 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 2097,
-                                "y": 1029,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1424,
+                        "y": 460,
+                        "size": 6
                     }
                 ]
             },
             {
-                "name": "Triple Wall Torch",
+                "name": "Triple Wall Torch Pots",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Pot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1031,
-                                "y": 2381,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Behind Gate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "children": [
-                            {
-                                "name": "Crate",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Water TempleMQ",
-                                        "x": 1708,
-                                        "y": 555,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "HookshotBow",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1057,
-                                "y": 294,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 496,
+                        "y": 1910,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Triple Wall Torch Behind Gate",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1003,
+                        "y": 1643,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Triple Wall Torch HookshotBow",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 796,
+                        "y": 315,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Triple Wall Torch GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
                 ],
                 "sections": [
                     {
@@ -1925,146 +1110,23 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 618,
-                        "y": 1714,
+                        "x": 1179,
+                        "y": 1562,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Freestanding Key Area",
+                "name": "Freestanding Key Area Front",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Submerged Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "6",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1249,
-                                "y": 2432,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Behind Gate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "children": [
-                            {
-                                "name": "Crate",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "3",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "4",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Water TempleMQ",
-                                        "x": 315,
-                                        "y": 2023,
-                                        "size": 6
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Front Crate 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Front Crate 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Freestanding Key",
+                        "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -2073,8 +1135,8 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 2196,
-                        "y": 2240,
+                        "x": 1686,
+                        "y": 1962,
                         "size": 6
                     }
                 ]
@@ -2087,70 +1149,113 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "5",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1623,
-                                "y": 2352,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 244,
+                        "y": 111,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Freestanding Key Area Submerged",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
                 ],
                 "sections": [
                     {
-                        "name": "Pot 1",
+                        "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Pot 2",
+                        "map": "Water TempleMQ",
+                        "x": 913,
+                        "y": 2198,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Freestanding Key Area",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding Key",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 494,
+                        "y": 1454,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Freestanding Key Hookshot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 2490,
+                        "y": 1565,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Freestanding Key Room GS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "GS",
                         "access_rules": [],
@@ -2161,45 +1266,34 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 582,
-                        "y": 666,
+                        "x": 1353,
+                        "y": 187,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Freestanding Key",
+                "name": "Freestanding Key Area Behind Gate",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Hookshot",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Wonderitem",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 147,
-                                "y": 770,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 262,
+                        "y": 1192,
+                        "size": 6
                     }
                 ]
             },
@@ -2211,37 +1305,20 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Wonderitem",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1996,
-                                "y": 862,
-                                "size": 6
-                            }
-                        ]
+                        "name": "Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1469,
+                        "y": 656,
+                        "size": 6
                     }
                 ]
             },
@@ -2253,66 +1330,9 @@
                 "access_rules": [
                     " "
                 ],
-                "children": [
-                    {
-                        "name": "Lower Crate",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water TempleMQ",
-                                "x": 1636,
-                                "y": 638,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ],
                 "sections": [
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Upper Crate",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Hall Crate",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -2321,8 +1341,83 @@
                 "map_locations": [
                     {
                         "map": "Water TempleMQ",
-                        "x": 2194,
-                        "y": 891,
+                        "x": 431,
+                        "y": 2175,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Dodongo Room Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crates",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 253,
+                        "y": 403,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Dodongo Room Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1450,
+                        "y": 994,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Dodongo Room Hall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water TempleMQ",
+                        "x": 1887,
+                        "y": 1294,
                         "size": 6
                     }
                 ]

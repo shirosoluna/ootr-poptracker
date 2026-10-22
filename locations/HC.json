@@ -9,6 +9,39 @@
         ],
         "children": [
             {
+                "name": "Malon",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Egg",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HC",
+                        "x": 1395,
+                        "y": 974,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Castle",
+                        "x": 555,
+                        "y": 422,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Courtyard",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -39,9 +72,83 @@
                 "map_locations": [
                     {
                         "map": "HC",
-                        "x": 629,
-                        "y": 907,
-                        "size": 6
+                        "x": 2014,
+                        "y": 2406,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Castle",
+                        "x": 216,
+                        "y": 71,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Great Fairy",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Reward",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HC",
+                        "x": 1591,
+                        "y": 1604,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Castle",
+                        "x": 624,
+                        "y": 184,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tree",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HC",
+                        "x": 1178,
+                        "y": 475,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Castle",
+                        "x": 467,
+                        "y": 394,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -61,25 +168,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Pot 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Pot 4",
+                        "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -88,32 +177,55 @@
                 "map_locations": [
                     {
                         "map": "HC",
-                        "x": 395,
-                        "y": 1833,
-                        "size": 6
+                        "x": 269,
+                        "y": 1317,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Castle",
+                        "x": 336,
+                        "y": 129,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Castle Moat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HC",
+                        "x": 1258,
+                        "y": 1177,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Castle",
+                        "x": 244,
+                        "y": 150,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             }
         ],
         "sections": [
-            {
-                "name": "Malon Egg",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Great Fairy Reward",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Tree",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
             {
                 "name": "Castle Torch Wonderitem 1",
                 "access_rules": [],
@@ -125,74 +237,22 @@
                 "access_rules": [],
                 "visibility_rules": [],
                 "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 5",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 6",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 7",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 8",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 9",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Castle Moat Wonderitem 10",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             }
         ],
         "map_locations": [
             {
                 "map": "HC",
-                "x": 399,
-                "y": 1951,
-                "size": 6
+                "x": 945,
+                "y": 2368,
+                "size": 6,
+                "shape": "rect"
+            },
+            {
+                "map": "Hyrule Castle",
+                "x": 205,
+                "y": 99,
+                "size": 10,
+                "shape": "rect"
             }
         ]
     }

@@ -9,6 +9,32 @@
         ],
         "children": [
             {
+                "name": "Shooting Gallery",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Reward",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 427,
+                        "y": 155,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Bombchu Bowling",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -39,9 +65,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 528,
-                        "y": 1415,
-                        "size": 6
+                        "x": 307,
+                        "y": 178,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -70,9 +97,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 786,
-                        "y": 494,
-                        "size": 6
+                        "x": 108,
+                        "y": 119,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -137,9 +165,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 1714,
-                        "y": 354,
-                        "size": 6
+                        "x": 392,
+                        "y": 320,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -204,9 +233,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 1322,
-                        "y": 941,
-                        "size": 6
+                        "x": 461,
+                        "y": 282,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -271,9 +301,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 1448,
-                        "y": 834,
-                        "size": 6
+                        "x": 134,
+                        "y": 169,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -338,9 +369,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 1908,
-                        "y": 548,
-                        "size": 6
+                        "x": 497,
+                        "y": 214,
+                        "size": 12,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -360,61 +392,31 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Room 1 Bottom",
+                        "name": "Room 1",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Room 1 Top",
+                        "name": "Room 2",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Room 2 Bottom",
+                        "name": "Room 3",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Room 2 Top",
+                        "name": "Room 4",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Room 3 Bottom",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Room 3 Top",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Room 4 Bottom",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Room 4 Top",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Room 5 Bottom",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Room 5 Top",
+                        "name": "Room 5",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -429,9 +431,218 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 1171,
-                        "y": 1598,
-                        "size": 6
+                        "x": 186,
+                        "y": 231,
+                        "size": 12,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Night Red Rupee",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 437,
+                        "y": 176,
+                        "size": 8,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Night Green Rupee 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 154,
+                        "y": 160,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Night Green Rupee 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 1796,
+                        "y": 446,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Night Green Rupee 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 430,
+                        "y": 2134,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Day Crate 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 1064,
+                        "y": 43,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Day Crate 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 2349,
+                        "y": 499,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Day Crate 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 535,
+                        "y": 1609,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Day Crate 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Market",
+                        "x": 1746,
+                        "y": 2086,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -520,9 +731,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 221,
-                        "y": 1616,
-                        "size": 6
+                        "x": 230,
+                        "y": 363,
+                        "size": 16,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -537,6 +749,30 @@
                 "sections": [
                     {
                         "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Crate 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Crate 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Crate 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Crate 4",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -809,9 +1045,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 1863,
-                        "y": 486,
-                        "size": 6
+                        "x": 229,
+                        "y": 362,
+                        "size": 14,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -846,14 +1083,15 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 1892,
-                        "y": 1285,
-                        "size": 6
+                        "x": 335,
+                        "y": 86,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Daytime Balcony Wonderitem",
+                "name": "Daytime Balcony",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -862,31 +1100,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "5",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -895,9 +1109,10 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 189,
-                        "y": 2340,
-                        "size": 6
+                        "x": 324,
+                        "y": 139,
+                        "size": 8,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -911,13 +1126,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Wonderitem 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 2",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -926,99 +1135,12 @@
                 "map_locations": [
                     {
                         "map": "Market",
-                        "x": 22,
-                        "y": 1752,
-                        "size": 6
+                        "x": 286,
+                        "y": 167,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Shooting Gallery Reward",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Night Red Rupee Crate",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Night Green Rupee Crate 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Night Green Rupee Crate 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Night Green Rupee Crate 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Day Crate 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Day Crate 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Day Crate 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Day Crate 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Guard House Child Crate 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Guard House Child Crate 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Guard House Child Crate 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Guard House Child Crate 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Market",
-                "x": 1677,
-                "y": 1319,
-                "size": 6
             }
         ]
     }

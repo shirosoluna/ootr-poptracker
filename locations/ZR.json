@@ -9,7 +9,57 @@
         ],
         "children": [
             {
-                "name": "Frogs",
+                "name": "Tree",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 251,
+                        "y": 419,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Magic Bean Salesman",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Item",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 1752,
+                        "y": 726,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Frogs Songs",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -24,7 +74,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Ocarina Game",
+                        "name": "Final Ocarina Game",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -63,8 +113,33 @@
                 "map_locations": [
                     {
                         "map": "ZR",
-                        "x": 1570,
-                        "y": 376,
+                        "x": 573,
+                        "y": 1534,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Open Grotto",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding PoH",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 315,
+                        "y": 2498,
                         "size": 6
                     }
                 ]
@@ -100,8 +175,8 @@
                 "map_locations": [
                     {
                         "map": "ZR",
-                        "x": 2493,
-                        "y": 745,
+                        "x": 1945,
+                        "y": 852,
                         "size": 6
                     }
                 ]
@@ -137,8 +212,83 @@
                 "map_locations": [
                     {
                         "map": "ZR",
-                        "x": 113,
-                        "y": 2277,
+                        "x": 1758,
+                        "y": 540,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Ladder",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 1248,
+                        "y": 2079,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Raised Grottos",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 551,
+                        "y": 1595,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Above Bridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 1312,
+                        "y": 1926,
                         "size": 6
                     }
                 ]
@@ -153,25 +303,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Red Rupee 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Red Rupee 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Red Rupee 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Red Rupee 4",
+                        "name": "Red Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -180,8 +312,33 @@
                 "map_locations": [
                     {
                         "map": "ZR",
-                        "x": 1526,
-                        "y": 2279,
+                        "x": 1625,
+                        "y": 1021,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Domain",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding PoH",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 1317,
+                        "y": 1344,
                         "size": 6
                     }
                 ]
@@ -196,25 +353,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Wonderitem 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 4",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -223,14 +362,14 @@
                 "map_locations": [
                     {
                         "map": "ZR",
-                        "x": 740,
-                        "y": 2481,
+                        "x": 529,
+                        "y": 337,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Child River",
+                "name": "Child River 1",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -239,163 +378,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Wonderitem 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 8",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 9",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 10",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 11",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 12",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 13",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 14",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 15",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 16",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 17",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 18",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 19",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 20",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 21",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 22",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 23",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 24",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 25",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 26",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 27",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -404,63 +387,136 @@
                 "map_locations": [
                     {
                         "map": "ZR",
-                        "x": 1480,
-                        "y": 850,
+                        "x": 1618,
+                        "y": 81,
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "GS Tree",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
-                "name": "Magic Bean Salesman",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Child River 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 716,
+                        "y": 1077,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "Near Open Grotto Freestanding PoH",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Child River 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 1151,
+                        "y": 2002,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "GS Ladder",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Child River 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 1534,
+                        "y": 2110,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "GS Near Raised Grottos",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Child River 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 1020,
+                        "y": 1157,
+                        "size": 6
+                    }
+                ]
             },
             {
-                "name": "GS Above Bridge",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Near Domain Freestanding PoH",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "ZR",
-                "x": 684,
-                "y": 2392,
-                "size": 6
+                "name": "Child River 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitems",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZR",
+                        "x": 785,
+                        "y": 649,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

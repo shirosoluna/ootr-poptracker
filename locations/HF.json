@@ -39,9 +39,50 @@
                 "map_locations": [
                     {
                         "map": "HF",
-                        "x": 616,
-                        "y": 856,
-                        "size": 6
+                        "x": 1451,
+                        "y": 1077,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 391,
+                        "y": 61,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tektite Grotto",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Freestanding PoH",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HF",
+                        "x": 1634,
+                        "y": 1394,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 307,
+                        "y": 81,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -76,9 +117,17 @@
                 "map_locations": [
                     {
                         "map": "HF",
-                        "x": 545,
-                        "y": 175,
-                        "size": 6
+                        "x": 751,
+                        "y": 281,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 373,
+                        "y": 295,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -113,9 +162,17 @@
                 "map_locations": [
                     {
                         "map": "HF",
-                        "x": 1028,
-                        "y": 1893,
-                        "size": 6
+                        "x": 1161,
+                        "y": 368,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 251,
+                        "y": 323,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -144,9 +201,17 @@
                 "map_locations": [
                     {
                         "map": "HF",
-                        "x": 1837,
-                        "y": 1272,
-                        "size": 6
+                        "x": 54,
+                        "y": 27,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 183,
+                        "y": 328,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -187,9 +252,50 @@
                 "map_locations": [
                     {
                         "map": "HF",
-                        "x": 1953,
-                        "y": 1673,
-                        "size": 6
+                        "x": 1597,
+                        "y": 917,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 162,
+                        "y": 146,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Near Kak Grotto",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HF",
+                        "x": 2448,
+                        "y": 305,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 486,
+                        "y": 55,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -203,19 +309,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Wonderitem 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Wonderitem 3",
+                        "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -224,9 +318,17 @@
                 "map_locations": [
                     {
                         "map": "HF",
-                        "x": 1037,
-                        "y": 616,
-                        "size": 6
+                        "x": 1704,
+                        "y": 1435,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 433,
+                        "y": 53,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -240,13 +342,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Song from Ocarina of Time",
+                        "name": "Song from OoT",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "Ocarina of Time Item",
+                        "name": "OoT Item",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -255,33 +357,19 @@
                 "map_locations": [
                     {
                         "map": "HF",
-                        "x": 2005,
-                        "y": 2199,
-                        "size": 6
+                        "x": 611,
+                        "y": 1571,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Field",
+                        "x": 433,
+                        "y": 72,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Tektite Grotto Freestanding PoH",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Near Kak Grotto",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "HF",
-                "x": 387,
-                "y": 188,
-                "size": 6
             }
         ]
     }

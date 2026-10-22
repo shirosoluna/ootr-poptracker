@@ -18,7 +18,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "oT Reward from Rauru",
+                        "name": "ToT Reward from Rauru",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -33,9 +33,10 @@
                 "map_locations": [
                     {
                         "map": "Temple of Time",
-                        "x": 866,
-                        "y": 316,
-                        "size": 6
+                        "x": 200,
+                        "y": 299,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -53,20 +54,15 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
-                    {
-                        "name": "Gift from Sages",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Temple of Time",
-                        "x": 506,
-                        "y": 293,
-                        "size": 6
+                        "x": 501,
+                        "y": 359,
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             }

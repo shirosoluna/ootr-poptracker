@@ -9,6 +9,72 @@
         ],
         "children": [
             {
+                "name": "Diving Minigame",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Item",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZD",
+                        "x": 253,
+                        "y": 546,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 357,
+                        "y": 124,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Torches",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZD",
+                        "x": 1791,
+                        "y": 1501,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 353,
+                        "y": 250,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "King Zora",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -33,9 +99,122 @@
                 "map_locations": [
                     {
                         "map": "ZD",
-                        "x": 1405,
-                        "y": 1930,
-                        "size": 6
+                        "x": 1318,
+                        "y": 432,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 467,
+                        "y": 77,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "In Front of King Zora",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Beehive 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Beehive 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZD",
+                        "x": 238,
+                        "y": 620,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 434,
+                        "y": 50,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Behind King Zora",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Beehive",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZD",
+                        "x": 175,
+                        "y": 465,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 471,
+                        "y": 21,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Frozen Waterfall",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "GS",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZD",
+                        "x": 1603,
+                        "y": 46,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 407,
+                        "y": 140,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -100,87 +279,85 @@
                 "map_locations": [
                     {
                         "map": "ZD",
-                        "x": 1703,
-                        "y": 1418,
-                        "size": 6
+                        "x": 616,
+                        "y": 1482,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 473,
+                        "y": 392,
+                        "size": 10,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Diving Minigame",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
-                "name": "Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "name": "Near Shop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZD",
+                        "x": 885,
+                        "y": 1352,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 421,
+                        "y": 398,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "name": "In Front of King Zora Beehive 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "In Front of King Zora Beehive 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Behind King Zora Beehive",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "GS Frozen Waterfall",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Pot 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Pot 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Pot 3",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Pot 4",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Pot 5",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "ZD",
-                "x": 1648,
-                "y": 716,
-                "size": 6
+                "name": "In Front of Shop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ZD",
+                        "x": 1993,
+                        "y": 1171,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Zora's Domain",
+                        "x": 507,
+                        "y": 424,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }
