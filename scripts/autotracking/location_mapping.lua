@@ -6,11 +6,13 @@ LOCATION_MAPPING = {
 	[67939] = {"@Temple of Time/ToT Gifts/Gift from Sages"},
 
 -- Kokiri Forest 
+	-- 4
 	[67022] = {"@Kokiri Forest/Midos House/Chest"},
 	[67023] = {"@Kokiri Forest/Midos House/Chest"},
 	[67024] = {"@Kokiri Forest/Midos House/Chest"},
 	[67025] = {"@Kokiri Forest/Midos House/Chest"},
-	[67026] = {"@Kokiri Forest/Kokiri Sword Chest"},
+
+	[67026] = {"@Kokiri Forest/Kokiri Sword Chest/Chest"},
 	[67027] = {"@Kokiri Forest/Storms Grotto/Chest"},
 	[67972] = {"@Kokiri Forest/Storms Grotto/Beehive 1"},
 	[67973] = {"@Kokiri Forest/Storms Grotto/Beehive 2"},
@@ -32,9 +34,11 @@ LOCATION_MAPPING = {
 	[67946] = {"@Kokiri Forest/Boulder Maze First/Blue Rupee"},
 	[67947] = {"@Kokiri Forest/Boulder Maze Second/Blue Rupee"},
 	[67948] = {"@Kokiri Forest/End of Bridge/Blue Rupee"},
+	-- 3
 	[67949] = {"@Kokiri Forest/Top of Sarias/Recovery Hearts"},
 	[67950] = {"@Kokiri Forest/Top of Sarias/Recovery Hearts"},
 	[67951] = {"@Kokiri Forest/Top of Sarias/Recovery Hearts"},
+	-- 7
 	[67952] = {"@Kokiri Forest/Bean Platform/Rupee items"},
 	[67953] = {"@Kokiri Forest/Bean Platform/Rupee items"},
 	[67954] = {"@Kokiri Forest/Bean Platform/Rupee items"},
@@ -42,24 +46,32 @@ LOCATION_MAPPING = {
 	[67956] = {"@Kokiri Forest/Bean Platform/Rupee items"},
 	[67957] = {"@Kokiri Forest/Bean Platform/Rupee items"},
 	[67958] = {"@Kokiri Forest/Bean Platform/Rupee items"},
+	-- 2
 	[67959] = {"@Kokiri Forest/Grass Near Ramp/Rupees"},
 	[67960] = {"@Kokiri Forest/Grass Near Ramp/Rupees"},
+	-- 2
 	[67961] = {"@Kokiri Forest/Grass Near Midos/Rupees"},
 	[67962] = {"@Kokiri Forest/Grass Near Midos/Rupees"},
+	-- 4
 	[67963] = {"@Kokiri Forest/In Sarias House/Recovery Hearts"},
 	[67964] = {"@Kokiri Forest/In Sarias House/Recovery Hearts"},
 	[67965] = {"@Kokiri Forest/In Sarias House/Recovery Hearts"},
 	[67966] = {"@Kokiri Forest/In Sarias House/Recovery Hearts"},
+	-- 2
 	[67968] = {"@Kokiri Forest/Know it All House/Pots"},
 	[67969] = {"@Kokiri Forest/Know it All House/Pots"},
+	-- 2
 	[67970] = {"@Kokiri Forest/House of Twins/Pots"},
 	[67971] = {"@Kokiri Forest/House of Twins/Pots"},
+
 	[69022] = {"@Kokiri Forest/Child Stepping Stones/Wonderitem"},
 	[69023] = {"@Kokiri Forest/Child Water/Wonderitem"},
 	[69024] = {"@Kokiri Forest/Child Sign/Wonderitem"},
+	-- 3
 	[69025] = {"@Kokiri Forest/Child Training/Wonderitems"},
 	[69026] = {"@Kokiri Forest/Child Training/Wonderitems"},
 	[69027] = {"@Kokiri Forest/Child Training/Wonderitems"},
+	-- 3
 	[69028] = {"@Kokiri Forest/Child Maze Grass/Wonderitems"},
 	[69029] = {"@Kokiri Forest/Child Maze Grass/Wonderitems"},
 	
@@ -71,9 +83,11 @@ LOCATION_MAPPING = {
 	[67047] = {"@LW/Trade/Cojiro"},
 	[67048] = {"@LW/Trade/Odd Potion"},
 	[67041] = {"@LW/Ocarina Memory Game/Item"},
+	-- 3
 	[69031] = {"@LW/Near Ocarina Game/Wonderitems"},
 	[69032] = {"@LW/Near Ocarina Game/Wonderitems"},
-	[69033] = {"@LW/Near Ocarina Game Wonderitems"},
+	[69033] = {"@LW/Near Ocarina Game/Wonderitems"},
+
 	[67042] = {"@LW/Target in Woods/Item"},
 	[67044] = {"@LW/Deku Theater/Skull Mask"},
 	[67045] = {"@LW/Deku Theater/Mask of Truth"},
@@ -88,9 +102,10 @@ LOCATION_MAPPING = {
 	[67053] = {"@LW/Deku Scrub Grotto/Rear"},
 	[67985] = {"@LW/Deku Scrub Grotto/Beehive"},
 	[67974] = {"@LW/Under Boulder/Blue Rupee"},
+	[67977] = {"@LW/Underwater Rupees/Shortcut Green Rupee"},
+	-- 7
 	[67975] = {"@LW/Underwater Rupees/Green Rupees"},
 	[67976] = {"@LW/Underwater Rupees/Green Rupees"},
-	[67977] = {"@LW/Underwater Rupees/Shortcut Green Rupee"},
 	[67978] = {"@LW/Underwater Rupees/Green Rupees"},
 	[67979] = {"@LW/Underwater Rupees/Green Rupees"},
 	[67980] = {"@LW/Underwater Rupees/Green Rupees"},
@@ -130,9 +145,11 @@ LOCATION_MAPPING = {
 	[67988] = {"@HF/Cow Grotto/Pot 2"},
 	[67068] = {"@HF/Cow Grotto/GS"},
 	[67069] = {"@HF/Near Kak Grotto/GS"},
+	-- 3
 	[69040] = {"@HF/Child Above Drawbridge/Wonderitems"},
 	[69041] = {"@HF/Child Above Drawbridge/Wonderitems"},
 	[69042] = {"@HF/Child Above Drawbridge/Wonderitems"},
+
 	[67014] = {"@HF/OoT/Song from OoT"},
 	[67061] = {"@HF/OoT/OoT Item"},
 
@@ -176,16 +193,23 @@ LOCATION_MAPPING = {
 	[67109] = {"@Market/Mask Shop/Item 7"},
 	[67110] = {"@Market/Mask Shop/Item 8"},
 	[67924] = {"@Market/Treasure Chest Game/Salesman"},
+
+	-- 2
 	[67925] = {"@Market/Treasure Chest Game/Room 1"},
 	[67926] = {"@Market/Treasure Chest Game/Room 1"},
+	-- 2
 	[67927] = {"@Market/Treasure Chest Game/Room 2"},
 	[67928] = {"@Market/Treasure Chest Game/Room 2"},
+	-- 2
 	[67929] = {"@Market/Treasure Chest Game/Room 3"},
 	[67930] = {"@Market/Treasure Chest Game/Room 3"},
+	-- 2
 	[67931] = {"@Market/Treasure Chest Game/Room 4"},
 	[67932] = {"@Market/Treasure Chest Game/Room 4"},
+	-- 2
 	[67933] = {"@Market/Treasure Chest Game/Room 5"},
 	[67934] = {"@Market/Treasure Chest Game/Room 5"},
+
 	[67076] = {"@Market/Treasure Chest Game/Final Reward"},
 	[67996] = {"@Market/Night Red Rupee/Crate"},
 	[67997] = {"@Market/Night Green Rupee 1/Crate"},
@@ -259,11 +283,13 @@ LOCATION_MAPPING = {
 	[68064] = {"@Market/Man in Green House/Pot 1"},
 	[68065] = {"@Market/Man in Green House/Pot 2"},
 	[68066] = {"@Market/Man in Green House/Pot 3"},
+	-- 5
 	[69043] = {"@Market/Daytime Balcony/Wonderitems"},
 	[69044] = {"@Market/Daytime Balcony/Wonderitems"},
 	[69045] = {"@Market/Daytime Balcony/Wonderitems"},
 	[69046] = {"@Market/Daytime Balcony/Wonderitems"},
 	[69047] = {"@Market/Daytime Balcony/Wonderitems"},
+	-- 2
 	[69048] = {"@Market/Night Balcony/Wonderitems"},
 	[69049] = {"@Market/Night Balcony/Wonderitems"},
 
@@ -275,12 +301,15 @@ LOCATION_MAPPING = {
 	[67114] = {"@HC/Great Fairy/Reward"},
 	[67115] = {"@HC/Tree/GS"},
 	[67116] = {"@HC/Storms Grotto/GS"},
+	-- 4
 	[68067] = {"@HC/Storms Grotto/Pots"},
 	[68068] = {"@HC/Storms Grotto/Pots"},
 	[68069] = {"@HC/Storms Grotto/Pots"},
 	[68070] = {"@HC/Storms Grotto/Pots"},
-	[69050] = {"@HC/Castle Torch Wonderitem 1"},
-	[69051] = {"@HC/Castle Torch Wonderitem 2"},
+
+	[69050] = {"@HC/Castle Torch 1/Wonderitem"},
+	[69051] = {"@HC/Castle Torch 2/Wonderitem"},
+	-- 10
 	[69052] = {"@HC/Castle Moat/Wonderitems"},
 	[69053] = {"@HC/Castle Moat/Wonderitems"},
 	[69054] = {"@HC/Castle Moat/Wonderitems"},
@@ -294,9 +323,11 @@ LOCATION_MAPPING = {
 
 -- Lon Lon Ranch 
 	[67117] = {"@LLR/Talons House/Chickens"},
+	-- 3
 	[68078] = {"@LLR/Talons House/Pots"},
 	[68079] = {"@LLR/Talons House/Pots"},
 	[68080] = {"@LLR/Talons House/Pots"},
+
 	[67119] = {"@LLR/Deku Scrub Grotto/Left"},
 	[67120] = {"@LLR/Deku Scrub Grotto/Center"},
 	[67121] = {"@LLR/Deku Scrub Grotto/Right"},
@@ -311,13 +342,16 @@ LOCATION_MAPPING = {
 	[67128] = {"@LLR/Rain Shed/GS"},
 	[67129] = {"@LLR/Back Wall/GS"},
 	[67011] = {"@LLR/Song from Malon/Song"},
+	-- 4
 	[68071] = {"@LLR/Front/Pots"},
 	[68072] = {"@LLR/Front/Pots"},
 	[68073] = {"@LLR/Front/Pots"},
 	[68074] = {"@LLR/Front/Pots"},
+	-- 3
 	[68075] = {"@LLR/Rain Shed/Pots"},
 	[68076] = {"@LLR/Rain Shed/Pots"},
 	[68077] = {"@LLR/Rain Shed/Pots"},
+	
 	[68081] = {"@LLR/Child Crate/Crate"},
 	[69063] = {"@LLR/Epona Hurdle First/Wonderitem"},
 	[69064] = {"@LLR/Epona Hurdle Second/Wonderitem"},
@@ -345,7 +379,7 @@ LOCATION_MAPPING = {
 	[67145] = {"@Kak/Gold Skull House/50 Gold Skulltula Reward"},
 	[67146] = {"@Kak/Gold Skull House/100 Gold Skulltula Reward"},
 	[67135] = {"@Kak/Impas House/Freestanding PoH"},
-	[67147] = {"@Kak/Impas House Cow"},
+	[67147] = {"@Kak/Impas House/Cow"},
 	[67153] = {"@Kak/Above Impas House/Adult GS"},
 	[69066] = {"@Kak/Impas House/Wonderitem"},
 	[67148] = {"@Kak/Tree/GS"},
@@ -368,17 +402,22 @@ LOCATION_MAPPING = {
 	[67167] = {"@Kak/Potion Shop/Item 6"},
 	[67168] = {"@Kak/Potion Shop/Item 7"},
 	[67169] = {"@Kak/Potion Shop/Item 8"},
+	-- 3
 	[68083] = {"@Kak/Near Potion Shop/Pots"},
 	[68084] = {"@Kak/Near Potion Shop/Pots"},
 	[68085] = {"@Kak/Near Potion Shop/Pots"},
+	-- 3
 	[68086] = {"@Kak/Near Impas House/Pots"},
 	[68087] = {"@Kak/Near Impas House/Pots"},
 	[68088] = {"@Kak/Near Impas House/Pots"},
+	-- 3
 	[68089] = {"@Kak/Near Guards House/Pots"},
 	[68090] = {"@Kak/Near Guards House/Pots"},
 	[68091] = {"@Kak/Near Guards House/Pots"},
+	-- 2
 	[68092] = {"@Kak/Near Odd Medicine Building/Pots"},
 	[68093] = {"@Kak/Near Odd Medicine Building/Pots"},
+
 	[68094] = {"@Kak/Behind Odd Medicine/Adult Crate 1"},
 	[68095] = {"@Kak/Behind Odd Medicine/Adult Crate 2"},
 	[68096] = {"@Kak/Behind Odd Medicine/Adult Red Rupee Crate"},
@@ -395,8 +434,10 @@ LOCATION_MAPPING = {
 	[68107] = {"@Kak/Adult Crate 6/Crate"},
 	[68108] = {"@Kak/Adult Crate 7/Crate"},
 	[68109] = {"@Kak/Adult Crate 8/Crate"},
+	-- 2
 	[68110] = {"@Kak/Adult Backyard/Crates"},
 	[68111] = {"@Kak/Adult Backyard/Crates"},
+
 	[67020] = {"@Kak/Nocturne/Sheik in Kakariko"},
 
 -- Graveyard 
@@ -409,14 +450,19 @@ LOCATION_MAPPING = {
 	[67174] = {"@Graveyard/Dampe Gravedigging Tour/Item"},
 	[67177] = {"@Graveyard/Bean Patch/GS"},
 	[67178] = {"@Graveyard/Wall/GS"},
+
+	-- TODO split dampe out
 	[67175] = {"@Graveyard/Dampe Race/End/Hookshot Chest"},
 	[67176] = {"@Graveyard/Dampe Race/End/Freestanding PoH"},
+	-- 3
 	[68123] = {"@Graveyard/Dampe Race/Front L/Pots"},
 	[68124] = {"@Graveyard/Dampe Race/Front L/Pots"},
 	[68125] = {"@Graveyard/Dampe Race/Front L/Pots"},
+	-- 3
 	[68126] = {"@Graveyard/Dampe Race/Front R/Pots"},
 	[68127] = {"@Graveyard/Dampe Race/Front R/Pots"},
 	[68128] = {"@Graveyard/Dampe Race/Front R/Pots"},
+
 	[68114] = {"@Graveyard/Dampe Race/First/Rupee"},
 	[68115] = {"@Graveyard/Dampe Race/Second/Rupee"},
 	[68116] = {"@Graveyard/Dampe Race/Third/Rupee"},
@@ -425,20 +471,27 @@ LOCATION_MAPPING = {
 	[68119] = {"@Graveyard/Dampe Race/Sixth/Rupee"},
 	[68120] = {"@Graveyard/Dampe Race/Seventh/Rupee"},
 	[68121] = {"@Graveyard/Dampe Race/Eigth/Rupee"},
+	-- 4
 	[69067] = {"@Graveyard/Dampe Race/First/Wonderitems"},
 	[69068] = {"@Graveyard/Dampe Race/First/Wonderitems"},
 	[69069] = {"@Graveyard/Dampe Race/First/Wonderitems"},
 	[69070] = {"@Graveyard/Dampe Race/First/Wonderitems"},
+
 	[69071] = {"@Graveyard/Dampe Race/Second/Wonderitem"},
+	-- 2
 	[69072] = {"@Graveyard/Dampe Race/Third/Wonderiteme"},
 	[69073] = {"@Graveyard/Dampe Race/Third/Wonderiteme"},
+
 	[69074] = {"@Graveyard/Dampe Race/Fourth/Wonderitem"},
+	-- 2
 	[69075] = {"@Graveyard/Dampe Race/Fifth/Wonderiteme"},
 	[69076] = {"@Graveyard/Dampe Race/Fifth/Wonderitems"},
+	-- 4
 	[69077] = {"@Graveyard/Dampe Race/Sixth/Wonderitems"},
 	[69078] = {"@Graveyard/Dampe Race/Sixth/Wonderitems"},
 	[69079] = {"@Graveyard/Dampe Race/Sixth/Wonderitems"},
 	[69080] = {"@Graveyard/Dampe Race/Sixth/Wonderitems"},
+
 	[69081] = {"@Graveyard/Dampe Race/Eigth/Wonderitem"},
 	
 -- Death Mountain Trail 
@@ -458,33 +511,43 @@ LOCATION_MAPPING = {
 	[68129] = {"@DMT/Rock/Red Rupee"},
 	[68130] = {"@DMT/Rock/Blue Rupee"},
 	[67186] = {"@DMT/Cow Grotto/Cow"},
+	-- 6
 	[68131] = {"@DMT/Cow Grotto/Green Rupees"},
 	[68132] = {"@DMT/Cow Grotto/Green Rupees"},
 	[68133] = {"@DMT/Cow Grotto/Green Rupees"},
 	[68134] = {"@DMT/Cow Grotto/Green Rupees"},
 	[68135] = {"@DMT/Cow Grotto/Green Rupees"},
 	[68136] = {"@DMT/Cow Grotto/Green Rupees"},
+
 	[68137] = {"@DMT/Cow Grotto/Red Rupee"},
+	-- 4
 	[68138] = {"@DMT/Cow Grotto/Recovery Hearts"},
 	[68139] = {"@DMT/Cow Grotto/Recovery Hearts"},
 	[68140] = {"@DMT/Cow Grotto/Recovery Hearts"},
 	[68141] = {"@DMT/Cow Grotto/Recovery Hearts"},
+	
 	[68142] = {"@DMT/Cow Grotto/Beehive"},
 
 -- Goron City 
 	[67191] = {"@GC/Darunia/Darunias Joy"},
+	-- 3
 	[68153] = {"@GC/Darunia/Pots"},
 	[68154] = {"@GC/Darunia/Pots"},
 	[68155] = {"@GC/Darunia/Pots"},
+
 	[67192] = {"@GC/Spinning Pot/Freestanding PoH"},
+	-- 3
 	[68145] = {"@GC/Spinning Pot/Bomb Drops"},
 	[68146] = {"@GC/Spinning Pot/Bomb Drops"},
 	[68147] = {"@GC/Spinning Pot/Bomb Drops"},
+	-- 3
 	[68148] = {"@GC/Spinning Pot/Rupee Drops"},
 	[68149] = {"@GC/Spinning Pot/Rupee Drops"},
 	[68150] = {"@GC/Spinning Pot/Rupee Drops"},
+	-- 2
 	[68151] = {"@GC/Spinning Pot/PoH Drop Rupees"},
 	[68152] = {"@GC/Spinning Pot/PoH Drop Rupees"},
+
 	[67193] = {"@GC/Rolling Goron/Child"},
 	[67194] = {"@GC/Rolling Goron/Adult"},
 	[67195] = {"@GC/Medigoron/Buy Item"},
@@ -507,8 +570,10 @@ LOCATION_MAPPING = {
 	[67209] = {"@GC/Shop/Item 6"},
 	[67210] = {"@GC/Shop/Item 7"},
 	[67211] = {"@GC/Shop/Item 8"},
+	-- 2
 	[68157] = {"@GC/Lower Staircase/Pots"},
 	[68158] = {"@GC/Lower Staircase/Pots"},
+	-- 3
 	[68159] = {"@GC/Upper Staircase/Pots"},
 	[68160] = {"@GC/Upper Staircase/Pots"},
 	[68161] = {"@GC/Upper Staircase/Pots"},
@@ -526,25 +591,31 @@ LOCATION_MAPPING = {
 	[67219] = {"@DMC/Deku Scrub Grotto/Right"},
 	[67220] = {"@DMC/Child Crate/GS"},
 	[67221] = {"@DMC/Bean Patch/GS"},
+	-- 6
 	[68164] = {"@DMC/Adult Pierre/Green Rupees"},
 	[68165] = {"@DMC/Adult Pierre/Green Rupees"},
 	[68166] = {"@DMC/Adult Pierre/Green Rupees"},
 	[68167] = {"@DMC/Adult Pierre/Green Rupees"},
 	[68168] = {"@DMC/Adult Pierre/Green Rupees"},
 	[68169] = {"@DMC/Adult Pierre/Green Rupees"},
+
 	[68170] = {"@DMC/Adult Pierre/Red Rupee"},
+	-- 2
 	[68171] = {"@DMC/Child Platform/Red Rupees"},
 	[68172] = {"@DMC/Child Platform/Red Rupees"},
+	-- 6
 	[68173] = {"@DMC/Child Platform/Blue Rupees"},
 	[68174] = {"@DMC/Child Platform/Blue Rupees"},
 	[68175] = {"@DMC/Child Platform/Blue Rupees"},
 	[68176] = {"@DMC/Child Platform/Blue Rupees"},
 	[68177] = {"@DMC/Child Platform/Blue Rupees"},
 	[68178] = {"@DMC/Child Platform/Blue Rupees"},
+	-- 4
 	[68179] = {"@DMC/Near GC/Pots"},
 	[68180] = {"@DMC/Near GC/Pots"},
 	[68181] = {"@DMC/Near GC/Pots"},
 	[68182] = {"@DMC/Near GC/Pots"},
+	
 	[67017] = {"@DMC/Song/Sheik in Crater"},
 	
 -- Zora River 
@@ -567,37 +638,46 @@ LOCATION_MAPPING = {
 	[67231] = {"@ZR/Ladder/GS"},
 	[67232] = {"@ZR/Near Raised Grottos/GS"},
 	[67233] = {"@ZR/Above Bridge/GS"},
+	-- 4
 	[68186] = {"@ZR/Waterfall/Red Rupees"},
 	[68187] = {"@ZR/Waterfall/Red Rupees"},
 	[68188] = {"@ZR/Waterfall/Red Rupees"},
 	[68189] = {"@ZR/Waterfall/Red Rupees"},
+
 	[67227] = {"@ZR/Near Domain/Freestanding PoH"},
+	-- 4
 	[69082] = {"@ZR/Child Front River/Wonderitems"},
 	[69083] = {"@ZR/Child Front River/Wonderitems"},
 	[69084] = {"@ZR/Child Front River/Wonderitems"},
 	[69085] = {"@ZR/Child Front River/Wonderitems"},
+	-- 4
 	[69086] = {"@ZR/Child River 1/Wonderitems"},
 	[69087] = {"@ZR/Child River 1/Wonderitems"},
 	[69088] = {"@ZR/Child River 1/Wonderitems"},
 	[69089] = {"@ZR/Child River 1/Wonderitems"},
+	-- 4
 	[69090] = {"@ZR/Child River 2/Wonderitems"},
 	[69091] = {"@ZR/Child River 2/Wonderitems"},
 	[69092] = {"@ZR/Child River 2/Wonderitems"},
 	[69093] = {"@ZR/Child River 2/Wonderitems"},
+	-- 3
 	[69094] = {"@ZR/Child River 3/Wonderitems"},
 	[69095] = {"@ZR/Child River 3/Wonderitems"},
 	[69096] = {"@ZR/Child River 3/Wonderitems"},
+	-- 5
 	[69097] = {"@ZR/Child River 4/Wonderitems"},
 	[69098] = {"@ZR/Child River 4/Wonderitems"},
 	[69099] = {"@ZR/Child River 4/Wonderitems"},
 	[69100] = {"@ZR/Child River 4/Wonderitems"},
 	[69101] = {"@ZR/Child River 4/Wonderitems"},
+	-- 6
 	[69102] = {"@ZR/Child River 5/Wonderitems"},
 	[69103] = {"@ZR/Child River 5/Wonderitems"},
 	[69104] = {"@ZR/Child River 5/Wonderitems"},
 	[69105] = {"@ZR/Child River 5/Wonderitems"},
 	[69106] = {"@ZR/Child River 5/Wonderitems"},
 	[69107] = {"@ZR/Child River 5/Wonderitems"},
+	-- 5
 	[69108] = {"@ZR/Child River 6/Wonderitems"},
 	[69109] = {"@ZR/Child River 6/Wonderitems"},
 	[69110] = {"@ZR/Child River 6/Wonderitems"},
@@ -621,9 +701,11 @@ LOCATION_MAPPING = {
 	[67244] = {"@ZD/Shop/Item 6"},
 	[67245] = {"@ZD/Shop/Item 7"},
 	[67246] = {"@ZD/Shop/Item 8"},
+	-- 3
 	[68193] = {"@ZD/Near Shop/Pots"},
 	[68194] = {"@ZD/Near Shop/Pots"},
 	[68195] = {"@ZD/Near Shop/Pots"},
+	-- 2
 	[68196] = {"@ZD/In Front of Shop/Pots"},
 	[68197] = {"@ZD/In Front of Shop/Pots"},
 
@@ -633,6 +715,7 @@ LOCATION_MAPPING = {
 	[67249] = {"@ZF/Bottom/Freestanding PoH"},
 	[67250] = {"@ZF/Above the Log/GS"},
 	[67251] = {"@ZF/Tree/GS"},
+	-- 18
 	[68201] = {"@ZF/Bottom/Green Rupees"},
 	[68202] = {"@ZF/Bottom/Green Rupees"},
 	[68203] = {"@ZF/Bottom/Green Rupees"},
@@ -651,10 +734,13 @@ LOCATION_MAPPING = {
 	[68216] = {"@ZF/Bottom/Green Rupees"},
 	[68217] = {"@ZF/Bottom/Green Rupees"},
 	[68218] = {"@ZF/Bottom/Green Rupees"},
+	-- 3
 	[68219] = {"@ZF/Hidden Cave/Pots"},
 	[68220] = {"@ZF/Hidden Cave/Pots"},
 	[68221] = {"@ZF/Hidden Cave/Pots"},
+
 	[67252] = {"@ZF/Hidden Cave Upper/GS"},
+	-- 4
 	[68222] = {"@ZF/Near Jabu/Pots"},
 	[68223] = {"@ZF/Near Jabu/Pots"},
 	[68224] = {"@ZF/Near Jabu/Pots"},
@@ -667,10 +753,12 @@ LOCATION_MAPPING = {
 	[67256] = {"@LH/Fishing/Loach Reward"},
 	[67257] = {"@LH/Lab/Dive Reward"},
 	[67267] = {"@LH/Lab/Crate GS"},
-	[67260] = {"@LH//Lab/Trade Eyeball Frog"},
+	[67260] = {"@LH/Lab/Trade Eyeball Frog"},
+	-- 3
 	[68229] = {"@LH/Lab/Dive Red Rupees"},
 	[68230] = {"@LH/Lab/Dive Red Rupees"},
 	[68231] = {"@LH/Lab/Dive Red Rupees"},
+
 	[67258] = {"@LH/Above Lab/Freestanding PoH"},
 	[67259] = {"@LH/Soot the Sun/Item"},
 	[67261] = {"@LH/Deku Scrub Grotto/Left"},
@@ -682,6 +770,7 @@ LOCATION_MAPPING = {
 	[67266] = {"@LH/Small Island/GS"},
 	[67268] = {"@LH/Tree/GS"},
 	[68226] = {"@LH/Underwater Near Shore/Green Rupee"},
+	-- 2
 	[68227] = {"@LH/Underwater Rupees/Rupee"},
 	[68228] = {"@LH/Underwater Rupees/Rupee"},
 
@@ -701,13 +790,16 @@ LOCATION_MAPPING = {
 	[67278] = {"@GV/Behind Tent/GS"},
 	[67279] = {"@GV/Pillar/GS"},
 	[68233] = {"@GV/Octorok Grotto/Red Rupee"},
+	-- 3
 	[68234] = {"@GV/Octorok Grotto/Blue Rupees"},
 	[68235] = {"@GV/Octorok Grotto/Blue Rupees"},
 	[68236] = {"@GV/Octorok Grotto/Blue Rupees"},
+	-- 4
 	[68237] = {"@GV/Octorok Grotto/Green Rupees"},
 	[68238] = {"@GV/Octorok Grotto/Green Rupees"},
 	[68239] = {"@GV/Octorok Grotto/Green Rupees"},
 	[68240] = {"@GV/Octorok Grotto/Green Rupees"},
+
 	[69113] = {"@GV/Adult Upper Waterfall/Wonderitem"},
 	[69114] = {"@GV/Adult Lower Waterfall/Wonderitem"},
 
@@ -721,71 +813,94 @@ LOCATION_MAPPING = {
 	[67284] = {"@GF/Archery Range/GS"},
 	[67285] = {"@GF/Above Jail/Freestanding PoH"},
 	[68250] = {"@GF/Above Jail/Crate"},
-	[68244] = {"@GF/Outdoors/Crate"},
-	[68245] = {"@GF/Outdoors/Crate"},
-	[68246] = {"@GF/Outdoors/Crate"},
-	[68247] = {"@GF/Outdoors/Crate"},
-	[68248] = {"@GF/Outdoors/Crate"},
-	[68249] = {"@GF/Outdoors/Crate"},
-	[68251] = {"@GF/HBA Crates/Crate"},
-	[68252] = {"@GF/HBA Crates/Crate"},
-	[68253] = {"@GF/HBA Crates/Crate"},
-	[68254] = {"@GF/HBA Crates/Crate"},
-	[68255] = {"@GF/HBA Crates/Crate"},
-	[68256] = {"@GF/HBA Crates/Crate"},
-	[68257] = {"@GF/HBA Crates/Crate"},
-	[68258] = {"@GF/HBA Crates/Crate"},
-	[68259] = {"@GF/HBA Crates/Crate"},
-	[68260] = {"@GF/HBA Crates/Crate"},
-	[68261] = {"@GF/HBA Crates/Crate"},
-	[68262] = {"@GF/HBA Crates/Crate"},
-	[68263] = {"@GF/HBA Crates/Crate"},
+	-- 6
+	[68244] = {"@GF/Outdoors/Crates"},
+	[68245] = {"@GF/Outdoors/Crates"},
+	[68246] = {"@GF/Outdoors/Crates"},
+	[68247] = {"@GF/Outdoors/Crates"},
+	[68248] = {"@GF/Outdoors/Crates"},
+	[68249] = {"@GF/Outdoors/Crates"},
+	-- 13
+	[68251] = {"@GF/HBA Crates/Crates"},
+	[68252] = {"@GF/HBA Crates/Crates"},
+	[68253] = {"@GF/HBA Crates/Crates"},
+	[68254] = {"@GF/HBA Crates/Crates"},
+	[68255] = {"@GF/HBA Crates/Crates"},
+	[68256] = {"@GF/HBA Crates/Crates"},
+	[68257] = {"@GF/HBA Crates/Crates"},
+	[68258] = {"@GF/HBA Crates/Crates"},
+	[68259] = {"@GF/HBA Crates/Crates"},
+	[68260] = {"@GF/HBA Crates/Crates"},
+	[68261] = {"@GF/HBA Crates/Crates"},
+	[68262] = {"@GF/HBA Crates/Crates"},
+	[68263] = {"@GF/HBA Crates/Crates"},
 
 -- Theieves Hideout 
 	[67286] = {"@Hideout/1 Torch Jail/Gerudo Key"},
+	-- 3
 	[68266] = {"@Hideout/1 Torch Jail/Pots"},
 	[68267] = {"@Hideout/1 Torch Jail/Pots"},
 	[68268] = {"@Hideout/1 Torch Jail/Pots"},
+	-- TODO: put into 1 Torch Jail?
 	[68285] = {"@Hideout/Near 1 Torch Jail/Crate"},
+	-- 2
 	[69121] = {"@Hideout/1 Torch Jail/Wonderitems"},
 	[69122] = {"@Hideout/1 Torch Jail/Wonderitems"},
+
 	[67287] = {"@Hideout/2 Torch Jail/Gerudo Key"},
+	-- 3
 	[68273] = {"@Hideout/2 Torch Jail/Pots"},
 	[68274] = {"@Hideout/2 Torch Jail/Pots"},
 	[68275] = {"@Hideout/2 Torch Jail/Pots"},
+	-- 2
 	[68291] = {"@Hideout/2 Torch Jail/Crate"},
 	[68292] = {"@Hideout/2 Torch Jail/Crate"},
+	-- 4
 	[68276] = {"@Hideout/2 Torch Jail/In Cell Pots"},
 	[68277] = {"@Hideout/2 Torch Jail/In Cell Pots"},
 	[68278] = {"@Hideout/2 Torch Jail/In Cell Pots"},
 	[68279] = {"@Hideout/2 Torch Jail/In Cell Pots"},
+	-- 2
 	[69127] = {"@Hideout/2 Torch Jail/Wonderitems"},
 	[69128] = {"@Hideout/2 Torch Jail/Wonderitems"},
+
 	[67288] = {"@Hideout/3 Torch Jail/Gerudo Key"},
 	[68284] = {"@Hideout/3 Torch Jail/Crate"},
+	-- 2
 	[69119] = {"@Hideout/3 Torch Jail/Wonderitems"},
 	[69120] = {"@Hideout/3 Torch Jail/Wonderitems"},
+
 	[67289] = {"@Hideout/4 Torch Jail/Gerudo Key"},
+	-- 2
 	[68271] = {"@Hideout/4 Torch Jail/Pots"},
 	[68272] = {"@Hideout/4 Torch Jail/Pots"},
+	-- 2
 	[69125] = {"@Hideout/4 Torch Jail/Wonderitems"},
 	[69126] = {"@Hideout/4 Torch Jail/Wonderitems"},
+
 	[67290] = {"@Hideout/Defeat Guards/Gerudo Membership Card"},
+	-- 2
 	[68264] = {"@Hideout/Break Room/Pots"},
 	[68265] = {"@Hideout/Break Room/Pots"},
+	-- 2
 	[68280] = {"@Hideout/Break Room/Crates"},
 	[68281] = {"@Hideout/Break Room/Crates"},
+	-- 2
 	[68282] = {"@Hideout/Break Room Hallway/Crates"},
 	[68283] = {"@Hideout/Break Room Hallway/Crates"},
+	-- 2
 	[68269] = {"@Hideout/Kitchen/Pots"},
 	[68270] = {"@Hideout/Kitchen/Pots"},
+
 	[69123] = {"@Hideout/Kitchen/Stove Wonderitem"},
 	[69124] = {"@Hideout/Kitchen/Wonderitem"},
+	-- 5
 	[68286] = {"@Hideout/Near Kitchen/Crates"},
 	[68287] = {"@Hideout/Near Kitchen/Crates"},
 	[68288] = {"@Hideout/Near Kitchen/Crates"},
 	[68289] = {"@Hideout/Near Kitchen/Crates"},
 	[68290] = {"@Hideout/Near Kitchen/Crates"},
+	
 	[69117] = {"@Hideout/Break Room/Wonderitem"},
 	[69118] = {"@Hideout/Break Room Hall to Balcony/Wonderitem"},
 
@@ -793,14 +908,18 @@ LOCATION_MAPPING = {
 	[67291] = {"@Wasteland/Bombchu Salesman/Item"},
 	[67292] = {"@Wasteland/Center/Chest"},
 	[67293] = {"@Wasteland/Center/GS"},
+	-- 4
 	[68293] = {"@Wasteland/Center/Pots"},
 	[68294] = {"@Wasteland/Center/Pots"},
 	[68295] = {"@Wasteland/Center/Pots"},
 	[68296] = {"@Wasteland/Center/Pots"},
+
 	[68297] = {"@Wasteland/Crate Before Quicksand/Crate"},
+	-- 3
 	[68298] = {"@Wasteland/Crate After Quicksand/Crates"},
 	[68299] = {"@Wasteland/Crate After Quicksand/Crates"},
 	[68300] = {"@Wasteland/Crate After Quicksand/Crates"},
+
 	[68301] = {"@Wasteland/Crate Near Colossus/Crate"},
 
 -- Desert Colosuss 
@@ -812,11 +931,13 @@ LOCATION_MAPPING = {
 	[67298] = {"@Colossus/Bean Patch/GS"},
 	[67299] = {"@Colossus/Tree/GS"},
 	[67300] = {"@Colossus/Hill/GS"},
+	-- 4
 	[69129] = {"@Colossus/Tree/Wonderitems"},
 	[69130] = {"@Colossus/Tree/Wonderitems"},
-	[69131] = {"@Colossus/Tree/Wonderitem Child"},
 	[69132] = {"@Colossus/Tree/Wonderitems"},
 	[69133] = {"@Colossus/Tree/Wonderitems"},
+
+	[69131] = {"@Colossus/Tree/Wonderitem Child"},
 	[67019] = {"@Colossus/Requiem/Sheik at Colossus"},
 
 -- Outside Ganons Castle 
@@ -838,9 +959,11 @@ LOCATION_MAPPING = {
 	[67312] = {"@Deku Tree/Basement Back Room/GS"},
 	[68303] = {"@Deku Tree/Lower Lobby/Recovery Heart"},
 	[68304] = {"@Deku Tree/Upper Lobby/Recovery Heart"},
+	-- 3
 	[68305] = {"@Deku Tree/Basement/Recovery Hearts"},
 	[68306] = {"@Deku Tree/Basement/Recovery Hearts"},
 	[68307] = {"@Deku Tree/Basement/Recovery Hearts"},
+
 	[67325] = {"@Deku Tree/Queen Gohma/Heart"},
 	[67001] = {"@Deku Tree/Queen Gohma/Reward"},
 
@@ -851,8 +974,10 @@ LOCATION_MAPPING = {
 	[67314] = {"@Deku TreeMQ/Slingshot Room/Chest"},
 	[67315] = {"@Deku TreeMQ/Slingshot Room/Back Chest"},
 	[68314] = {"@Deku TreeMQ/Slingshot Room/Recovery Heart"},
+	-- 2
 	[68316] = {"@Deku TreeMQ/Slingshot Room/Crates"},
 	[68317] = {"@Deku TreeMQ/Slingshot Room/Crates"},
+
 	[67316] = {"@Deku TreeMQ/Compass Room/Chest"},
 	[68310] = {"@Deku TreeMQ/Compass Room/Recovery Heart"},
 	[67322] = {"@Deku TreeMQ/Compass Room/GS"},
@@ -861,12 +986,15 @@ LOCATION_MAPPING = {
 	[67319] = {"@Deku TreeMQ/After Spinning Log/Chest"},
 	[67320] = {"@Deku TreeMQ/Basement Deku Scru/Item"},
 	[67323] = {"@Deku TreeMQ/Basement Graves/GS"},
+	-- 4
 	[69134] = {"@Deku TreeMQ/Basement Graves/Wonderitems"},
 	[69135] = {"@Deku TreeMQ/Basement Graves/Wonderitems"},
 	[69136] = {"@Deku TreeMQ/Basement Graves/Wonderitems"},
 	[69137] = {"@Deku TreeMQ/Basement Graves/Wonderitems"},
+
 	[67324] = {"@Deku TreeMQ/Basement Back Room/GS"},
 	[67317] = {"@Deku TreeMQ/Basement/Chest"},
+	-- 3
 	[68311] = {"@Deku TreeMQ/Gohma Basement/Recovery Hearts"},
 	[68312] = {"@Deku TreeMQ/Gohma Basement/Recovery Hearts"},
 	[68313] = {"@Deku TreeMQ/Gohma Basement/Recovery Hearts"},
@@ -875,50 +1003,66 @@ LOCATION_MAPPING = {
 -- Dodongos Cavern Vanilla and MQ 
 	[67326] = {"@Dodongos Cavern/Map/Chest"},
 	[67332] = {"@Dodongos Cavern/Deku Scrub Lobby/Item"},
+	-- 6
 	[68321] = {"@Dodongos Cavern/Right Side/Pots"},
 	[68322] = {"@Dodongos Cavern/Right Side/Pots"},
 	[68323] = {"@Dodongos Cavern/Right Side/Pots"},
 	[68324] = {"@Dodongos Cavern/Right Side/Pots"},
 	[68325] = {"@Dodongos Cavern/Right Side/Pots"},
 	[68326] = {"@Dodongos Cavern/Right Side/Pots"},
+
 	[67336] = {"@Dodongos Cavern/Alcove Right Side/GS Scarecrow"},
+	-- 4
 	[68327] = {"@Dodongos Cavern/Lower Lizalfos/Pots"},
 	[68328] = {"@Dodongos Cavern/Lower Lizalfos/Pots"},
 	[68329] = {"@Dodongos Cavern/Lower Lizalfos/Pots"},
 	[68330] = {"@Dodongos Cavern/Lower Lizalfos/Pots"},
+
 	[68402] = {"@Dodongos Cavern/Lower Lizalfos/Lava Hidden Recovery Heart"},
 	[67335] = {"@Dodongos Cavern/Bombable Wall Right Side/GS"},
+	-- 4
 	[68335] = {"@Dodongos Cavern/Staircase/Pots"},
 	[68336] = {"@Dodongos Cavern/Staircase/Pots"},
 	[68337] = {"@Dodongos Cavern/Staircase/Pots"},
 	[68338] = {"@Dodongos Cavern/Staircase/Pots"},
+
 	[67337] = {"@Dodongos Cavern/Staircase Alcove/GS"},
 	[67338] = {"@Dodongos Cavern/Staircase Vines/GS"},
+	-- 4
 	[68331] = {"@Dodongos Cavern/Torch Room/Pots/Pots"},
 	[68332] = {"@Dodongos Cavern/Torch Room/Pots/Pots"},
 	[68333] = {"@Dodongos Cavern/Torch Room/Pots/Pots"},
 	[68334] = {"@Dodongos Cavern/Torch Room/Pots/Pots"},
+
 	[67331] = {"@Dodongos Cavern/Torch Room Scrub/Deku Scrub"},
 	[67327] = {"@Dodongos Cavern/Compass/Chest"},
 	[67328] = {"@Dodongos Cavern/Bomb Flower Platform/Chest"},
+	-- 2
 	[68345] = {"@Dodongos Cavern/Single Eye Switch Room/Pots"},
 	[68346] = {"@Dodongos Cavern/Single Eye Switch Room/Pots"},
+	-- 2
 	[68318] = {"@Dodongos Cavern/Lizalfos Upper/Recovery Hearts"},
 	[68319] = {"@Dodongos Cavern/Lizalfos Upper/Recovery Hearts"},
+	-- 2
 	[68347] = {"@Dodongos Cavern/Double Eye Switch Room/Pots"},
 	[68348] = {"@Dodongos Cavern/Double Eye Switch Room/Pots"},
+
 	[68320] = {"@Dodongos Cavern/Blade Room Behind Block/Recovery Heart"},
+	-- 2
 	[68343] = {"@Dodongos Cavern/Blade Room/Pots"},
 	[68344] = {"@Dodongos Cavern/Blade Room/Pots"},
+
 	[67329] = {"@Dodongos Cavern/Bomb Bag Chest/Chest"},
 	[67333] = {"@Dodongos Cavern/Deku Scrub Near Bomb Bag/Left"},
 	[67334] = {"@Dodongos Cavern/Deku Scrub Near Bomb Bag/Right"},
 	[67330] = {"@Dodongos Cavern/End of Bridge Chest/Chest"},
 	[67339] = {"@Dodongos Cavern/Back Room/GS"},
+	-- 4
 	[68339] = {"@Dodongos Cavern/Last Block/Pots"},
 	[68340] = {"@Dodongos Cavern/Last Block/Pots"},
 	[68341] = {"@Dodongos Cavern/Last Block/Pots"},
 	[68342] = {"@Dodongos Cavern/Last Block/Pots"},
+
 	[67355] = {"@Dodongos Cavern/Before Boss Room/Chest"},
 	[67356] = {"@Dodongos Cavern/King Dodongo/Heart"},
 	[67002] = {"@Dodongos Cavern/King Dodongo/Reward"},
@@ -927,10 +1071,12 @@ LOCATION_MAPPING = {
 	[67346] = {"@Dodongos CavernMQ/Deku Scrub Lobby/Front"},
 	[67347] = {"@Dodongos CavernMQ/Deku Scrub Lobby/Rear"},
 	[67349] = {"@Dodongos CavernMQ/Staircase Scrub/Deku Scrub"},
+	-- 4
 	[68354] = {"@Dodongos CavernMQ/Staircase/Pots"},
 	[68355] = {"@Dodongos CavernMQ/Staircase/Pots"},
 	[68356] = {"@Dodongos CavernMQ/Staircase/Pots"},
 	[68357] = {"@Dodongos CavernMQ/Staircase/Pots"},
+
 	[68380] = {"@Dodongos CavernMQ/Staircase Crate BLeft/Crate"},
 	[68381] = {"@Dodongos CavernMQ/Staircase Crate BRight/Crate"},
 	[68382] = {"@Dodongos CavernMQ/Staircase Crate MLeft/Crate"},
@@ -946,34 +1092,45 @@ LOCATION_MAPPING = {
 	[67344] = {"@Dodongos CavernMQ/Torch Puzzle Room Lower/Compass Chest"},
 	[68349] = {"@Dodongos CavernMQ/Torch Puzzle Room Lower/Recovery Heart"},
 	[68372] = {"@Dodongos CavernMQ/Torch Puzzle Room Lower/Pot Pillar"},
+	-- 6
 	[68394] = {"@Dodongos CavernMQ/Larvae Room/Crates"},
 	[68395] = {"@Dodongos CavernMQ/Larvae Room/Crates"},
 	[68396] = {"@Dodongos CavernMQ/Larvae Room/Crates"},
 	[68397] = {"@Dodongos CavernMQ/Larvae Room/Crates"},
 	[68398] = {"@Dodongos CavernMQ/Larvae Room/Crates"},
 	[68399] = {"@Dodongos CavernMQ/Larvae Room/Crates"},
+
 	[67343] = {"@Dodongos CavernMQ/Larvae Room/Chest"},
 	[67351] = {"@Dodongos CavernMQ/Larvae Room/GS"},
+	-- 2
 	[68374] = {"@Dodongos CavernMQ/Before Upper Lizalfos/Pots"},
 	[68375] = {"@Dodongos CavernMQ/Before Upper Lizalfos/Pots"},
+	-- 4
 	[68358] = {"@Dodongos CavernMQ/Upper Lizalfos/Pots"},
 	[68359] = {"@Dodongos CavernMQ/Upper Lizalfos/Pots"},
 	[68360] = {"@Dodongos CavernMQ/Upper Lizalfos/Pots"},
 	[68361] = {"@Dodongos CavernMQ/Upper Lizalfos/Pots"},
+
 	[67352] = {"@Dodongos CavernMQ/Upper Lizalfos/GS"},
+	-- 2
 	[68376] = {"@Dodongos CavernMQ/After Upper Lizalfos/Pots"},
 	[68377] = {"@Dodongos CavernMQ/After Upper Lizalfos/Pots"},
+	-- 2
 	[68400] = {"@Dodongos CavernMQ/After Upper Lizalfos/Crates"},
 	[68401] = {"@Dodongos CavernMQ/After Upper Lizalfos/Crates"},
+
 	[68373] = {"@Dodongos CavernMQ/Torch Puzzle Room Upper/Pot Corner"},
+	-- 4
 	[68350] = {"@Dodongos CavernMQ/Right Side/Pots"},
 	[68351] = {"@Dodongos CavernMQ/Right Side/Pots"},
 	[68352] = {"@Dodongos CavernMQ/Right Side/Pots"},
 	[68353] = {"@Dodongos CavernMQ/Right Side/Pots"},
+	-- 4
 	[68362] = {"@Dodongos CavernMQ/Poes Room/Pots"},
 	[68363] = {"@Dodongos CavernMQ/Poes Room/Pots"},
 	[68364] = {"@Dodongos CavernMQ/Poes Room/Pots"},
 	[68365] = {"@Dodongos CavernMQ/Poes Room/Pots"},
+	-- 7
 	[68388] = {"@Dodongos CavernMQ/Poes Room/Crates"},
 	[68389] = {"@Dodongos CavernMQ/Poes Room/Crates"},
 	[68390] = {"@Dodongos CavernMQ/Poes Room/Crates"},
@@ -981,18 +1138,23 @@ LOCATION_MAPPING = {
 	[68386] = {"@Dodongos CavernMQ/Poes Room/Crates"},
 	[68387] = {"@Dodongos CavernMQ/Poes Room/Crates"},
 	[68393] = {"@Dodongos CavernMQ/Poes Room/Crates"},
+
 	[68392] = {"@Dodongos CavernMQ/Poes Room/Crate Near Bomb Flower"},
 	[67341] = {"@Dodongos CavernMQ/Bomb Bag Chest/Chest"},
 	[67348] = {"@Dodongos CavernMQ/Deku Scrub Side Room Near Lower Lizalfos/Deku Scrub"},
 	[67350] = {"@Dodongos CavernMQ/Deku Scrub Side Room Near Lower Lizalfos/GS"},
 	[67345] = {"@Dodongos CavernMQ/Under Grave Chest/Chest"},
 	[67354] = {"@Dodongos CavernMQ/Back Area/GS"},
+	-- 2
 	[68368] = {"@Dodongos CavernMQ/Armos Army Room/Upper Pots"},
 	[68369] = {"@Dodongos CavernMQ/Armos Army Room/Upper Pots"},
+	-- 2
 	[68370] = {"@Dodongos CavernMQ/Armos Army Room/Pots"},
 	[68371] = {"@Dodongos CavernMQ/Armos Army Room/Pots"},
+	-- 2
 	[68378] = {"@Dodongos CavernMQ/Back Poe Room/Pots"},
 	[68379] = {"@Dodongos CavernMQ/Back Poe Room/Pots"},
+	-- 2
 	[68366] = {"@Dodongos CavernMQ/Room Before Boss/Pots"},
 	[68367] = {"@Dodongos CavernMQ/Room Before Boss/Pots"},
 
@@ -1001,47 +1163,61 @@ LOCATION_MAPPING = {
 	[67361] = {"@Jabu Jabus Belly/Basement Water Switch/GS"},
 	[67362] = {"@Jabu Jabus Belly/Lobby Basement Lower/GS"},
 	[67363] = {"@Jabu Jabus Belly/Lobby Basement Upper/GS"},
+	-- 5
 	[68406] = {"@Jabu Jabus Belly/Basement 2 Octoroks/Pots"},
 	[68407] = {"@Jabu Jabus Belly/Basement 2 Octoroks/Pots"},
 	[68408] = {"@Jabu Jabus Belly/Basement 2 Octoroks/Pots"},
 	[68409] = {"@Jabu Jabus Belly/Basement 2 Octoroks/Pots"},
 	[68410] = {"@Jabu Jabus Belly/Basement 2 Octoroks/Pots"},
+	-- 3
 	[68411] = {"@Jabu Jabus Belly/Basement Switch Room/Pots"},
 	[68412] = {"@Jabu Jabus Belly/Basement Switch Room/Pots"},
 	[68413] = {"@Jabu Jabus Belly/Basement Switch Room/Pots"},
+
 	[67357] = {"@Jabu Jabus Belly/Boomerang Chest/Chest"},
 	[67358] = {"@Jabu Jabus Belly/Map/Chest"},
 	[67359] = {"@Jabu Jabus Belly/Compass/Chest"},
+	-- 3
 	[68403] = {"@Jabu Jabus Belly/Above Big Octo/Pots"},
 	[68404] = {"@Jabu Jabus Belly/Above Big Octo/Pots"},
 	[68405] = {"@Jabu Jabus Belly/Above Big Octo/Pots"},
+	-- 2
 	[68414] = {"@Jabu Jabus Belly/First Room/Small Wooden Crates"},
 	[68415] = {"@Jabu Jabus Belly/First Room/Small Wooden Crates"},
+
 	[67364] = {"@Jabu Jabus Belly/Near Boss/GS"},
+	-- 6
 	[68434] = {"@Jabu Jabus Belly/Barinade/Pots"},
 	[68435] = {"@Jabu Jabus Belly/Barinade/Pots"},
 	[68436] = {"@Jabu Jabus Belly/Barinade/Pots"},
 	[68437] = {"@Jabu Jabus Belly/Barinade/Pots"},
 	[68438] = {"@Jabu Jabus Belly/Barinade/Pots"},
 	[68439] = {"@Jabu Jabus Belly/Barinade/Pots"},
+
 	[67381] = {"@Jabu Jabus Belly/Barinade/Heart"},
 	[67003] = {"@Jabu Jabus Belly/Barinade/Reward"},
 
 	[67365] = {"@Jabu Jabus BellyMQ/Entryway/Map Chest"},
 	[69138] = {"@Jabu Jabus BellyMQ/Entryway/Left Cow/Wonderitem"},
 	[69139] = {"@Jabu Jabus BellyMQ/Entryway/Right Cow/Wonderitem"},
+	-- 2
 	[68421] = {"@Jabu Jabus BellyMQ/First Room/Pots"},
 	[68422] = {"@Jabu Jabus BellyMQ/First Room/Pots"},
+
 	[67366] = {"@Jabu Jabus BellyMQ/First Room/Side Chest"},
 	[67367] = {"@Jabu Jabus BellyMQ/Second Room/Lower Chest"},
 	[67368] = {"@Jabu Jabus BellyMQ/Elevator Room Compass/Compass Chest"},
+	-- 2
 	[68419] = {"@Jabu Jabus BellyMQ/Elevator Room Lower/Recovery Hearts"},
 	[68420] = {"@Jabu Jabus BellyMQ/Elevator Room Lower/Recovery Hearts"},
+	-- 3
 	[68416] = {"@Jabu Jabus BellyMQ/Elevator Room Lower/Underwater Green Rupees"},
 	[68417] = {"@Jabu Jabus BellyMQ/Elevator Room Lower/Underwater Green Rupees"},
 	[68418] = {"@Jabu Jabus BellyMQ/Elevator Room Lower/Underwater Green Rupees"},
+	-- 2
 	[68423] = {"@Jabu Jabus BellyMQ/Elevator Room Pots/Pots"},
-	[68424] = {"@Jabu Jabus BellyMQ/Elevator Room Pots//Pots"},
+	[68424] = {"@Jabu Jabus BellyMQ/Elevator Room Pots/Pots"},
+	
 	[69140] = {"@Jabu Jabus BellyMQ/Elevator Room/Cow/Cow Wonderitem"},
 	[67369] = {"@Jabu Jabus BellyMQ/Basement/Near Switches/Chest"},
 	[67370] = {"@Jabu Jabus BellyMQ/Basement/Near Vines/Chest"},
@@ -1125,18 +1301,18 @@ LOCATION_MAPPING = {
 	[67777] = {"@Bottom of the Well/Basement Silver Rupees/Ladders Bottom"},
 	[67778] = {"@Bottom of the Well/Basement Silver Rupees/Ladders Middle"},
 	[67779] = {"@Bottom of the Well/Basement Silver Rupees/Ladders Top"},
-	[68453] = {"@Bottom of the Well/Basement Pots"},
-	[68454] = {"@Bottom of the Well/Basement Pots"},
-	[68455] = {"@Bottom of the Well/Basement Pots"},
-	[68456] = {"@Bottom of the Well/Basement Pots"},
-	[68457] = {"@Bottom of the Well/Basement Pots"},
-	[68458] = {"@Bottom of the Well/Basement Pots"},
-	[68459] = {"@Bottom of the Well/Basement Pots"},
-	[68460] = {"@Bottom of the Well/Basement Pots"},
-	[68461] = {"@Bottom of the Well/Basement Pots"},
-	[68462] = {"@Bottom of the Well/Basement Pots"},
-	[68463] = {"@Bottom of the Well/Basement Pots"},
-	[68464] = {"@Bottom of the Well/Basement Pots"},
+	[68453] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68455] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68454] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68457] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68456] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68458] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68459] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68460] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68461] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68462] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68463] = {"@Bottom of the Well/Basement Pots/Pots"},
+	[68464] = {"@Bottom of the Well/Basement Pots/Pots"},
 
 	[69161] = {"@Bottom of the WellMQ/Main Area/Left Slingshot/Wonderitems"},
 	[69162] = {"@Bottom of the WellMQ/Main Area/Left Slingshot/Wonderitems"},
@@ -2008,7 +2184,7 @@ LOCATION_MAPPING = {
 	[67617] = {"@Ice CavernMQ/Before Iron Boots Ice Block/GS"},
 	[68957] = {"@Ice CavernMQ/Near End/Pots"},
 	[68958] = {"@Ice CavernMQ/Near End/Pots"},
-	[67615] = {"@Ice CavernMQ/Iron Boots Chest"},
+	[67615] = {"@Ice CavernMQ/Iron Boots/Chest"},
 
 -- Gerudo Training Ground Vanilla and MQ 
 	[67619] = {"@Gerudo Training Ground/Lobby Left/Chest"},
@@ -2075,7 +2251,7 @@ LOCATION_MAPPING = {
 	[67883] = {"@Gerudo Training GroundMQ/Lava Room Silver Rupee Back Left/Rupee"},
 	[67884] = {"@Gerudo Training GroundMQ/Lava Room Silver Rupee Back Center/Rupee"},
 	[67885] = {"@Gerudo Training GroundMQ/Lava Room Silver Rupee Back Right/Rupee"},
-	[67886] = {"@Gerudo Training GroundMQ/Underwater Silver Rupee Middle Rupee"},
+	[67886] = {"@Gerudo Training GroundMQ/Underwater Silver Rupee Middle/Rupee"},
 	[67887] = {"@Gerudo Training GroundMQ/Underwater Silver Rupee Front Right/Rupee"},
 	[67888] = {"@Gerudo Training GroundMQ/Underwater Silver Rupee Back Left/Rupee"},
 	[67652] = {"@Gerudo Training GroundMQ/Underwater Silver Rupee/Chest"},
@@ -2094,7 +2270,7 @@ LOCATION_MAPPING = {
 	[69216] = {"@Gerudo Training GroundMQ/Eye Statue Proximity/Wonderitem"},
 
 -- Inside Ganons Castle Vanilla and MQ 
-	[67658] = {"@Ganons Castle/Forest Trial Chest"},
+	[67658] = {"@Ganons Castle/Forest Trial Chest/Chest"},
 	[67904] = {"@Ganons Castle/Forest Trial Silver Rupee Front Left/Rupee"},
 	[67905] = {"@Ganons Castle/Forest Trial Silver Rupee Front Right/Rupee"},
 	[67906] = {"@Ganons Castle/Forest Trial Silver Rupee Center Left/Rupee"},

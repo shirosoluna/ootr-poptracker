@@ -123,7 +123,8 @@
                         "name": "Recovery Hearts",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [

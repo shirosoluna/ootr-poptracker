@@ -306,6 +306,12 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Cow",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -589,7 +595,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -614,7 +621,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -639,7 +647,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -664,7 +673,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -1032,7 +1042,8 @@
                         "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -1068,22 +1079,6 @@
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Impas House Cow",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Kak",
-                "x": 1640,
-                "y": 259,
-                "size": 6
             }
         ]
     }

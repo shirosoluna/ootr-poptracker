@@ -387,7 +387,8 @@
                         "name": "Green Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 6,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Red Rupee",
@@ -399,7 +400,8 @@
                         "name": "Recovery Hearts",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Beehive",

@@ -27,7 +27,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "clear_as_group": false,
+                        "item_count": 3
                     }
                 ],
                 "map_locations": [
@@ -267,7 +268,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "clear_as_group": false,
+                        "item_count": 3
                     }
                 ],
                 "map_locations": [
@@ -366,7 +368,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "clear_as_group": false,
+                        "item_count": 4
                     }
                 ],
                 "map_locations": [

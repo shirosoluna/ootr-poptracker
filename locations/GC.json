@@ -27,7 +27,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -66,19 +67,22 @@
                         "name": "Bomb Drops",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Rupee Drops",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     },
                     {
                         "name": "PoH Drop Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -405,7 +409,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -438,7 +443,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [

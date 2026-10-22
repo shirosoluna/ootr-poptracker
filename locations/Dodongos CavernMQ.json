@@ -447,7 +447,8 @@
                         "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 6,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Chest",
@@ -484,7 +485,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -509,7 +511,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     },
                     {
                         "name": "GS",
@@ -540,13 +543,15 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -596,7 +601,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -621,13 +627,15 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Crates",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 7,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Crate Near Bomb Flower",
@@ -764,13 +772,15 @@
                         "name": "Upper Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -795,7 +805,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -820,7 +831,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [

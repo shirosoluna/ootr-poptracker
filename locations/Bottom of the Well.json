@@ -581,23 +581,33 @@
                         "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
+            },
             {
                 "name": "Basement Pots",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Bottom of the Well",
-                "x": 465,
-                "y": 163,
-                "size": 10,
-                "shape": "rect"
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 12,
+                        "clear_as_group": false
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bottom of the Well",
+                        "x": ,
+                        "y": ,
+                        "size": 6,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }

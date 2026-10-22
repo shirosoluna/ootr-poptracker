@@ -171,7 +171,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "clear_as_group": false,
+                        "item_count": 4
                     }
                 ],
                 "map_locations": [
@@ -204,7 +205,8 @@
                         "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 10,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -223,36 +225,72 @@
                         "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Castle Torch Wonderitem 1",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
-                "name": "Castle Torch Wonderitem 2",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "HC",
-                "x": 945,
-                "y": 2368,
-                "size": 6,
-                "shape": "rect"
+                "name": "Castle Torch 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HC",
+                        "x": ,
+                        "y": ,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Castle",
+                        "x": ,
+                        "y": ,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
-                "map": "Hyrule Castle",
-                "x": 205,
-                "y": 99,
-                "size": 10,
-                "shape": "rect"
+                "name": "Castle Torch 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wonderitem",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "HC",
+                        "x": ,
+                        "y": ,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Hyrule Castle",
+                        "x": ,
+                        "y": ,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }

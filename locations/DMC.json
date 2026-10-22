@@ -253,7 +253,8 @@
                         "name": "Green Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 6,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Red Rupee",
@@ -285,13 +286,15 @@
                         "name": "Red Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     },
                     {
                         "name": "Blue Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 6,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -317,7 +320,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [

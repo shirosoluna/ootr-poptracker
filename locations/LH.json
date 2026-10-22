@@ -111,7 +111,8 @@
                         "name": "Dive Red Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -400,7 +401,8 @@
                         "name": "Rupee",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 2,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [

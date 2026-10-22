@@ -9,6 +9,39 @@
         ],
         "children": [
             {
+                "name": "Forest Trial Chest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ganons Castle",
+                        "x": ,
+                        "y": ,
+                        "size": 6,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "IGC Trials",
+                        "x": ,
+                        "y": ,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Forest Trial Silver Rupee Front Left",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -1576,30 +1609,6 @@
                         "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Forest Trial Chest",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Ganons Castle",
-                "x": 1167,
-                "y": 602,
-                "size": 6,
-                "shape": "rect"
-            },
-            {
-                "map": "IGC Trials",
-                "x": 650,
-                "y": 431,
-                "size": 10,
-                "shape": "rect"
             }
         ]
     }

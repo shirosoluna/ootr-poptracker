@@ -306,7 +306,8 @@
                         "name": "Red Rupees",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -356,7 +357,8 @@
                         "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -381,7 +383,8 @@
                         "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -406,7 +409,8 @@
                         "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -431,7 +435,8 @@
                         "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -456,7 +461,8 @@
                         "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 5,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -481,7 +487,8 @@
                         "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 6,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -506,7 +513,8 @@
                         "name": "Wonderitems",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 5,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [

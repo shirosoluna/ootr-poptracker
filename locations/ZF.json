@@ -88,6 +88,13 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Green Rupees",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 18,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -186,7 +193,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 3,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
@@ -252,7 +260,8 @@
                         "name": "Pots",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 4,
+                        "clear_as_group": false
                     }
                 ],
                 "map_locations": [
