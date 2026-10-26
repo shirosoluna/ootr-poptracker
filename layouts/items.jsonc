@@ -14,58 +14,79 @@
           "item_width": 32,
           "rows": [
             [
-              "ChildTrade",
-              "ProgressiveWallet",
-              "KokiriSword",
+              "Magic",
+              "ButterKnife",
               "MasterSword",
               "BiggoronSword",
-              "DekuStick",
-              "DekuNuts",
-              "Bombs",
+              "Stick",
+              "Nut",
+              "BombBag",
               "Bow",
               "FireArrows",
-              "DinsFire"
+              "Dins"
             ],
             [
-              "AdultTrade",
-              "RutosLetter",
-              // "ZeldasLetter",
+              "Strength",
               "DekuShield",
               "HylianShield",
-              "MirrorShield",
+              "MS",
               "Slingshot",
-              "Ocarina",
+              "Ocarinas",
               "Bombchus",
-              "ProgressiveHookshot",
+              "Hookshots",
               "IceArrows",
-              "FaroresWind"
+              "Farores"
             ],
             [
-              "StoneofAgony",
-              "ProgressiveStrengthUpgrade",
-              "",
-              // "ClaimCheck",
+              "Scales",
+              "KokiriTunic",
               "GoronTunic",
               "ZoraTunic",
               "Boomerang",
-              "LensofTruth",
-              "MagicBean",
-              "MegatonHammer",
+              "Lens",
+              "Beans",
+              "Hammer",
               "LightArrows",
-              "NayrusLove"
+              "Nayrus"
             ],
             [
-              "GerudoMembershipCard",
-              "ProgressiveScale",
+              "Wallet",
+              "KokiriBoots",
               "IronBoots",
               "HoverBoots",
-              "MaskofTruth",
-              "SkullMask",
-              "Bottle",
-              "GoldSkulltulaToken",
-              "TriforcePiece",
-              "BottlewithBigPoe",
-              "IceTrap"
+              "BottleSlot1",
+              "BottleSlot2",
+              "BottleSlot3",
+              "BottleSlot4",
+              "ChildTrade",
+              "AdultTrade"
+            ],
+            [
+              ""
+            ],
+            [
+              "Emerald",
+              "Ruby",
+              "Sapphire",
+              "",
+              "LightMed",
+              "ShadowMed",
+              "SpiritMed",
+              "ForestMed",
+              "FireMed",
+              "WaterMed"
+            ],
+            [
+              "Dungeons",
+              "Dungeons",
+              "Dungeons",
+              "",
+              "Dungeons",
+              "Dungeons",
+              "Dungeons",
+              "Dungeons",
+              "Dungeons",
+              "Dungeons"
             ]
           ]
         }

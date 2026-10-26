@@ -30,7 +30,7 @@
     {
         "name": "Nut",
         "type": "toggle",
-        "img": "images/items/Nut.png",
+        "img": "images/items/Nuts.png",
         "img_mods": "",
         "codes": "Nut"
     },
@@ -47,6 +47,13 @@
         "img": "images/items/Bow.png",
         "img_mods": "",
         "codes": "Bow"
+    },
+    {
+        "name": "Slingshot",
+        "type": "toggle",
+        "img": "images/items/Slingshot.png",
+        "img_mods": "",
+        "codes": "Slingshot"
     },
     {
         "name": "RutosLetter",
@@ -135,6 +142,34 @@
         ]
     },
     {
+        "name": "KokiriTunic",
+        "type": "static",
+        "img": "images/items/KokiriTunic.png",
+        "img_mods": "",
+        "codes": "KokiriTunic"
+    },
+    {
+        "name": "KokiriBoots",
+        "type": "static",
+        "img": "images/items/KokiriBoots.png",
+        "img_mods": "",
+        "codes": "KokiriBoots"
+    },
+    {
+        "name": "GoronTunic",
+        "type": "toggle",
+        "img": "images/items/GoronTunic.png",
+        "img_mods": "",
+        "codes": "GoronTunic"
+    },
+    {
+        "name": "ZoraTunic",
+        "type": "toggle",
+        "img": "images/items/ZoraTunic.png",
+        "img_mods": "",
+        "codes": "ZoraTunic"
+    },
+    {
         "name": "IronBoots",
         "type": "toggle",
         "img": "images/items/IronBoots.png",
@@ -179,6 +214,22 @@
         ]
     },
     {
+        "name": "Magic",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "SmallMagic",
+                "img": "images/items/SmallMagic.png",
+                "codes": "SmallMagic, Magic"
+            },
+            {
+                "name": "BigMagic",
+                "img": "images/items/BigMagic.png",
+                "codes": "BigMagic, Magic"
+            }
+        ]
+    },
+    {
         "name": "Scales",
         "type": "progressive_toggle",
         "stages": [
@@ -194,6 +245,23 @@
             }
         ]
     },
+    {
+        "name": "Ocarinas",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "FairyOcarina",
+                "img": "images/items/FairyOcarina.png",
+                "codes": "FairyOcarina, Ocarinas"
+            },
+            {
+                "name": "OoT",
+                "img": "images/items/OoT.png",
+                "codes": "OoT, Ocarinas"
+            }
+        ]
+    },
+
     {
         "name": "Wallets",
         "type": "progressive_toggle",
@@ -251,25 +319,18 @@
         "codes": "LightArrows"
     },
     {
-        "name": "FIArrows",
-        "type": "progressive_toggle",
-        "stages": [
-            {
-                "name": "FireArrows",
-                "img": "images/items/FireArrows.png",
-                "codes": "FArrows, FIArrows"
-            },
-            {
-                "name": "IceArrows",
-                "img": "images/items/IceArrows.png",
-                "codes": "IArrows, FIArrows"
-            },
-            {
-                "name": "FIArrows",
-                "img": "images/items/FIArrows.png",
-                "codes": "FIArrows, FIArrows"
-            }
-        ]
+        "name": "Fire Arrows",
+        "type": "toggle",
+        "img": "images/items/FireArrows.png",
+        "img_mods": "",
+        "codes": "FireArrows"
+    },
+    {
+        "name": "Ice Arrows",
+        "type": "toggle",
+        "img": "images/items/IceArrows.png",
+        "img_mods": "",
+        "codes": "IceArrows"
     },
     {
             "name": "FairySpells",
@@ -293,58 +354,267 @@
             ]
     },
     {
-        "name": "Bottles",
+        "name": "BottleSlot1",
         "type": "progressive_toggle",
         "stages": [
             {
                 "name": "EmptyBottle",
                 "img": "images/items/EmptyBottle.png",
-                "codes": "EmptyBottle, Bottles"
+                "codes": "EmptyBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "BugBottle",
                 "img": "images/items/BugBottle.png",
-                "codes": "BugBottle, Bottles"
+                "codes": "BugBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "FishBottle",
                 "img": "images/items/FishBottle.png",
-                "codes": "FishBottle, Bottles"
+                "codes": "FishBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "BlueFireBottle",
                 "img": "images/items/BlueFireBottle.png",
-                "codes": "BlueFireBottle, Bottles"
+                "codes": "BlueFireBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "FairyBottle",
                 "img": "images/items/FairyBottle.png",
-                "codes": "FairyBottle, Bottles"
+                "codes": "FairyBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "GreenBottle",
                 "img": "images/items/GreenPotionBottle.png",
-                "codes": "GreenBottle, Bottles"
+                "codes": "GreenBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "RedBottle",
                 "img": "images/items/RedPotionBottle.png",
-                "codes": "RedBottle, Bottles"
+                "codes": "RedBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "BlueBottle",
                 "img": "images/items/BluePotionBottle.png",
-                "codes": "BlueBottle, Bottles"
+                "codes": "BlueBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "PoeBottle",
                 "img": "images/items/PoeBottle.png",
-                "codes": "PoeBottle, Bottles"
+                "codes": "PoeBottle, BottleSlot1",
+                "inherit_codes": false
             },
             {
                 "name": "BigPoeBottle",
                 "img": "images/items/BigPoeBottle.png",
-                "codes": "BigPoeBottle, Bottles"
+                "codes": "BigPoeBottle, BottleSlot1",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "BottleSlot2",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "EmptyBottle",
+                "img": "images/items/EmptyBottle.png",
+                "codes": "EmptyBottle, BottleSlot2",
+                "inherit_codes": false
+            },
+            {
+                "name": "BugBottle",
+                "img": "images/items/BugBottle.png",
+                "codes": "BugBottle, BottleSlot2",
+                "inherit_codes": false
+            },
+            {
+                "name": "FishBottle",
+                "img": "images/items/FishBottle.png",
+                "codes": "FishBottle, BottleSlot2",
+                "inherit_codes": false
+            },
+            {
+                "name": "BlueFireBottle",
+                "img": "images/items/BlueFireBottle.png",
+                "codes": "BlueFireBottle, BottleSlot2",
+                "inherit_codes": false
+            },
+            {
+                "name": "FairyBottle",
+                "img": "images/items/FairyBottle.png",
+                "codes": "FairyBottle, BottleSlot2",
+                "inherit_codes": false
+            },
+            {
+                "name": "GreenBottle",
+                "img": "images/items/GreenPotionBottle.png",
+                "codes": "GreenBottle, BottleSlot2",
+                "inherit_codes": false
+
+            },
+            {
+                "name": "RedBottle",
+                "img": "images/items/RedPotionBottle.png",
+                "codes": "RedBottle, BottleSlot2",
+                "inherit_codes": false
+            },
+            {
+                "name": "BlueBottle",
+                "img": "images/items/BluePotionBottle.png",
+                "codes": "BlueBottle, BottleSlot2",
+                "inherit_codes": false
+            },
+            {
+                "name": "PoeBottle",
+                "img": "images/items/PoeBottle.png",
+                "codes": "PoeBottle, BottleSlot2",
+                "inherit_codes": false
+            },
+            {
+                "name": "BigPoeBottle",
+                "img": "images/items/BigPoeBottle.png",
+                "codes": "BigPoeBottle, BottleSlot2",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "BottleSlot3",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "EmptyBottle",
+                "img": "images/items/EmptyBottle.png",
+                "codes": "EmptyBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "BugBottle",
+                "img": "images/items/BugBottle.png",
+                "codes": "BugBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "FishBottle",
+                "img": "images/items/FishBottle.png",
+                "codes": "FishBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "BlueFireBottle",
+                "img": "images/items/BlueFireBottle.png",
+                "codes": "BlueFireBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "FairyBottle",
+                "img": "images/items/FairyBottle.png",
+                "codes": "FairyBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "GreenBottle",
+                "img": "images/items/GreenPotionBottle.png",
+                "codes": "GreenBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "RedBottle",
+                "img": "images/items/RedPotionBottle.png",
+                "codes": "RedBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "BlueBottle",
+                "img": "images/items/BluePotionBottle.png",
+                "codes": "BlueBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "PoeBottle",
+                "img": "images/items/PoeBottle.png",
+                "codes": "PoeBottle, BottleSlot3",
+                "inherit_codes": false
+            },
+            {
+                "name": "BigPoeBottle",
+                "img": "images/items/BigPoeBottle.png",
+                "codes": "BigPoeBottle, BottleSlot3",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "BottleSlot4",
+        "type": "progressive_toggle",
+        "stages": [
+            {
+                "name": "EmptyBottle",
+                "img": "images/items/EmptyBottle.png",
+                "codes": "EmptyBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "BugBottle",
+                "img": "images/items/BugBottle.png",
+                "codes": "BugBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "FishBottle",
+                "img": "images/items/FishBottle.png",
+                "codes": "FishBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "BlueFireBottle",
+                "img": "images/items/BlueFireBottle.png",
+                "codes": "BlueFireBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "FairyBottle",
+                "img": "images/items/FairyBottle.png",
+                "codes": "FairyBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "GreenBottle",
+                "img": "images/items/GreenPotionBottle.png",
+                "codes": "GreenBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "RedBottle",
+                "img": "images/items/RedPotionBottle.png",
+                "codes": "RedBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "BlueBottle",
+                "img": "images/items/BluePotionBottle.png",
+                "codes": "BlueBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "PoeBottle",
+                "img": "images/items/PoeBottle.png",
+                "codes": "PoeBottle, BottleSlot4",
+                "inherit_codes": false
+            },
+            {
+                "name": "BigPoeBottle",
+                "img": "images/items/BigPoeBottle.png",
+                "codes": "BigPoeBottle, BottleSlot4",
+                "inherit_codes": false
             }
         ]
     },
@@ -355,52 +625,62 @@
             {
                 "name": "WeirdEgg",
                 "img": "images/items/WeirdEgg.png",
-                "codes": "WeirdEgg, ChildTrade"
+                "codes": "WeirdEgg, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "ChildCucco",
                 "img": "images/items/ChildCucco.png",
-                "codes": "ChildCucco, ChildTrade"
+                "codes": "ChildCucco, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "ZeldasLetter",
                 "img": "images/items/ZeldasLetter.png",
-                "codes": "ZeldasLetter, ChildTrade"
+                "codes": "ZeldasLetter, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "KeatonMask",
                 "img": "images/items/KeatonMask.png",
-                "codes": "KeatonMask, ChildTrade"
+                "codes": "KeatonMask, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "SkullMask",
                 "img": "images/items/SkullMask.png",
-                "codes": "SkullMask, ChildTrade"
+                "codes": "SkullMask, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "GerudoMask",
                 "img": "images/items/GerudoMask.png",
-                "codes": "GerudoMask, ChildTrade"
+                "codes": "GerudoMask, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "ZoraMask",
                 "img": "images/items/ZoraMask.png",
-                "codes": "ZoraMask, ChildTrade"
+                "codes": "ZoraMask, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "GoronMask",
                 "img": "images/items/GoronMask.png",
-                "codes": "GoronMask, ChildTrade"
+                "codes": "GoronMask, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "BunnyHood",
                 "img": "images/items/BunnyHood.png",
-                "codes": "BunnyHood, ChildTrade"
+                "codes": "BunnyHood, ChildTrade",
+                "inherit_codes": false
             },
             {
                 "name": "MaskofTruth",
                 "img": "images/items/MoT.png",
-                "codes": "MoT, ChildTrade"
+                "codes": "MoT, ChildTrade",
+                "inherit_codes": false
             }
         ]
     },
@@ -564,7 +844,7 @@
         "codes": "ClosedChest"
     },
     {
-        "name": "KokiriEmerald",
+        "name": "Kokiri Emerald",
         "type": "toggle",
         "img": "images/items/Emerald.png",
         "img_mods": "",
@@ -625,5 +905,177 @@
         "img": "images/items/LightMed.png",
         "img_mods": "",
         "codes": "LightMed"
+    },
+    {
+        "name": "Dungeons",
+        "type": "progressive_toggle",
+        "loop": true,
+        "initial_active_state": true,
+        "stages": [
+        {
+            "name": "Deku Tree",
+            "img": "/images/overlays/Dek.png",
+            "codes": "Dek, Dungeons"
+        },
+        {
+            "name": "Dodongos Cavern",
+            "img": "/images/overlays/DC.png",
+            "codes": "DC, Dungeons"
+        },
+        {
+            "name": "JabuJabu Belly",
+            "img": "/images/overlays/JJ.png",
+            "codes": "JJ, Dungeons"
+        },
+        {
+            "name": "Forest Temple",
+            "img": "/images/overlays/For.png",
+            "codes": "For, Dungeons"
+        },
+        {
+            "name": "Fire Temple",
+            "img": "/images/overlays/Fire.png",
+            "codes": "Fir, Dungeons"
+        },
+        {
+            "name": "Water Temple",
+            "img": "/images/overlays/Wate.png",
+            "codes": "Wat, Dungeons"
+        },
+        {
+            "name": "Shadow Temple",
+            "img": "/images/overlays/Sha.png",
+            "codes": "Sha, Dungeons"
+        },
+        {
+            "name": "Spirit Temple",
+            "img": "/images/overlays/Spi.png",
+            "codes": "Spi, Dungeons"
+        }
+    ]
+    },
+    {
+        "name": "Small Key (TSC)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/TSC sk.png",
+        "img_mods": "",
+        "codes": "TSC SK"
+    },
+    {
+        "name": "Small Key (BotW)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/botw sk.png",
+        "img_mods": "",
+        "codes": "BoTW SK"
+    },
+    {
+        "name": "Small Key (GTG)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 9,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/GTG sk.png",
+        "img_mods": "",
+        "codes": "GTG SK"
+    },
+    {
+        "name": "Small Key (Forest)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/forest sk.png",
+        "img_mods": "",
+        "codes": "Forest SK"
+    },
+    {
+        "name": "Small Key (Fire)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 8,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/fire sk.png",
+        "img_mods": "",
+        "codes": "Fire SK"
+    },
+    {
+        "name": "Small Key (Water)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/water sk.png",
+        "img_mods": "",
+        "codes": "Water SK"
+    },
+    {
+        "name": "Small Key (Shadow)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/shadow sk.png",
+        "img_mods": "",
+        "codes": "Shadow SK"
+    },
+    {
+        "name": "Small Key (Spirit)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/spirit sk.png",
+        "img_mods": "",
+        "codes": "Spirit SK"
+    },
+    {
+        "name": "Small Key (Ganons)",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/ganon sk.png",
+        "img_mods": "",
+        "codes": "Ganon SK"
+    },
+    {
+        "name": "Wallet",
+        "type": "toggle",
+        "img": "images/items/AdultWallet.png",
+        "img_mods": "",
+        "codes": "Wallet"
+    },
+    {
+        "name": "HeartContainer",
+        "type": "consumable",
+        "img": "images/items/HC.png",
+        "img_mods": "",
+        "max_quantity": 9,
+        "overlay_font_size": 12,
+        "codes": "HC"
+    },
+    {
+        "name": "HeartPiece",
+        "type": "consumable",
+        "img": "images/items/HP.png",
+        "img_mods": "",
+        "max_quantity": 36,
+        "overlay_font_size": 12,
+        "codes": "HP"
     }
 ]
